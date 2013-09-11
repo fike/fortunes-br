@@ -1,0 +1,19 @@
+Source: fortunes-br
+Section: games
+Priority: optional
+Maintainer: Fernando Ike de Oliveira <fike@midstorm.org>
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: fortune-mod
+Standards-Version: 3.9.4
+Homepage: http://github.com/fike/fortunes-br
+Vcs-Git: git://github.com/fike/fortunes-br.git
+Vcs-Browser: http://github.com/fike/fortunes-br.git
+
+Package: fortunes-br
+Architecture: all
+Depends: fortune-mod (>= 9708-12), ${misc:Depends}
+Provides: fortune-cookie-db
+Description: Data files with fortune cookies in Portuguese
+ A collection of several fortune cookies for Portuguese speakers, gathered
+ from various sources, ranging from proverbs to quotations from literature
+ classics.

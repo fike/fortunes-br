@@ -1,0 +1,12 @@
+--------------------
+FORTUNES-BR
+--------------------
+
+Você pode obter a última versão desse fortunes do endereço:
+
+http://www.metainfo.org/frases/brasil
+
+para usá-lo basta copiar o arquivo para o diretório /usr/share/games/fortunes e execute
+o seguinte comando:
+
+	strfile brasil

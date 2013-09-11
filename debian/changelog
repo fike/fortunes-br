@@ -1,0 +1,102 @@
+fortunes-br (20130911) unstable; urgency=low
+
+  * New maintainer (Closes: #698278).
+
+  * debian/control: 
+    - bumped Standards-Version to 3.9.4.
+    - updated Debian Mantainer.
+    - removed CDBS to build.
+    - added fields: Homepage, Vcs-git and Vcs-Browsers.
+  * debian/compat:
+    - updated to 9
+  * debian/copyright
+    - fix it license link to /usr/share/common-licenses/GPL-2.
+    - added new homepage host.
+  * debian/docs 
+    - created docs file.
+
+ -- Fernando Ike de Oliveira <fike@midstorm.org>  Wed, 11 Sep 2013 10:30:33 -0300
+
+fortunes-br (20080530) unstable; urgency=low
+
+  * brasil:
+    - fixed spelling and syntax problems;
+    - removed reference to contributions website until it is back up;
+    - applied patch from Nelson A. de Oliveira <naoliv@debian.org> for
+      some further review (Closes: #407770).
+
+  * debian/control:
+    - bumped Standards-Version to 3.7.3;
+    - improved both short and long descriptions (Closes: #209664).
+
+ -- Guilherme de S. Pastore <gpastore@debian.org>  Fri, 30 May 2008 13:00:00 -0300
+
+fortunes-br (20061004) unstable; urgency=low
+
+  * New maintainer.
+
+  * brasil:
+    - converted to UTF-8;
+    - replaced some html-like notation (Closes: #291421).
+  
+  * debian/compat: created, version 4.
+  * debian/control:
+    - bumped Standards-Version to 3.7.2;
+    - added build-deps on cdbs and debhelper;
+    - dropped build-dep-indep on debmake (Closes: #372989).
+  * debian/copyright: updated and fixed.
+  * debian/fortunes-br.install: created.
+  * debian/rules: moved to CDBS, cleaned up and fixed.
+
+ -- Guilherme de S. Pastore <gpastore@debian.org>  Thu,  5 Oct 2006 13:55:22 -0300
+
+fortunes-br (20011121-2) unstable; urgency=low
+
+  * Added debmake and fortune-mod to the build dependencies  (closes: #154979)
+  * Translated spanish cookie and fixed author's name (closes: #154979)
+
+ -- Eduardo Marcel Macan <macan@debian.org>  Mon, 14 Jul 2003 19:21:24 -0300
+
+fortunes-br (20011121-1) unstable; urgency=low
+
+  * NMU
+  * debian/control: minor speling fix (Closes: #124630)
+
+ -- Gustavo Noronha Silva <kov@debian.org>  Wed,  2 Jan 2002 14:04:29 -0200
+
+fortunes-br (20011121) unstable; urgency=low
+
+  * NMU (Eduardo asked me to take care of this while he's away)
+  * brasil: Added a new fortune cookie from Henrique de Moraes
+    Holschuh (Closes: #120108)
+  * debian/control: updated to policy 3.5.6
+  * debian/README.Debian: removed redundant file
+
+ -- Gustavo Noronha Silva <kov@debian.org>  Wed, 21 Nov 2001 21:45:48 -0200
+
+fortunes-br (20001107) unstable; urgency=low
+
+  * A much increased fortune database, filled the README, copyright and assorted files, thanks to dockov@zaz.com.br
+
+ -- Eduardo Marcel Macan <macan@colband.com.br>  Tue,  7 Nov 2000 17:26:15 -0200
+
+fortunes-br (20001103) unstable; urgency=low
+
+  * New version of fortunes database
+
+ -- Eduardo Marcel Macan <macan@colband.com.br>  Fri,  3 Nov 2000 03:28:03 -0200
+
+fortunes-br (20001030-2) unstable; urgency=low
+
+  * Fixed dependencies
+  * The .dat file is now built correctly
+
+ -- Eduardo Marcel Macan <macan@colband.com.br>  Mon, 30 Oct 2000 17:49:02 -0200
+
+fortunes-br (20001030-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Eduardo Marcel Macan <macan@colband.com.br>  Mon, 30 Oct 2000 17:44:40 -0200
+
+

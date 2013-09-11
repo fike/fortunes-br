@@ -1,0 +1,15 @@
+O que é o fortune?
+           Fortune é um programa clássico que apresenta frases aleatoriamente, muito usado por
+           screensavers ou por scripts de login/logout para deixar uma mensagem
+           bem-humorada para o usuário :)
+
+           Nosso objetivo é montar um arquivo de frases divertidas em português, segundo a
+           licença GPL para ser integrado ao Debian GNU/Linux (e por qualquer outra
+           distribuição de GNU/Linux que se interesse).
+
+           Para dar sua contribuição vá ao site http://www.metainfo.org/frases, digite uma
+           frase ou piada curta na caixa abaixo, no caso de citações em que você tenha certeza
+           da fonte, pule uma linha em branco e credite o autor, começando a linha por '--' e
+           colocando o nome do autor da frase. No caso de citações sem a certeza da fonte,
+           preferimos que apenas a citação seja entrada, sem referência incerta ao autor,
+           afinal melhor não informar do que informar errado :) .

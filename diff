@@ -1,0 +1,5821 @@
+--- brasil.old	2006-10-05 13:52:13.000000000 -0300
++++ brasil	2007-01-21 02:59:22.000000000 -0200
+@@ -29,7 +29,6 @@
+ 
+       - Já não sei. Uns dizem que é terçol, outros, um
+         tal de pleonasmo.
+-
+ %
+ Vicente Matheus estava discutindo a programação
+ de treinos da semana e pede ao seu auxiliar:
+@@ -44,11 +43,10 @@
+       E o presidente corintiano decide:
+ 
+       - Marca para quinta-feira.
+-
+ %
+ System halted!
+ %
+-Dizem que um americano e  um francês pegaram um táxi no aeroporto do Rio
++Dizem que um americano e um francês pegaram um táxi no aeroporto do Rio
+ de Janeiro. Enquanto o motorista seguia para o hotel, o francês comentava
+ que os franceses eram incríveis, que haviam construído a Torre Eiffel
+ em apenas um mês.
+@@ -58,7 +56,7 @@
+    - Isso não é nada! Nós construímos a estátua da
+      Liberdade em apenas uma semana.
+ 
+-Nesse momento, o táxi passava perto do Maracanã e os gringos, supresos
++Nesse momento, o táxi passava perto do Maracanã e os gringos, surpresos
+ com o tamanho do estádio, perguntam ao motorista:
+ 
+    - O que é isto?
+@@ -92,7 +90,6 @@
+  história do futebol brasileiro, o placar foi 24
+  x 0 contra o Mangueira, pelo Campeonato Carioca,
+  em 30 de maio de 1909.
+-
+ %
+ O primeiro time
+ 
+@@ -113,7 +110,6 @@
+  Vitória nasceu como um clube de críquete e o
+  Flamengo surgiu como um clube de remo, e somente
+  em 1911 formou sua primeira equipe de futebol.
+-
+ %
+ VICENTE MATHEUS
+ 
+@@ -146,7 +142,7 @@
+ %
+ "Jogador é o Didi, que joga como quem chupa laranja."
+ 
+---Neném Prancha, treinador e filósofo do futebol brasileiro. 
++--Neném Prancha, treinador e filósofo do futebol brasileiro.
+ %
+ O importante é o principal, o resto é secundário.
+ %
+@@ -176,27 +172,24 @@
+ %
+ "Estamos preparados para um evento nunca visto que pode ou não acontecer."
+ 
+---Dan Quayle, ex-vice-presidente americano 
++--Dan Quayle, ex-vice-presidente americano
+ %
+ "A perda das vidas será irreversível."
+ 
+---Dan Quayle , ex-vie-presidente americano
++--Dan Quayle, ex-vice-presidente americano
+ %
+ Emacs, não só um estilo de vida mas um completo desperdício de espaço em disco (Alan Cox)
+-
+ %
+ "O casamento é o preço que os homens pagam pelo sexo; o sexo é o preço que as
+ mulheres pagam pelo casamento."
+ %
+ "O fardo do casamento é tão pesado que precisa de dois para carregá-lo, às vezes, três."
+-
+ %
+ "Sexo antes do casamento? Sou a favor, desde que não atrase a cerimônia!"
+-
+ %
+ Não tenho vícios. Só bebo e fumo quando eu jogo.
+ %
+-Amigo não tem defeito; inimigo, se não tiver, eu ponho
++Amigo não tem defeito; inimigo, se não tiver, eu ponho.
+ %
+ Inglês eu não sei, mais em portuguêz eu çou féra.
+ %
+@@ -230,14 +223,12 @@
+ %
+ O bom de usar dentadura é poder escovar os dentes e cantar.
+ %
+-Quanto maior o desafio, maior a glória de supera-lo!
++Quanto maior o desafio, maior a glória de superá-lo!
+ %
+ "Deus está morto." (Nietzche)
+ 
+ "Nietzche está morto." (Deus)
+ %
+-Canela: Dispositivo usado para achar móveis no escuro.
+-%
+ Pinte os cabelos de preto para os encontros amorosos e de branco para as reuniões de negócios.
+ %
+ Não funcionou da primeira vez? Desista de pular de pára-quedas.
+@@ -249,7 +240,7 @@
+ Eu não posso atender o telefone agora, então se, bem, realmente, eu posso
+ atender agora, digo, estou no telefone agora, gravando esta mensagem, mas
+ estou fazendo isso agora, enquanto você está ouvindo depois, com exceção
+-de você eu acho que é agora, como, quando você estiver ouvindo isso..., 
++de você eu acho que é agora, como, quando você estiver ouvindo isso...,
+ digo, espere, meu Deus! Isso é tão confuso.
+ %
+ ################### <-- Arranhe aqui e veja o seu prêmio.
+@@ -268,12 +259,11 @@
+ %
+ Toda partícula que voa sempre encontra um olho.
+ %
+-"É mais fácil reconciliar a Europa inteira do que duas mulheres." 
+-          
+---Louis XIV, rei francês (1643-1715)
++"É mais fácil reconciliar a Europa inteira do que duas mulheres."
+ 
++--Louis XIV, rei francês (1643-1715)
+ %
+-Voce ouviu falar do cara que morreu do reumatologista?
++Você ouviu falar do cara que morreu do reumatologista?
+ 
+ O cara tinha uma loja e acusou um médico por um crime grave. Aí o
+ Reumatolojista.
+@@ -283,14 +273,13 @@
+ Ele estava olhando pela janela com a cabeça do lado de fora quando
+ agradeceu.
+ %
+-Ouviu falar sobre o cara que morreu por causa de uma mamadeira? 
++Ouviu falar sobre o cara que morreu por causa de uma mamadeira?
+ 
+ Ele estava passando por baixo de uma construção quando caiu umamadeira
+ %
+-Ouviu falar sobre o cara que morreu por causa de um bom dia? 
++Ouviu falar sobre o cara que morreu por causa de um bom dia?
+ 
+ Ao atravessar a linha do bonde ele achou que bonde vinha, mas o bom dia.
+-
+ %
+ Ouviu falar sobre o cara que morreu de latinha?
+ 
+@@ -304,15 +293,14 @@
+ %
+ Porque quando perdemos algo e pedimos ajuda a alguém, a pessoa sempre pergunta: "Onde você perdeu?"
+ %
+-Toda a idéia revolucionaria provoca três estágios:
++Toda a idéia revolucionária provoca três estágios:
+          1. 'é impossível - não perca meu tempo.'
+          2. 'é possível mas não vale o esforço'
+-         3. 'eu sempre disse que era uma boa idéiá 
+-
++         3. 'eu sempre disse que era uma boa idéia'
+ %
+ Não pude me controlar. Eles eram tão grandes, arredondados, firmes e bonitos
+ que eu tive que tocá-los. Aí ela começou a gritar: 'Meus olhos!, Meus olhos!',
+-e quebrou todo o clima. 
++e quebrou todo o clima.
+ %
+ Diplomata: um cara que manda você ir pro inferno de tal maneira que você fica
+ ansioso para começar a viagem.
+@@ -348,33 +336,33 @@
+ -- Chapolim
+ %
+ É mais fácil um camelo passar por um buraco de agulha do que encontrarmos
+-um ditado bíblico razoável 
++um ditado bíblico razoável
+ %
+-A Amazônia, pulmão do mundo, está doente. E não vai ser mole tirar a chapa 
++A Amazônia, pulmão do mundo, está doente. E não vai ser mole tirar a chapa
+ %
+ O primeiro sentimento de quem está de dieta é o de revolta. Dá vontade de
+-acabar com tudo, a começar pelo que tem na geladeira 
++acabar com tudo, a começar pelo que tem na geladeira
+ %
+-Devo, não pago. Nego enquanto puder 
++Devo, não pago. Nego enquanto puder
+ %
+ As crianças de hoje não são como as de antigamente. As de antigamente
+-cresceram e hoje são adultas 
++cresceram e hoje são adultas
+ %
+ João Gilberto só concordou em nascer depois que os médicos diminuiram a luz
+-e desligaram o ar condicionado da sala de cirurgia 
++e desligaram o ar condicionado da sala de cirurgia
+ %
+-Se chiar resolvesse, sal de fruta não morria afogado 
++Se chiar resolvesse, sal de fruta não morria afogado
+ %
+ O cachorro abana o rabo porque o rabo, enquanto segmento discriminado do
+-corpo da sociedade, ainda não conquistou o direito de abanar o cachorro 
++corpo da sociedade, ainda não conquistou o direito de abanar o cachorro
+ %
+-Doa a quem doer, o fato é que violência machuca 
++Doa a quem doer, o fato é que violência machuca
+ %
+ Em São Paulo, um homem é atropelado a cada cinco minutos. Além de não ter
+-tempo pra mais nada, o cara deve estar todo quebrado 
++tempo pra mais nada, o cara deve estar todo quebrado
+ %
+ A vantagem de uma guerra com o Paraguai é que não precisamos levar
+-armamentos. Podemos comprar lá mesmo, por um precinho super em conta 
++armamentos. Podemos comprar lá mesmo, por um precinho super em conta
+ %
+ Não existe trabalho ruim. O ruim é ter que trabalhar.
+ 
+@@ -411,14 +399,8 @@
+ %
+ Cérebro é uma coisa maravilhosa. Todos deveriam ter um.
+ %
+-Convencido? EU?? Antes eu era convencido... Hoje, sou perfeito!
+-%
+-Dentre todas as pessoas que conheci, você certamente é uma delas
+-%
+ Digite qualquer número primo de 11 dígitos para continuar...
+ %
+-Dívida pra mim é sagrada. Deus lhe pague!
+-%
+ Egoísta é quem pensa mais em si mesmo do que em mim
+ %
+ Errar é humano... Colocar a culpa no computador é mais ainda
+@@ -448,8 +430,6 @@
+ %
+ Nunca teste a profundidade de um rio com ambos os pés
+ %
+-O Brasil está em nossas mãos... E não adianta lavar!!
+-%
+ O cigarro disse ao fumante: Hoje você me acende, amanhã eu te apago
+ %
+ O homem de bem exige tudo de si próprio; o homem medíocre espera tudo dos
+@@ -474,11 +454,9 @@
+ Tudo o que eu quero na vida é uma chance de provar para mim mesmo que o
+ dinheiro não traz felicidade.
+ %
+-Vai ver se estou na esquina, disse o mágico. Ele estava!
+-%
+ Você está na minha lista negra! - disse a zebra para a pulga
+ %
+-Amar é : Instalar GNU/Linux no computador dela...
++Amar é: Instalar GNU/Linux no computador dela...
+ %
+ :.:..::..:::.:::::..:..:.:..:..::::.:...:: => Tag em Braile.
+ %
+@@ -545,7 +523,6 @@
+ %
+ As leis foram feitas para serem "compridas".
+ %
+-
+ Em matéria de rede, prefiro aquela que vem do Ceará.
+ %
+ Kellogs Multi I/O. Com saída Cereal
+@@ -553,41 +530,37 @@
+ O papel da impressora é sempre mais forte na parte picotada.
+ %
+ Quando bebemos, ficamos bêbados. Quando estamos bêbados, dormimos. Quando
+-dormimos, nao cometemos pecados.Quando nao cometemos pecados, vamos para
++dormimos, não cometemos pecados. Quando não cometemos pecados, vamos para
+ o Céu. Entao, vamos beber para ir pro Céu!!
+ 
+ --Brian O'Rourke
+ %
+ Lixo: coisas que jogamos fora. Coisas: lixo que guardamos
+ %
+-Canela: Dispositivo para achar móveis no escuro.
+-%
+-Restaurante de sapos: `Garçom, não há uma mosca na minha sopa!'Restaurante de sapos: `Garçom, não há uma mosca na minha sopa!'
++Restaurante de sapos: `Garçom, não há uma mosca na minha sopa!'
+ %
+-Você ligou para a casa do maior médium da Terra. Como eu já sei quem é você e o quê você tem a dizer, por favor desligue após o bip.
+-%
+-As linhas de telefônicas atuais são tão perfeitas que só faltam falar. 
++As linhas de telefônicas atuais são tão perfeitas que só faltam falar.
+ %
+-Aí ela me disse: - Ou eu ou o computador!!! ... Tenho saudades dela. 
++Aí ela me disse: - Ou eu ou o computador!!! ... Tenho saudades dela.
+ %
+-Compre um computador, ganhe amigos e perca sua mulher. 
++Compre um computador, ganhe amigos e perca sua mulher.
+ %
+-A verdade está lá fora, alguém sabe a URL ? 
++A verdade está lá fora, alguém sabe a URL ?
+ %
+-Reduza a velocidade - Travessia de Modems 2400 bps. 
++Reduza a velocidade - Travessia de Modems 2400 bps.
+ %
+-Inicializar: ATZ, Discar: ATD, Finalizar: ATLOGO. 
++Inicializar: ATZ, Discar: ATD, Finalizar: ATLOGO.
+ %
+-HTML - Hoje Tá Mais Lento. 
++HTML - Hoje Tá Mais Lento.
+ %
+-WWW - Wait , Wait , Wait ... 
++WWW - Wait , Wait , Wait ...
+ %
+-Não ouse pegar o telefone para chamar os bombeiros !!
+-Estou no meio de um download !! 
++Não ouse pegar o telefone para chamar os bombeiros!!
++Estou no meio de um download!!
+ %
+-A long time ago: - Cara, comprei um XT, e agora só falta um modem 300 bps !! 
++A long time ago: - Cara, comprei um XT, e agora só falta um modem 300 bps!!
+ %
+-Os peixes odeiam redes, eles preferem sistemas monousuário. 
++Os peixes odeiam redes, eles preferem sistemas monousuário.
+ %
+ Você ligou para a casa do maior médium da Terra. Como eu já sei quem é você e o quê você tem a dizer, por favor desligue após o bip.
+ %
+@@ -607,7 +580,7 @@
+ Uma babá é uma adolescente agindo como adulta enquanto os adultos estão
+ fora agindo como adolescentes.
+ %
+-Um cão que assiste a um circo de pulgas irá certamente roubar o show. 
++Um cão que assiste a um circo de pulgas irá certamente roubar o show.
+ %
+ Diplomata é um cara que sempre lembra do aniversário de uma mulher mas nunca de
+ sua idade.
+@@ -631,36 +604,36 @@
+ %
+ Porque a frase "eu sei que não é da minha conta" vem sempre seguida de um "mas" ?
+ %
+-Quem esta' na chuva e' para se queimar.
++Quem está na chuva é para se queimar.
+ Vicente Mateus
+ %
+-Isso e' uma faca de dois legumes.
++Isso é uma faca de dois legumes.
+ Vicente Mateus
+ %
+ Quem é canhoto pode prestar vestibular para Direito?
+ %
+-Qual a capital do estado civil? 
++Qual a capital do estado civil?
+ %
+-Para que ocorra um tiro a queima roupa é necessário que a vítima esteja vestida? 
++Para que ocorra um tiro a queima roupa é necessário que a vítima esteja vestida?
+ %
+-Para que ocorra uma prisão de ventre é necessário haver flagrante? 
++Para que ocorra uma prisão de ventre é necessário haver flagrante?
+ %
+ Para alguns bancos, o cliente não é apenas um número. É
+ um numero, um hífen, cinco números, outro hífen e mais o
+-dígito de controle. 
++dígito de controle.
+ %
+-Se você não pode vencer o inimigo, corra! 
++Se você não pode vencer o inimigo, corra!
+ %
+-Toda mulher é bonita... dependendo da distância. 
++Toda mulher é bonita... dependendo da distância.
+ %
+ Se acupuntura resolvesse, porco-espinho não ficava
+-doente! 
++doente!
+ %
+ Newton morreu, Einsten morreu e eu não estou me
+-sentindo muito bem... 
++sentindo muito bem...
+ %
+ Sorria! Isto faz as pessoas imaginarem no que você está
+-pensando! 
++pensando!
+ %
+ O falso amigo te manda e-mails que o fazem refletir e
+ meditar.
+@@ -669,12 +642,12 @@
+ bizarrices diversas
+ %
+ Um falso amigo acredita que os seus problemas são
+-recentes 
++recentes
+ 
+ Um verdadeiro amigo diz: "Pára de reclamar da mesma
+ porcaria de sempre, mané, e resolve isso de uma vez!"
+ %
+-Um falso amigo nunca o viu chorar 
++Um falso amigo nunca o viu chorar
+ 
+ Um verdadeiro amigo está de saco cheio de vê-lo chorar e
+ sabe que você é meio veadinho mesmo.
+@@ -714,22 +687,22 @@
+ %
+ Não há nada mais trabalhoso do que viver sem trabalhar
+ 
+---Seu Madruga (Chaves) 
++--Seu Madruga (Chaves)
+ %
+-Camarao que dorme a onda leva.
++Camarão que dorme a onda leva.
+ 
+ Luiz Bucci
+ %
+ "A boca de vaia é a mesma que aplaude!",
+ de um jogador de futebol.
+ %
+-Ah ! , se eu fosse homem ....
++Ah se eu fosse homem...
+ 
+ Clodovil.
+ %
+-Famous Lat Words:
++Famous Last Words:
+ 
+-E se ele nao for um bom prefeito , nunca mais votem em mim !
++E se ele não for um bom prefeito, nunca mais votem em mim!
+ 
+ Paulo Maluf
+ 
+@@ -740,38 +713,38 @@
+ --Jardel, ex-atacante do Grêmio e da Seleção Brasileira
+ %
+ "Chegarei de surpresa dia 15, as duas da tarde, vôo 619 da
+-VARIG..." 
++VARIG..."
+ 
+---Mengalvio, ex-meia do Santos, em telegrama 
++--Mengalvio, ex-meia do Santos, em telegrama
+   mandado a família quando em excursão a Europa
+ %
+ "No México que é bom. Lá a gente recebe semanalmente, de quinze
+- em quinze dias..." 
++ em quinze dias..."
+ 
+ --Ferreira (ex-ponta esquerda do Santos)
+ %
+ "Tenho o maior orgulho de jogar na terra onde Cristo nasceu..."
+ 
+ --Claudiomiro, ex-meia do Internacional-RS ao chegar em
+-  Belém do Pará para disputar uma partida contra o 
++  Belém do Pará para disputar uma partida contra o
+   Payssandu pelo Brasileirão de 72
+ %
+ "Quando o jogo esta a mil, minha naftalina sobe"
+ 
+ --Jardel ( ex-atacante do Grêmio)
+ %
+-"Não sei, chutei, a bola foi indo, indo.... e iu!" 
++"Não sei, chutei, a bola foi indo, indo.... e iu!"
+ 
+ --Nunes, ex-atacante do Flamengo ao descrever um gol.
+ %
+ "Fiz que fui, não fui, e acabei fondo!"
+ 
+---Nunes, ex-atacante do Flamengo   
++--Nunes, ex-atacante do Flamengo
+ %
+ "Tanto na minha vida futebolística quanto com a minha vida ser
+- humana..." 
++ humana..."
+ 
+---Nunes, ex-atacante do Flamengo, em uma entrevista antes do 
++--Nunes, ex-atacante do Flamengo, em uma entrevista antes do
+   jogo de despedida do Zico
+ %
+ "Não venham com problemática que eu tenho a solucionática"
+@@ -787,7 +760,7 @@
+ 
+ --Bradock, amigo de Romário reclamando de um passe longo
+ %
+-"Realmente minha cidade e muito facultativa"
++"Realmente minha cidade é muito facultativa"
+ 
+ --Elivelton, ao repórter da Jovem Pan que falava das muitas
+   faculdades que existiam em sua cidade natal.
+@@ -801,7 +774,7 @@
+ --Garrincha durante a comemoração da conquista da Copa do
+   Mundo em 58
+ %
+-"Você viu Didi, o São Cristóvão esta de uniforme novo!"
++"Você viu Didi, o São Cristóvão está de uniforme novo!"
+ 
+ --Garrincha, em 62 no Chile, reparando no uniforme dos
+   ingleses.
+@@ -810,7 +783,7 @@
+ 
+ --João Pinto, jogador do Futebol Clube do Porto, de Portugal
+ %
+-"O meu clube estava a beira do precipício, mas tomou a
++"O meu clube estava à beira do precipício, mas tomou a
+  decisão correta: deu um passo a frente"
+ 
+ --João Pinto, jogador do Futebol Clube do Porto, de Portugal
+@@ -819,34 +792,31 @@
+ 
+ -Vicente  Matheus, eterno presidente do Corinthians
+ %
+-   
+-   
+ Um caminhoneiro do interior escreveu em seu caminhão:
+ 
+-	Eu quero é rosetar. 
++	Eu quero é rosetar.
+ 
+-Então, o prefeito proibiu. o caminhoneiro retirou a frase e colocou outra: 
++Então, o prefeito proibiu. o caminhoneiro retirou a frase e colocou outra:
+ 
+ 	Continuo querendo
+-
+ %
+-    É de maior valia, um bípede alado na 
+-    parte posterior de seu membro superior, 
+-    que o duplo produto da mesma espécie, 
++    É de maior valia, um bípede alado na
++    parte posterior de seu membro superior,
++    que o duplo produto da mesma espécie,
+     desafiando a lei da gravidade.
+ 
+ --Machado de Assis
+ %
+-    Prazos largos são fáceis de subscrever. A imaginação os faz infinitos. 
++    Prazos largos são fáceis de subscrever. A imaginação os faz infinitos.
+ --Machado de Assis (Dom Casmurro)
+ %
+     Ao verme que primeiro roeu as frias carnes do meu cadáver, dedico como
+-    saudosa lembrança estas  memórias póstumas. 
++    saudosa lembrança estas memórias póstumas.
+ 
+ --Machado de Assis (Memórias pótumas de Brás Cubas)
+ %
+-    Não te irrites se te pagarem mal um benefício; antes cair das nuvens 
+-    que de um terceiro andar. 
++    Não te irrites se te pagarem mal um benefício; antes cair das nuvens
++    que de um terceiro andar.
+ 
+ --Machado de Assis (Memórias póstumas de Brás Cubas)
+ %
+@@ -854,11 +824,11 @@
+ 
+ --Machado de Assis
+ %
+-    Não tive filhos, não transmiti a nenhum ser o legado de nossa miséria. 
++    Não tive filhos, não transmiti a nenhum ser o legado de nossa miséria.
+ 
+ --Machado de Assis (Memórias Póstumas de Brás Cubas)
+ %
+-    Deus, para a felicidade do homem, inventou a fé e o amor. 
++    Deus, para a felicidade do homem, inventou a fé e o amor.
+     O Diabo, invejoso, fez o homem confundir fé com religião e amor com
+     casamento.
+ 
+@@ -868,77 +838,78 @@
+ 
+ --Machado de Assis
+ %
+-    A vida, mormente nos velhos, é um ofício cansativo. 
++    A vida, mormente nos velhos, é um ofício cansativo.
+ 
+ --Machado de Assis (Memorial da Aires)
+ %
+-    O olho do homem serve de fotografia ao invisível, como o ouvido 
+-    serve de eco ao silêncio. 
++    O olho do homem serve de fotografia ao invisível, como o ouvido
++    serve de eco ao silêncio.
+ 
+ --Machado de Assis (Esaú e Jacó)
+ %
+-    Tão certo é que a paisagem depende do ponto de vista, e que o 
++    Tão certo é que a paisagem depende do ponto de vista, e que o
+     melhor modo de apreciar o chicote é ter-lhe o cabo na mão.
+ 
+ --Machado de Assis (Quincas Borba)
+ %
+-    Era a mesma situação de Barbacena; mas a vida, meu rico senhor, 
+-    compõe-se de quatro ou cinco situações, que as circunstâncias 
+-    variam e multiplicam aos olhos. 
++    Era a mesma situação de Barbacena; mas a vida, meu rico senhor,
++    compõe-se de quatro ou cinco situações, que as circunstâncias
++    variam e multiplicam aos olhos.
+ 
+ --Machado de Assis (Quincas Borba)
+-%Quando falares, cuida para que tuas palavras sejam melhores que o silêncio. 
++%
++Quando falares, cuida para que tuas palavras sejam melhores que o silêncio.
+ 
+ Provérvio Indiano
+ %
+-Dê um peixe a um homem faminto e você o alimentará por um dia. Ensine-o a 
+-pescar, e você o estará alimentando pelo resto da vida. 
++Dê um peixe a um homem faminto e você o alimentará por um dia. Ensine-o a
++pescar, e você o estará alimentando pelo resto da vida.
+ 
+ Provérvio Chinês
+ %
+ Há três coisas que nunca voltam atrás: a flecha lançada, a palavra dita
+-e a oportunidade perdida. 
++e a oportunidade perdida.
+ 
+ Provérvio Chinês
+ %
+-Antes de começar o trabalho de mudar o mundo, dê três voltas dentro de 
+-sua casa. 
++Antes de começar o trabalho de mudar o mundo, dê três voltas dentro de
++sua casa.
+ 
+ Provérbio Chinês
+ %
+-Não há médico para o medo. 
++Não há médico para o medo.
+ 
+ Provérbio Escocês
+ %
+-Temos UMA boca e DOIS ouvidos mas jamais nos comportamos proporcionalmente 
++Temos UMA boca e DOIS ouvidos mas jamais nos comportamos proporcionalmente
+ 
+-Proverbio chines.
++Provérbio Chinês.
+ %
+-Quando o machado entrou na floresta, as árvores disseram: 
+-- O cabo é dos nossos !! 
++Quando o machado entrou na floresta, as árvores disseram:
++- O cabo é dos nossos!!
+ 
+ Provérbio Turco
+ %
+-"A mais alta das torres começa no solo." 
++"A mais alta das torres começa no solo."
+ 
+ Ditado chinês
+ %
+-Caia a faca no melão ou o melão na faca, o melão sofre... 
++Caia a faca no melão ou o melão na faca, o melão sofre...
+ 
+ Provérbio chinês
+ %
+-Em dia de Vitória ninguém fica cansado. 
++Em dia de Vitória ninguém fica cansado.
+ 
+ Provérbio árabe
+ %
+-Nihil est in intellectu quod non ante fuerit in sensu. 
++Nihil est in intellectu quod non ante fuerit in sensu.
+ (Nada está no intelecto que não tenha passado antes pelos sentidos)
+ %
+-Se estão dando, pegue. Se vierem buscar, corra. 
++Se estão dando, pegue. Se vierem buscar, corra.
+ 
+ Provérbio russo
+ %
+-Começar já é metade de toda ação. 
++Começar já é metade de toda ação.
+ 
+ Provérbio grego
+ %
+@@ -946,7 +917,6 @@
+ um famoso zagueiro respondeu:
+ 'Clássico é clássico. Eu prefiro dizer meu prognóstico
+ depois do jogo'.
+-
+ %
+ De um jogador do Bahia ao se transferir para o Flamengo:
+ 'meu coração agora só tem uma cor: rubro-negro'.
+@@ -958,77 +928,75 @@
+ O Brasil é uma merda, mas é muito bom".
+ Tom Jobim
+ %
+-Cidadão vai preencher um cadastro numa loja. Pergunta do caixa: 
+-- Qual é o seu nome, por favor. 
+-- Ca-Ca-Carlos Alberto de Souza, responde o cliente. 
+--Ah, o sr. é gago , pergunta o caixa. 
++Cidadão vai preencher um cadastro numa loja. Pergunta do caixa:
++- Qual é o seu nome, por favor.
++- Ca-Ca-Carlos Alberto de Souza, responde o cliente.
++-Ah, o sr. é gago , pergunta o caixa.
+ - Não, gago era meu pai. Agora sacana foi o cara do cartório...
+ %
+-P. O que significa FeedBack? 
++P. O que significa FeedBack?
+ R. Filho de zagueiro.
+ %
+-P. Sabe porque portugues nao anda de moto? 
++P. Sabe porque português não anda de moto?
+ R. Ele compra Yamaha.
+ %
+-Imagine um pedaço de queijo suiço, daqueles bem cheios de buracos. 
+-Quanto mais queijo, mais buracos. 
+-Mas o buraco ocupa o lugar em que haveria queijo. 
+-Assim, quanto mais buracos, menos queijo. 
++Imagine um pedaço de queijo suiço, daqueles bem cheios de buracos.
++Quanto mais queijo, mais buracos.
++Mas o buraco ocupa o lugar em que haveria queijo.
++Assim, quanto mais buracos, menos queijo.
+ Ora, se quanto mais queijos mais buracos, e quanto mais buracos,
+-menos queijo; 
++menos queijo;
+ 
+ Logo, quanto mais queijo, menos queijo!
+ %
+-O Manuel chega em casa, numa tarde, e da com um pingüim em seu jardim. Sem nunca ter visto
+-um antes, ele fica todo atrapalhado, sem saber o que fazer, e pede ajuda para um vizinho, que o
+-aconselha:. 
++O Manuel chega em casa, numa tarde, e da com um pingüim em seu jardim. Sem nunca ter visto um antes, ele fica todo atrapalhado, sem saber o que fazer, e pede ajuda para um vizinho, que o aconselha:.
++
++  - Olha, Manuel, o melhor que você tem a fazer e levá-lo ao Jardim Zoológico.
+ 
+-  _Olha, Manuel, o melhor que você tem a fazer e levá-lo ao Jardim Zoológico.. 
++No dia seguinte, o vizinho encontra com o Manuel passeando com o pingüim levando-o rua abaixo por uma cordinha amarrada no pescoço e se surpreende:
+ 
+-No dia seguinte, o vizinho encontra com o Manuel passeando com o pingüim levando-o rua
+-  abaixo por uma cordinha amarrada no pescoço e se surpreende:. 
+-  _O, Manuel! Aonde você vai com o bicho! Você não o levou ao zoológico ontem? 
+-   _Levei sim e ele adorou. Hoje, estou a levá-lo ao Parque de diversões.
++  - O, Manuel! Aonde você vai com o bicho! Você não o levou ao zoológico ontem?
++  - Levei sim e ele adorou. Hoje, estou a levá-lo ao Parque de diversões.
+ %
+-P. Sabe o que é um ponto amarelo no alto de um edificio? 
+-R. Um fandangos suicida. 
++P. Sabe o que é um ponto amarelo no alto de um edifício?
++R. Um fandangos suicida.
+ 
+-P. E sabe porque ele é suicida? 
++P. E sabe porque ele é suicida?
+ R. Por que a casa dele é um saco.
+ %
+-Na última reunião da Cúria.,tentando melhorar a situação da Igreja, o papa
++Na última reunião da Cúria, tentando melhorar a situação da Igreja, o papa
+ anuncia o propósito da Santa Sé de permitir o casamento dos padres. No fundo
+ da sala um velho bispo comenta com o outro. Isso não é para já; possivelmente
+ para nossos netos.
+ %
+-"Se não existe vida fora da Terra, então o universo é um grande desperdício de espaço" 
++"Se não existe vida fora da Terra, então o universo é um grande desperdício de espaço"
+ 
+ --Carl Sagan
+ %
+-"Quão maravilhosas as pessoas que não conhecemos bem" 
++"Quão maravilhosas as pessoas que não conhecemos bem"
+ 
+ --Millor Fernandes
+ %
+ "A tecnologia moderna é capaz de realizar a produção sem emprego. O diabo é
+-que a economia moderna não consegue inventar o consumo sem salário." 
++que a economia moderna não consegue inventar o consumo sem salário."
+ 
+ --Hebert de Souza
+ %
+ Escrevo sem pensar, tudo o que o meu inconsciente grita. Penso depois: não só
+-para corrigir, mas para justificar o que escrevi. 
++para corrigir, mas para justificar o que escrevi.
+ 
+ --Mário de Andrade
+ %
+-Não há quem não cometa erros e grandes homens cometem grandes erros. 
++Não há quem não cometa erros e grandes homens cometem grandes erros.
+ 
+ --Paulo Francis
+ %
+ "É sempre melhor ser otimista do que ser pessimista. Até que tudo dê errado,
+- o otimista sofreu menos." 
++ o otimista sofreu menos."
+ 
+ --Armando Nogueira
+ %
+-"A grandeza não consiste em receber honras, mas em merecê-las." 
++"A grandeza não consiste em receber honras, mas em merecê-las."
+ 
+ --Aristóteles
+ %
+@@ -1036,37 +1004,35 @@
+ %
+ Eu acreditava no sistema, até que formataram minha família...
+ %
+-Sistema Operacional que estais na memória, 
+-Compilado seja o vosso programa, 
+-Venha à tela os vossos comandos, 
+-Seja executada a nossa rotina, 
+-Assim na memória, como na impressora. 
+-
+-Acerto nosso de cada dia, rodai hoje 
+-Informai os nossos erros, 
+-Assim como nós informamos o que está corrigido, 
+-Não nos deixai entrar em looping, 
+-e livrai-nos do coredump, 
++Sistema Operacional que estais na memória,
++Compilado seja o vosso programa,
++Venha à tela os vossos comandos,
++Seja executada a nossa rotina,
++Assim na memória, como na impressora.
++
++Acerto nosso de cada dia, rodai hoje
++Informai os nossos erros,
++Assim como nós informamos o que está corrigido,
++Não nos deixai entrar em looping,
++e livrai-nos do coredump,
+ Amém.
+ %
+-GPF - (Garantido Pela Fabrica)
++GPF - (Garantido Pela Fábrica)
+ %
+-Eu sou um cobra em Informatica.... Vivo rastejando e ainda levo paulada!
++Eu sou um cobra em Informática.... Vivo rastejando e ainda levo paulada!
+ %
+-Namorada é a versao shareware da esposa.
++Namorada é a versão shareware da esposa.
+ %
+ OS/2	Meio sistema operacional, ideal para valorizar um PS/2
+ 
+ PS/2	Meio computador. Plataforma ideal para o OS/2
+ %
+-<Knghtbrd> mariab - não pense que o Debian já não teve bugs estúpidos e 
++<Knghtbrd> mariab - não pense que o Debian já não teve bugs estúpidos e
+            óbvios antes.
+-<Knghtbrd> Mas claro, nós geralmente consertamos os nossos ANTES 
++<Knghtbrd> Mas claro, nós geralmente consertamos os nossos ANTES
+            do lançamento =D
+-
+ %
+ Quem tudo quer... tudo pede!
+-
+ %
+ Tem uma frase que acha que ficaria legal aqui? Visite
+ http://www.metainfo.org/frases/ e faça sua contribuição!
+@@ -1098,8 +1064,6 @@
+ %
+ De onde viemos? Para onde vamos? Lá tem Internet?
+ %
+-Eu gostaria de criar home pages, mas não sei o que elas comem...
+-%
+ Quem ri por último está conectado a 2400Bit/s.
+ %
+ "A verdade está sempre na minoria."
+@@ -1108,18 +1072,16 @@
+ É como eu costumo dizer sempre: "Somente um idiota faz citações
+ de suas próprias frases."
+ %
+-Os canhotos tambem tem os seus direitos.
++Os canhotos também tem os seus direitos.
+ %
+ dROGA!!oNDE ESTA O cAPSLOCK??
+ %
+ Seraqueochefevaidescobrirqueeuderrubeicafénoteclado?
+ %
+-Já que a primeira impressao é a que fica, entao use uma
++Já que a primeira impressão é a que fica, então use uma
+ impressora Laser.
+ %
+-Papai porque o ímã não gruda nesse disquete???
+-%
+-Apóie a "Operaçao Rodízio" também na Internet: dependendo do final
++Apóie a "Operação Rodízio" também na Internet: dependendo do final
+ de placa do MODEM ele não será autorizado a transitar na Web em
+ determinado dia. Só assim para conseguirmos eliminar os
+ congestionamentos da rede...
+@@ -1128,8 +1090,6 @@
+ %
+ Masoquista que é masoquista, programa em Assembler com Copy Con...
+ %
+-O Pateta usa teclado. O Mickey Mouse.
+-%
+ Checando vírus....todos os vírus estão funcionando perfeitamente.
+ %
+ Multi-Tarefa: Estragar muitas coisas na mesma hora...
+@@ -1192,39 +1152,39 @@
+ %
+ Putz!Quebrouaminhabarradeespaço!
+ %
+-Nao preciso comer nem dormir, comprei um modem!
++Não preciso comer nem dormir, comprei um modem!
+ %
+ Aluno de Informática não cola, faz transferência de dados.
+ %
+ BASIC, é como catapora, a gente pega quando é criança.
+ %
+-Não Acredite em Ets. Eles são muito mentirosos! 
++Não Acredite em Ets. Eles são muito mentirosos!
+ %
+ É só a minha opinião (eu acho).
+ %
+ Eu antes me achava muito indeciso, mas agora não tenho certeza.
+ %
+-Água mole, pedra dura, tanto bate até que molha! 
++Água mole, pedra dura, tanto bate até que molha!
+ %
+-Na China as páginas amarelas são brancas. 
++Na China as páginas amarelas são brancas.
+ %
+-Um fusca na estrada anda mais rápido que um BMW na garagem... 
++Um fusca na estrada anda mais rápido que um BMW na garagem...
+ %
+-Se sua mulher quer espaço, aumente a cozinha de sua casa... 
++Se sua mulher quer espaço, aumente a cozinha de sua casa...
+ %
+ Quem ri por último não entendeu a piada...
+ %
+-Limitar é viver. 
++Limitar é viver.
+ %
+-Se um cão bater à sua porta, não atenda, pois cão não bate à porta. 
++Se um cão bater à sua porta, não atenda, pois cão não bate à porta.
+ %
+--------> Não corte aqui, ou vai destruir seu monitor. 
++-------> Não corte aqui, ou vai destruir seu monitor.
+ %
+-Drogas fazem perder a memória e outras coisas que não lembro. 
++Drogas fazem perder a memória e outras coisas que não lembro.
+ %
+-Já sorriu pro seu micro hoje? Já? Mas que imbecil! 
++Já sorriu pro seu micro hoje? Já? Mas que imbecil!
+ %
+-Atenção: Mensagem proibida para menores de 14400Bit/s! 
++Atenção: Mensagem proibida para menores de 14400Bit/s!
+ %
+ Que mundo terrível...os mudos nem se falam mais...
+ %
+@@ -1243,7 +1203,7 @@
+ %
+ O freguês entrou na loja de animais e perguntou para o vendedor:
+ -- Queria um papagaio que fosse especial...
+--- Chegou na hora certa! Temos um bilíngue! Se voce levantar a patinha
++-- Chegou na hora certa! Temos um bilíngue! Se você levantar a patinha
+    direita, ele fala em inglês, se levantar a patinha esquerda, ai ele fala
+    em francês...
+ -- E se levantar as duas patinhas?
+@@ -1255,8 +1215,8 @@
+ -- Dez reais - respondeu o garçon.
+ -- É muito caro!
+ Entao ele vê um papagaio no poleiro atrás do balcao, vira-se pro garçon e
+-diz: 
+--- Nao dá pra você me preparar um molho pardo mais barato?
++diz:
++-- Não dá pra você me preparar um molho pardo mais barato?
+ O garçon olha na mesma direção do freguês, entende a indireta e responde:
+ -- É... esse molho pardo eu posso fazer para o senhor a cinco reais...
+ E o papagaio:
+@@ -1272,11 +1232,11 @@
+ ... e querido Menino Jesus, da saúde para o papai, e felicidade para a
+ mamãe, e um patineti para mim. Amém.
+ %
+-No consultório, após examinar a sua jovem cliente, o médico informa, com 
++No consultório, após examinar a sua jovem cliente, o médico informa, com
+ voz paternal:
+ -- Tenho uma ótima notícia para lhe dar, minha senhora.
+ -- Senhora não! Eu sou solteira!
+--- Bem, então tenho uma péssima notícia para lhe dar, senhorita... 
++-- Bem, então tenho uma péssima notícia para lhe dar, senhorita...
+ %
+ -- Você está organizando esse fichário por ordem alfabética ou por ordem
+ numérica?
+@@ -1296,7 +1256,7 @@
+ destroços, encontraram apenas um morto. Ele estava de cabeça para baixo,
+ com o dedo indicador apontando para um dos cantos do ambiente. Ao seu
+ lado, um extintor de incêndio, com a seguinte instrução:  "Em caso de
+-incêndio, vire de cabeça para baixo e aponte para a chama". 
++incêndio, vire de cabeça para baixo e aponte para a chama".
+ %
+ -- Comandante! Uma tropa que se encaminha diretamente ao nosso forte!
+ -- São amigos ou inimigos?
+@@ -1333,11 +1293,11 @@
+ O técnico no telefone indicando como instalar o windows:
+         -- Insira o terceiro disco no drive.
+ O usuário responde:
+-        -- Nao dá! Já coloquei dois, não cabe mais.
++        -- Não dá! Já coloquei dois, não cabe mais.
+ %
+ Meu HD tem 100k de bad sector e 100M de bad-windows.
+ %
+-Tem coisas, BUM! Que só o Windows 98 apaga pra voce!
++Tem coisas, BUM! Que só o Windows 98 apaga pra você!
+ %
+ Com o Windows não temos tempo de resposta, temos prazo de entrega.
+ %
+@@ -1395,12 +1355,10 @@
+ %
+ Camisinha furada: (A)bortar (I)gnorar (C)asar?
+ %
+-Voce tem um micro ?!? O meu é enorme...
++Você tem um micro ?!? O meu é enorme...
+ %
+ Onde vamos parar? Até Papai Noel anda saindo com veados.
+ %
+-Se sua mulher quer espaço, aumente a cozinha de sua casa...
+-%
+ O casamento é o caminho mais caro para se dormir com uma mulher.
+ %
+ Após vinte anos de casamento, finalmente minha mulher me deu o que
+@@ -1449,8 +1407,6 @@
+ %
+ Digam o que quiserem mas o sexo é FODA!
+ %
+-Digite qualquer número primo de 11 dígitos para continuar...
+-%
+ Direito tem quem direito anda.
+ %
+ Dívida pra mim é sagrada. Deus lhe pague!
+@@ -1549,8 +1505,6 @@
+ O homem de bem exige tudo de si próprio.
+ O homem medíocre espera tudo dos outros.
+ %
+-O mundo precisa de mais gênios humildes! Hoje em dia somos poucos..
+-%
+ O pessimista é um otimista experiente e arrependido.
+ %
+ O que é o que é: tem quatro patas e um braço? Um Rottweiler feliz.
+@@ -1640,12 +1594,12 @@
+ %
+ Nada é a prova de idiotas. Nisto eles são bem habilidosos...
+ %
+-Quantos cleptomaníacos são necessarios pra se trocar uma ... 
++Quantos cleptomaníacos são necessários pra se trocar uma ...
+ Ei!! Cadê a lâmpada??
+ %
+ A verdade é só uma mentira inverídica...
+ %
+-Eu acreditava no sistema operacional, até que formataram minha familia...
++Eu acreditava no sistema operacional, até que formataram minha família...
+ %
+ Abelha morre eletrocutada numa rosa-choque!
+ %
+@@ -1688,8 +1642,6 @@
+ %
+ Quem é esse General Failure? Por que ele fica lendo meu drive C?
+ %
+-Quem dá aos pobres fica com fama de bicha.
+-%
+ Existem 24 horas num dia... E 24 cervejas numa caixa.. Coincidencia?!
+ %
+ Função secreta do DOS: adicione BUGS=OFF no seu CONFIG.SYS.
+@@ -1705,7 +1657,7 @@
+ %
+ Seja legal com seus filhos. Eles é quem escolherão seu asilo.
+ %
+-Lembre-se de que voce é unico, como todo mundo.
++Lembre-se de que você é unico, como todo mundo.
+ %
+ Dentre todas as pessoas que conheci, você certamente é uma delas.
+ %
+@@ -1740,7 +1692,7 @@
+ %
+ Um dia de fúria. Estrelando: Windows.
+ %
+-Voce acabou de perder 2 segundos lendo esta tagline.
++Você acabou de perder 2 segundos lendo esta tagline.
+ %
+ O que um cluster falou para outro? Não me siga. Estou perdido tb.
+ %
+@@ -1946,8 +1898,8 @@
+ 
+ -- Bill Gates, no "OS/2 Programmer's Guide" (prefácio por Bill Gates)
+ %
+-"Há pessoas que não gostam do capitalismo, e pessoas que não 
+-gostam de PCs. Mas não há ninguem que goste de PCs que não 
++"Há pessoas que não gostam do capitalismo, e pessoas que não
++gostam de PCs. Mas não há ninguem que goste de PCs que não
+ goste da Microsoft"
+ 
+ -- Bill Gates, Mercados Livres e o  LA Times
+@@ -1956,7 +1908,7 @@
+ a Microsoft e a IBM] significa que a Microsoft está encerrando quaisquer
+ planos para desenvolvimento futuro do Windows?
+ 
+-Gates: A Microsoft não mudou nenhum de seus planos para o Windows. É 
++Gates: A Microsoft não mudou nenhum de seus planos para o Windows. É
+ óbvio que não iremos incluir coisas como threads e multitarefa
+ preemptiva no Windows. No momento em que adicionarmos isso, você terá
+ o OS/2".
+@@ -1974,7 +1926,7 @@
+ 
+ -- Bill Gates, em "Programmers at Work" by Microsoft Press, Entrevista com Bill
+ %
+-"Se vocÊ não sabe pra que você precisa do Windows NT, você não 
++"Se vocÊ não sabe pra que você precisa do Windows NT, você não
+  precisa dele".
+ 
+ -- Bill Gates
+@@ -1985,7 +1937,7 @@
+ -- Propaganda Microsoft na caixa do  Windows 2.11 para 286
+ %
+ "Programas da Microsoft são geralmente livres de bug. Se você visitar
+- a Microsoft Hotline você terá que literalmente esperar semanas , 
++ a Microsoft Hotline você terá que literalmente esperar semanas ,
+  senão meses até alguém ligar com um bug em nossos programas. 99.99%
+  das ligações acabam sendo por erros do usuário. Eu não conheço
+  uma razão mais irrelevante para uma atualização do que correção
+@@ -2000,9 +1952,9 @@
+ %
+ "Mistura sogra e nora, pode ver que ali sai choro"
+ 
+---Tião Carreiro e Pardinho (Ditado Sertanejo) 
++--Tião Carreiro e Pardinho (Ditado Sertanejo)
+ %
+-O pao com manteiga do pobre sempre cai com a manteiga para baixo.  
++O pão com manteiga do pobre sempre cai com a manteiga para baixo.
+ Anonimo.
+ %
+ Existem mais tendencias trotskistas do que militantes trotskistas.
+@@ -2022,29 +1974,29 @@
+ 
+ %
+ 
+-  Onde tá o pobre, ta o pobrema.  (ouvida durante a entrevista na tv de um pobre durante mais uma inundação de verão no Rio de Janeiro. A resposta foi: Não adianta, moça. Onde tá o pobre tá o pobrema.)
++  Onde tá o pobre, tá o pobrema.  (ouvida durante a entrevista na tv de um pobre durante mais uma inundação de verão no Rio de Janeiro. A resposta foi: Não adianta, moça. Onde tá o pobre tá o pobrema.)
+ %
+-O Sonho acabou. Mas ainda temos pao doce.
++O Sonho acabou. Mas ainda temos pão doce.
+ %
+ Na vida tudo passa. Ate uva passa.
+ %
+-Os ultimos serao os primeiros... a reclamar.
++Os últimos serão os primeiros... a reclamar.
+ %
+ Nunca olhe para tras... sem antes virar o pescoco.
+ %
+ Problemas todos tem. Ate o Frankstein.
+ %
+-Quem nao tem cao... nao gasta dinheiro com veterinario.
++Quem não tem cão... não gasta dinheiro com veterinário.
+ %
+-Quando um nao quer... o outro insiste.
++Quando um não quer... o outro insiste.
+ %
+-Quem ve cara, nao ve coracao. Exceto o cardiologista.
++Quem vê cara, não vê coração. Exceto o cardiologista.
+ %
+-A fe remove montanhas. A dinamite entao, nem se fala !
++A fé remove montanhas. A dinamite então, nem se fala !
+ %
+ Quem cedo madruga, fica com sono o dia inteiro.
+ %
+-A vida e linda, maravilhosa. Voce que e feio.
++A vida e linda, maravilhosa. Você que e feio.
+ %
+ Um homem prevenido vale por dois... mas quem compra ?
+ %
+@@ -2052,13 +2004,13 @@
+ %
+ A campanha contra a dengue e simplesmente o fim da picada !
+ %
+-O pai da Malu Mader e o Malu Father.
++O pai da Malu Mader é o Malu Father.
+ %
+-Voce nao tem, mas o Frankstein.
++Você não tem, mas o Frankstein.
+ %
+-Fulano afirma, mas o Arnold Swarzenegar.
++Fulano afirmã, mas o Arnold Swarzenegar.
+ %
+-Eu nao vou furar. O Juca Kfouri.
++Eu não vou furar. O Juca Kfouri.
+ %
+ Aquilo todo mundo viu. Ate o Clodovil.
+ %
+@@ -2066,11 +2018,11 @@
+ %
+ Eu pulo do barranco. O Luciano do Vale.
+ %
+-Voce ja morou nos EUA? A Marylin Monroe.
++Você já morou nos EUA? A Marylin Monroe.
+ %
+-Ao ver uma modelo voce fala bonita. O Miguel Falabella.
++Ao ver uma modelo você fala bonita. O Miguel Falabella.
+ %
+-Voce faria papel de trouxa? A Betty Faria.
++Você faria papel de trouxa? A Betty Faria.
+ %
+ Eu acordo mais tarde do que deveria. O Edir Macedo.
+ %
+@@ -2082,9 +2034,9 @@
+ %
+ Eu moro em Copacabana. O Tony, Ramos.
+ %
+-Eu escovo os dentes tres vezes por dia. O Joaozinho trinta.
++Eu escovo os dentes três vezes por dia. O Joãozinho trinta.
+ %
+-Voce ja esteve na Europa? A Adriana Esteves.
++Você já esteve na Europa? A Adriana Esteves.
+ %
+ Eu fumo. O Celso Pitta.
+ %
+@@ -2092,21 +2044,21 @@
+ %
+ As vezes eu corto o cabelo. O Jose Serra.
+ %
+-Voce riu dessas piadas? Nao? Pois e... o Damon Hill.
++Você riu dessas piadas? Não? Pois e... o Damon Hill.
+ %
+-Todos os cogumelos sao comestiveis.  Alguns so uma vez.
++Todos os cogumelos são comestíveis.  Alguns só uma vez.
+ %
+-Quem tem olho gordo, usa colirio diet.
++Quem tem olho gordo, usa colírio diet.
+ %
+-Existem tres tipos de pessoas: as que sabem contar e as que 
++Existem três tipos de pessoas: as que sabem contar e as que
+ não.
+ %
+ Deus fez o mundo em sete dias porque não tinha ninguém perguntando quando
+ ia ficar pronto.
+ 
+---Visto em uma oficina 
++--Visto em uma oficina
+ %
+-Nao contavam com minha astúcia!!!
++Não contavam com minha astúcia!!!
+ 
+ --Chapolim
+ %
+@@ -2290,7 +2242,7 @@
+ Retirado de http://www.uol.com.br/millor
+ %
+ A Justiça é cega, sua balança desregulada e sua
+-espada sem fio. 
++espada sem fio.
+ 
+ --Millôr Fernandes
+ Retirado de http://www.uol.com.br/millor
+@@ -2405,19 +2357,19 @@
+ --Millôr Fernandes
+ Retirado de http://www.uol.com.br/millor
+ %
+-Nao adianta balancar, a ultima gota eh sempre na cueca.
++Não adianta balançar, a ultima gota eh sempre na cueca.
+ %
+ Então ela perguntou: "Ou eu ou o Linux!!"... tenho saudades dela
+ %
+ Depois que você acostuma a usar Linux você:
+-	-Voce preenche documentos com Login e password ao inves de nome e
++	-Você preenche documentos com Login e password ao invés de nome e
+ sobrenome.
+ %
+ Depois que você acostuma a usar Linux você:
+-	 -Quando ouve o nome Rute ja pensa que estao falando com vc (root)
++	-Quando ouve o nome Rute já pensa que estão falando com vc (root)
+ %
+ Depois que você acostuma a usar Linux você:
+-	 -Você nao lembra mais o nome daquele sistema operacional q vc vem 
++	 -Você não lembra mais o nome daquele sistema operacional q vc vem
+ chamando de rWin
+ %
+ Depois que você acostuma a usar Linux você:
+@@ -2425,22 +2377,22 @@
+ %
+ Depois que você acostuma a usar Linux você:
+ 	 -Quando joga "jogo da velha", sempre acaba escrevendo "ls" depois do #
+-ao usar um computador com windows, faz questao de criar um BAT com o nome de 
++ao usar um computador com windows, faz questão de criar um BAT com o nome de
+ "startx" para entrar no windows.
+ %
+ Depois que você acostuma a usar Linux você:
+-	-Perde horas tentando descobrir porque o DOS nao reconhece o maldito
++	-Perde horas tentando descobrir porque o DOS não reconhece o maldito
+ comando "mount"
+ %
+ Depois que você acostuma a usar Linux você:
+-	-Voce quer uma S-10 com cabine Extended2.
++	-Você quer uma S-10 com cabine Extended2.
+ %
+ Depois que você acostuma a usar Linux você:
+ 	-O nome do seu cachorro eh TUX.
+ %
+ Depois que você acostuma a usar Linux você:
+-	-Voce passa horas tentando resolver problemas de pessoas que nem sequer
+-conhece, atraves de forum, e-mail, lista de discussao ou chat.
++	-Você passa horas tentando resolver problemas de pessoas que nem sequer
++conhece, através de forum, e-mail, lista de discussao ou chat.
+ %
+ Depois que você acostuma a usar Linux você:
+ 	-Sempre que faz alguma cagada tenta usar o "rm-rf"
+@@ -2449,18 +2401,18 @@
+ 	-Entre seus sites preferidos,destaca-se o KERNEL.ORG
+ %
+ Depois que você acostuma a usar Linux você:
+-	-O unico Bill com que voce se preocupa eh o Bill Clintom.
++	-O unico Bill com que você se preocupa eh o Bill Clintom.
+ %
+ Depois que você acostuma a usar Linux você:
+-	-FAT? Nao, nao estou, são só uns pneusinhos!
++	-FAT? Não, não estou, são só uns pneusinhos!
+ %
+ Depois que você acostuma a usar Linux você:
+-	-Voce tem pelo menos 10 compilacoes de Kernel diferentes: 1 para cada
++	-Você tem pelo menos 10 compilações de Kernel diferentes: 1 para cada
+ tipo de programa q for usar.
+ %
+ Depois que você acostuma a usar Linux você:
+-	-No Netscape (for Linux, obvio) voce configura seu proprio servidor de
+-SMTP ao inves do provedor.
++	-No Netscape (for Linux, óbvio) você configura seu próprio servidor de
++SMTP ao invés do provedor.
+ 
+ %
+ Depois que você acostuma a usar Linux você:
+@@ -2469,9 +2421,9 @@
+ 
+ %
+ Depois que você acostuma a usar Linux você:
+-	-Voce perde tempo lendo uma lista como essa.
++	-Você perde tempo lendo uma lista como essa.
+ %
+-Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe 
++Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe
+ 
+ --Oscar Wilde
+ %
+@@ -2486,7 +2438,7 @@
+ As flores perfumam as mãos que as esmagam
+ %
+ Alguns homens vêem as coisas como são, e dizem 'Por quê?' Eu sonho com
+-as coisas que nunca foram e digo 'Por que não ?' 
++as coisas que nunca foram e digo 'Por que não ?'
+ 
+ --Geroge Bernard Shaw
+ %
+@@ -2514,14 +2466,14 @@
+ 
+ %
+ Mas vale a lagrima de uma derrota,
+-do que a vergonha de nao ter lutado !
++do que a vergonha de não ter lutado!
+ %
+ Que importa a vida da gente,
+-se a gente por mal ou bem, 
++se a gente por mal ou bem,
+ vai vivendo simplesmente
+ a vida que a gente tem.
+ %
+-de onde nada se espera daí mesmo que nao sai nada
++de onde nada se espera daí mesmo que não sai nada
+ %
+ Na minha casa não tem azuleijo, só vermelhejo. - Manga, ex-goleiro do Internacional na década de 70.
+ %
+@@ -2589,7 +2541,7 @@
+ "Você deve ser a mudança que deseja ver no mundo"
+ --Gandhi
+ %
+-Nunca tente ensinar um porco cantar. Voce perde seu tempo e ainda chateia o porco! 
++Nunca tente ensinar um porco cantar. Você perde seu tempo e ainda chateia o porco!
+ %
+ Aí ela disse: Ou eu, ou o modem...
+ Será que ela está bem? ? ?
+@@ -2604,7 +2556,7 @@
+ %
+ O Senhor eh meu pastor e nada me faltara...
+ %
+-Preguiça é o habito de descansar antes da fadiga. 
++Preguiça é o habito de descansar antes da fadiga.
+ %
+ vingança e a alma da magia negra
+ %
+@@ -2613,7 +2565,7 @@
+ %
+ Pode crer que se começou errado, vai dar errado mesmo....
+ %
+-Nao confunda a grande obra do mestre Picasso com o grande picasso de mestre de obra.
++Não confunda a grande obra do mestre Picasso com o grande picasso de mestre de obra.
+ 
+ -- Andre Luis S. Ribeiro
+ %
+@@ -2643,7 +2595,7 @@
+ - PLANO ECONOMICO NO BRASIL E QUE NEM PICOLE DE QUIABO, ALGUEM TEM QUE ENGOLIR
+   SE NAO ACABA MELANDO.
+ 
+-- TODO ADOLESCENTE NO FUNDO E MUITO PRESO: PRESO POR PORTE DE ARMA, TRAFICO DE 
++- TODO ADOLESCENTE NO FUNDO E MUITO PRESO: PRESO POR PORTE DE ARMA, TRAFICO DE
+   DROGAS E ATE VADIAGEM
+ 
+ - QUEM GOSTA DE DESCOLAR UM BICO E CIRURGIAO PLASTICO DE MAMA.
+@@ -2665,7 +2617,7 @@
+ %
+ A modestia é uma das minhas inumeras virtudes.
+ %
+-A primeira impressao é a que fica, mas só se o toner for bom.
++A primeira impressão é a que fica, mas só se o toner for bom.
+ %
+ A esperança e a sogra são sempre as últimas a morrer.
+ %
+@@ -2761,7 +2713,7 @@
+ Não importa o tamanho do ministério,
+ e sim as verbas que ele proporciona.
+ %
+-O cinismo de nossos governantes é igual a suas contas na Suíça: 
++O cinismo de nossos governantes é igual a suas contas na Suíça:
+ não tem limite.
+ %
+ Assim como os diamantes, as dívidas do governo são eternas.
+@@ -2784,8 +2736,8 @@
+ O disco é rígido, mas a lei da informática é flexível.
+ %
+ Computador é igual mulher boa:
+-todo mundo diz que gosta, que entende, 
+-mas poucos sabem como é que funciona, 
++todo mundo diz que gosta, que entende,
++mas poucos sabem como é que funciona,
+ como é que mexe e onde liga.
+ %
+ Os computadores são como as carroças:
+@@ -2797,7 +2749,7 @@
+ O programa D-Base só deve ser acionado com o Windows fechado.
+ %
+ Os analistas de sistema adoram fazer programa, mas só entre eles.
+-O que obriga suas mulheres a chamarem o padeiro, 
++O que obriga suas mulheres a chamarem o padeiro,
+ o leiteiro ou o entregador de pizza.
+ %
+ Graças ao avanço da informática na área do lazer,
+@@ -2849,10 +2801,6 @@
+        ...Ensine-o a pescar que vc matara sua fome sempre"
+                                                            Lao Tsé
+ %
+-O dinheiro não é tudo. Tudo é a falta de dinheiro.
+-
+--- Millor Fernandes
+-%
+ PeSSonho logo existo!
+ %
+ Quem ama puríssima, dourada lhe parece.
+@@ -2861,386 +2809,386 @@
+ 
+ --Millor Fernandes
+ %
+-	A unica coisa bem distribuida no mundo e a burrice.
++	A única coisa bem distribuida no mundo e a burrice.
+ 		-- Bernard Shaw George
+ %
+-	A Academia Brasileira de Letras se compoe de 39 membros e um 
++	A Academia Brasileira de Letras se compoe de 39 membros e um
+ 	morto rotativo.
+-		-- Millor Fernandes 
++		-- Millor Fernandes
+ %
+-	A Biblia nos ensina a amar o proximo e tambem os nossos 
++	A Biblia nos ensina a amar o proximo e também os nossos
+ 	inimigos. Talvez porque sejam as mesmas pessoas.
+-		-- G. K. Chesterton 
++		-- G. K. Chesterton
+ %
+-	A Historia e uma soma das coisas que poderiam ter sido 
++	A Historia e uma soma das coisas que poderiam ter sido
+ 	evitadas.
+-		-- Konrad Adenauer 
++		-- Konrad Adenauer
+ %
+-	A alma tem ilusoes, como o passaro, asas; isso e que a 
++	A alma tem ilusoes, como o passaro, asas; isso e que a
+ 	sustem.
+ 		-- Victor Hugo
+ %
+ 	A ambicao e o refugio dos fracassados.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	A arte de representar consiste apenas em impedir as pessoas 
++	A arte de representar consiste apenas em impedir as pessoas
+ 	de tossir.
+-		-- Sir Ralph Richardson 
++		-- Sir Ralph Richardson
+ %
+-	A burocracia continua a defender o "status quo", muito 
+-	depois que o "quo" ja perdeu o "status".
+-		-- Laurence J. Peter 
++	A burocracia continua a defender o "status quo", muito
++	depois que o "quo" já perdeu o "status".
++		-- Laurence J. Peter
+ %
+ 	A cama e a opera dos pobres.
+-		-- Proverbio Italiano 
++		-- Proverbio Italiano
+ %
+-	A ciencia nunca resolve um problema sem criar pelo menos dez 
++	A ciência nunca resolve um problema sem criar pelo menos dez
+ 	outros.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+-	A ciencia e um cemiterio de ideias.
+-		--  Miguel de Unamuno; filosofo espanhol. 
++	A ciência e um cemiterio de idéias.
++		--  Miguel de Unamuno; filosofo espanhol.
+ %
+-	A ciencia? Ao fim e ao cabo, o que e ela se nao uma longa e 
++	A ciência? Ao fim e ao cabo, o que e ela se não uma longa e
+ 	sistematica curiosidade?
+-		--  Andre Maurois; ensaista frances. 
++		--  Andre Maurois; ensaista frances.
+ %
+-	A coerencia e o ultimo refugio dos sem imaginacao.
+-		-- Oscar Wilde 
++	A coerencia e o último refugio dos sem imaginação.
++		-- Oscar Wilde
+ %
+-	A consciencia e a covardia sao, na realidade, a mesma coisa. 
+-	Consciencia e apenas a razao social da firma.
+-		-- Oscar Wilde 
++	A consciência e a covardia sao, na realidade, a mesma coisa.
++	Consciência e apenas a razão social da firmã.
++		-- Oscar Wilde
+ %
+-	A consciencia e aquela voz interior que nos adverte de que 
++	A consciência e aquela voz interior que nos adverte de que
+ 	alguem pode estar olhando.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	A danca e uma expressao perpendicular de um desejo 
++	A danca e uma expressao perpendicular de um desejo
+ 	horizontal.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+-	A democracia e a arte e ciencia de administrar o circo a 
++	A democracia e a arte e ciência de administrar o circo a
+ 	partir da jaula dos macacos.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	A democracia e a pior forma de governo, exceto todas as 
+-	outras que tem sido tentadas de tempos em 
++	A democracia e a pior forma de governo, exceto todas as
++	outras que tem sido tentadas de tempos em
+ 	tempos.
+-		-- Winston Chrchill 
++		-- Winston Chrchill
+ %
+-	A democracia e apenas a substituicao de alguns corruptos por 
++	A democracia e apenas a substituicao de alguns corruptos por
+ 	muitos incompetentes.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+-	A democracia e o governo nas maos de homens de baixa 
+-	extracao, sem posses e com empregos vulgares.
+-		-- Aristoteles 
++	A democracia e o governo nas maos de homens de baixa
++	extração, sem posses e com empregos vulgares.
++		-- Aristoteles
+ %
+-	A democracia e uma forma de governo que preve a livre 
+-	discussao, mas que so pode ser atingida se as pessoas 
++	A democracia e uma forma de governo que preve a livre
++	discussao, mas que só pode ser atingida se as pessoas
+ 	pararem de falar.
+-		-- Clement Atlee 
++		-- Clement Atlee
+ %
+-	A democracia e uma ideia interessante e ate louvavel. 
+-	Comparada ao comunismo, que e muito chato e ao fascismo, que 
+-	e muito excitante, nao ha duvida de que se trata da forma 
++	A democracia e uma ideia interessante e ate louvavel.
++	Comparada ao comunismo, que e muito chato e ao fascismo, que
++	e muito excitante, não há duvida de que se trata da forma
+ 	mais palatavel de governo.
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+-	A diferenca entre as lembrancas falsas e as verdadeiras e a 
+-	mesma das joias: as falsas sempre apresentam ser as mais 
++	A diferenca entre as lembrancas falsas e as verdadeiras e a
++	mesma das joias: as falsas sempre apresentam ser as mais
+ 	reais, a mais brilhante.
+-		--  Salvador Dali; pintor espanhol. 
++		--  Salvador Dali; pintor espanhol.
+ %
+-	A diplomacia e apenas a continuacao da guerra por outros 
++	A diplomacia e apenas a continuação da guerra por outros
+ 	meios.
+-		-- Chu-En-Lai 
++		-- Chu-En-Lai
+ %
+-	A educacao e para o jovem o que o cultivo e para o solo
++	A educação e para o jovem o que o cultivo e para o solo
+ 		-- Marcelino Champagnat
+ %
+-	A enorme quantidade de livros circulando por ai esta nos 
++	A enorme quantidade de livros circulando por ai esta nos
+ 	deixando completamente ignorantes.
+-		-- Voltaire 
++		-- Voltaire
+ %
+-	A estupidez e muito mais fascinante que a inteligencia. A 
+-	inteligencia tem os seus limites, a estupidez 
++	A estupidez e muito mais fascinante que a inteligencia. A
++	inteligencia tem os seus limites, a estupidez
+ 	nao.
+-		--  Claude Chabol , diretor de cinema frances. 
++		--  Claude Chabol , diretor de cinema frances.
+ %
+-	A experiencia e aquilo que lhe permite reconhecer um erro 
+-	quando voce o comete de novo.
+-		-- Earl Wilson 
++	A experiência e aquilo que lhe permite reconhecer um erro
++	quando você o comete de novo.
++		-- Earl Wilson
+ %
+ 	A fama e um poderoso afrodisiaco.
+-		-- Graham Greene 
++		-- Graham Greene
+ %
+ 	A familiaridade gera o desprezo - e filhos.
+-		-- Mark Twain 
++		-- Mark Twain
+ %
+-	A felicidade consiste em um bom saldo bancario, uma boa 
+-	cozinha e uma boa digestao.
+-		-- Jean Jacques Rousseau 
++	A felicidade consiste em um bom saldo bancario, uma boa
++	cozinha e uma boa digestão.
++		-- Jean Jacques Rousseau
+ %
+-	A felicidade do homem casado depende da felicidade das 
+-	mulheres com quem ele nao se casou.
+-		-- Oscar Wilde 
++	A felicidade do homem casado depende da felicidade das
++	mulheres com quem ele não se casou.
++		-- Oscar Wilde
+ %
+-	A felicidade nao esta no fim da jornada e sim em cada curva 
++	A felicidade não está no fim da jornada e sim em cada curva
+ 	do caminho que percorremos para encontra-la
+ %
+-	A fe pode ser definida em resumo como uma crenca ilogica na 
++	A fé pode ser definida em resumo como uma crença ilógica na
+ 	ocorrencia do improvavel.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	A galinha e apenas o meio que o ovo encontrou para produzir 
++	A galinha e apenas o meio que o ovo encontrou para produzir
+ 	outro ovo.
+-		-- Samuel Butler 
++		-- Samuel Butler
+ %
+ 	A gloria do tempo e acalmar os reis em conflito.
+ 		--  William Shakespeare
+ %
+-	A grande vantagem e ser inteligente e nao parece-lo.
+-		-- Hercule Poirot 
++	A grande vantagem é ser inteligente e não parecê-lo.
++		-- Hercule Poirot
+ %
+-	A guerra e um negocio muito serio para ser deixada por conta 
++	A guerra e um negocio muito serio para ser deixada por conta
+ 	dos generais.
+-		-- Georges Clemenceau 
++		-- Georges Clemenceau
+ %
+-	A guerra, a principio, e a esperanca de que a gente vai se 
+-	dar bem; em seguida, e a expectativa de que o outro vai se 
+-	ferrar; depois a satisfacao de ver que o outro nao se deu 
+-	bem; e, finalmente, a surpresa de ver que todo mundo se 
++	A guerra, a principio, e a esperanca de que a gente vai se
++	dar bem; em seguida, e a expectativa de que o outro vai se
++	ferrar; depois a satisfação de ver que o outro não se deu
++	bem; e, finalmente, a surpresa de ver que todo mundo se
+ 	ferrou.
+-		-- Karl Kraus 
++		-- Karl Kraus
+ %
+-	A honra nao consiste em nao cair nunca, mas em levantar cada 
++	A honra não consiste em não cair nunca, mas em levantar cada
+ 	vez que cai.
+ 		--  Confucio
+ %
+-	A humildade nao e substituto para uma boa personalidade.
+-		-- Fran Lebowitz 
++	A humildade não é substituto para uma boa personalidade.
++		-- Fran Lebowitz
+ %
+-	A ignorancia e o nosso grande patrimonio nacional.
+-		-- Paulo Francis 
++	A ignorância e o nosso grande patrimonio nacional.
++		-- Paulo Francis
+ %
+-	A igualdade foi criada porque os homens nao sao identicos.
+-		-- Francois Jacob; biologo frances. 
++	A igualdade foi criada porque os homens não são identicos.
++		-- Francois Jacob; biologo frances.
+ %
+-	A igualdade pode ser um direito, mas nao ha poder sobre a 
++	A igualdade pode ser um direito, mas não há poder sobre a
+ 	Terra capaz de torna-la um fato.
+-		-- Honore de Balzac 
++		-- Honore de Balzac
+ %
+-	A imaginacao e igual a natureza . A sensualidade, sua 
++	A imaginação e igual a natureza . A sensualidade, sua
+ 	escrava.
+ 		--  Johann wolfgang von goethe ; pensador e poeta alemao.
+ %
+-	A inflacao e a unica forma de taxacao que pode ser imposta 
+-	sem legislacao.
+-		-- Milton Friedman 
++	A inflação e a única forma de taxação que pode ser imposta
++	sem legislação.
++		-- Milton Friedman
+ %
+-	A informacao mais necessaria e sempre a menos disponivel.
++	A informação mais necessária é sempre a menos disponível.
+ 		-- Joseph Murphy
+ %
+ 	A ingratidao e um dos mais imediatos frutos do egoismo.
+ %
+-	A inteligencia e caracterizada por uma incompreencao da 
++	A inteligencia e caracterizada por uma incompreencao da
+ 	vida.
+-		-- Heri Bergson; filosofo frances. 
++		-- Heri Bergson; filosofo frances.
+ %
+-	A juventude da America e a sua mais velha tradicao; existe 
++	A juventude da America e a sua mais velha tradicao; existe
+ 	ha mais de trezentos anos.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	A lealdade da tranqüilidade ao coracao.
++	A lealdade da tranqüilidade ao coração.
+ 		--  William Shakespeare
+ %
+ 	A liberdade indocil e domada pela propria desgraca.
+ 		--  William Shakespeare
+ %
+ 	A linguagem e a roupagem do pensamento.
+-		--  Samuel Johnson; critico, jornalista e poeta ingles. 
++		--  Samuel Johnson; critico, jornalista e poeta ingles.
+ %
+ 	A longo prazo, estaremos todos mortos.
+-		-- John Maynard Keynes 
++		-- John Maynard Keynes
+ %
+-	A maior parte do tempo, Marlon Brando fala como se tivesse a 
++	A maior parte do tempo, Marlon Brando fala como se tivesse a
+ 	boca cheia de papel higienico ensopado.
+-		-- Rex Reed 
++		-- Rex Reed
+ %
+-	A maior vantagem da comida macrobiotica e que, por mais que 
+-	voce coma, por mais que encha o estomago, esta sempre 
++	A maior vantagem da comida macrobiotica e que, por mais que
++	você coma, por mais que encha o estomago, esta sempre
+ 	perfeitamente subalimentado.
+-		-- Millor Fernandes 
+-%
+-	A mais excitante felicidade e aquela gerada por coisas que 
+-	estao alem do nosso alcance.
+-		-- Ogden Nash; poeta americano. 
++		-- Millor Fernandes
+ %
+-	A medicina e a unica profissao que luta incessantemente para 
+-	destruir a razao da propria existencia. 
+-		--  Jean-Jacques Rousseau; filosofo suico. 
++	A mais excitante felicidade e aquela gerada por coisas que
++	estão alem do nosso alcance.
++		-- Ogden Nash; poeta americano.
++%
++	A medicina e a única profissao que luta incessantemente para
++	destruir a razão da propria existencia.
++		--  Jean-Jacques Rousseau; filosofo suico.
+ %
+-	A melhor maneira de comecar uma amizade e com uma boa 
+-	gargalhada. De terminar com ela, tambem.
+-		-- Oscar Wilde 
++	A melhor maneira de começar uma amizade e com uma boa
++	gargalhada. De terminar com ela, também.
++		-- Oscar Wilde
+ %
+-	A melhor maneira de ser feliz e contribuir para a felicidade 
++	A melhor maneira de ser feliz e contribuir para a felicidade
+ 	dos outros.
+ 		--  Confucio
+ %
+-	A mente adora imagens cujo significado e conhecido, uma vez 
+-	que o proprio significado da vida e desconhecido.
+-		--  Rene Magritte; pintor belga.  
+-%
+-	A natureza e um maravilho livro aberto, mas poucos sabem 
+-	le-lo.
+-		-- Anomino 
++	A mente adora imagens cujo significado e conhecido, uma vez
++	que o próprio significado da vida e desconhecido.
++		--  Rene Magritte; pintor belga.
++%
++	A natureza é um maravilhoso livro aberto, mas poucos sabem
++	lê-lo.
++		-- Anomino
+ %
+-	A partir de certo ponto, o dinheiro deixa de ser o objetivo. 
++	A partir de certo ponto, o dinheiro deixa de ser o objetivo.
+ 	O interessante e o jogo.
+-		-- Aristoteles Onassis 
++		-- Aristoteles Onassis
+ %
+ 	A persistencia e o caminho do exito
+ 		-- Charles Chaplin
+ %
+-	
++
+ %
+-	A primera metade de nossas vidas e arruinada por nossos 
++	A primera metade de nossas vidas e arruinada por nossos
+ 	pais; a segunda por nossos filhos.
+-		-- Clarence Darrow 
++		-- Clarence Darrow
+ %
+-	A probabilidade do pao cair com o lado da manteiga virado 
++	A probabilidade do pão cair com o lado da manteiga virado
+ 	para baixo e proporcional ao valor do carpete.
+ 		-- Joseph Murphy
+ %
+-	A raca humana nao esta necessariamente condenada. Sou 
+-	otimista. Sempre disse que temos 51% de chance de 
++	A raça humana não esta necessariamente condenada. Sou
++	otimista. Sempre disse que temos 51% de chance de
+ 	sobreviver.
+ 		-- Arthur Charles Clarke
+ %
+-	A razao pela qual nao temos tempo para corrigir hoje e nao 
++	A razão pela qual não temos tempo para corrigir hoje e não
+ 	termos arranjado tempo para fazer certo ontem
+ 		-- Harrington
+ %
+-	A relacao sexual da essa intimidade que so tem a mae com o 
++	A relação sexual da essa intimidade que só tem a mae com o
+ 	filho.
+-		--  Isabel Allend; escritora chilena. 
++		--  Isabel Allend; escritora chilena.
+ %
+-	A saudade nao significa que estamos longe, mas sim que um 
+-	dia ja estivemos juntos.
++	A saudade não significa que estamos longe, mas sim que um
++	dia já estivemos juntos.
+ %
+-	A serenidade e suplemento de paz para as decepcoes de seus 
++	A serenidade e suplemento de paz para as decepcoes de seus
+ 	caminhos...
+ %
+-	A solucao para o problema da nostalgia sexual que presegue a 
++	A solucao para o problema da nostalgia sexual que presegue a
+ 	todos e a castidade.
+-		-- Nelson Rodrigues 
++		-- Nelson Rodrigues
+ %
+-	A teia de nossa vida e composta de fios misturados: de bens 
+-	e de males. Nossas virtudes se tornariam orgulhosas sem os 
+-	acoites de nossos defeitos, como os nossos vicios 
+-	desesperariam, se nao fossem alentados pela 
++	A teia de nossa vida e composta de fios misturados: de bens
++	e de males. Nossas virtudes se tornariam orgulhosas sem os
++	acoites de nossos defeitos, como os nossos vicios
++	desesperariam, se não fossem alentados pela
+ 	virtude.
+ 		--  William Shakespeare
+ %
+-	A uniao perfeita sera possivel pelo sentimento e nao pela 
+-	sensacao.
++	A união perfeita sera possível pelo sentimento e não pela
++	sensação.
+ %
+-	A utopia e o derradeiro reduto dos que nao desesperaram da 
++	A utopia e o derradeiro reduto dos que não desesperaram da
+ 	liberdade.
+ 		-- Tristao de Ataide Alceu Amoroso Lima
+ %
+-	A utopia e o ponto de partida de todo processo e o germe de 
++	A utopia e o ponto de partida de todo processo e o germe de
+ 	um futuro melhor.
+ 		-- Roberto das Neves
+ %
+-	A utopia, critica e construtiva, e necessaria: antecipa a 
++	A utopia, critica e construtiva, e necessaria: antecipa a
+ 	realidade de amanha.
+ 		-- Evaristo de Moraes Filho
+ %
+ 	A velhice e a parodia da vida.
+-		-- Simone de Beauvoir 
++		-- Simone de Beauvoir
+ %
+ 	A verdade e a melhor camuflagem. Ninguem acredita nela.
+-		--  Max Frisch; escritor suico. 
++		--  Max Frisch; escritor suico.
+ %
+-	A vida e uma coisa maldita depois da outra.
++	A vida é uma coisa maldita depois da outra.
+ 		-- Hubbard Elbert Green
+ %
+-	A vida esta cheia de desafios que, se aproveitados de forma 
+-	criativa,  transformam-se em oportunidades
++	A vida está cheia de desafios que, se aproveitados de forma
++	criativa, transformam-se em oportunidades
+ 		-- Marxwell Maltz
+ %
+-	A vida feliz, meu Deus, consiste em nos alegrarmos em vos, 
++	A vida feliz, meu Deus, consiste em nos alegrarmos em vos,
+ 	de vos e por vos
+ %
+-	A vida nao raro nos mostra situacoes em que a realidade 
++	A vida não raro nos mostra situações em que a realidade
+ 	parece mais inverossimil que a fantasia.
+ 		-- B. Calheiros Bomfim
+ %
+-	A violencia e o ultimo refugio do incompetente.
++	A violência e o último refugio do incompetente.
+ 		-- Isaac Asimov
+ %
+-	A unica alegria do mundo e comecar.
+-		--  Cesare Pavese; romancista e poeta italiano 
++	A única alegria do mundo e começar.
++		--  Cesare Pavese; romancista e poeta italiano
+ %
+-	A unica coisa que faz a felicidade de uma mulher e quando 
+-	ela consegue aparentar dez anos a menos do que a propria 
++	A única coisa que faz a felicidade de uma mulher e quando
++	ela consegue aparentar dez anos a menos do que a propria
+ 	filha.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	A unica profundidade que os homens admiram numa mulher e seu 
++	A única profundidade que os homens admiram numa mulher e seu
+ 	decote.
+-		-- Zsa Zsa Gabor 
++		-- Zsa Zsa Gabor
+ %
+-	Abencoados os que nunca esperam por nada e assim nunca se 
++	Abencoados os que nunca esperam por nada e assim nunca se
+ 	desapontarao
+ 		-- Jonathan Swift
+ %
+-	Abstemio, s. m. Uma pessoa fraca que se deixa cair na 
+-	tentacao de negar a si propria um prazer.
+-		-- Ambrose Bierge 
++	Abstemio, s. m. Uma pessoa fraca que se deixa cair na
++	tentação de negar a si propria um prazer.
++		-- Ambrose Bierge
+ %
+ 	Acho que penso; logo, acho que existo.
+-		-- Ambrose Bierce 
++		-- Ambrose Bierce
+ %
+-	Acreditarmos verdadeiramente naquilo que desejamos e o 
++	Acreditarmos verdadeiramente naquilo que desejamos e o
+ 	primeiro passo para que ele se torne realidade.
+ %
+ 	Adolescencia: Um estagio entre a infancia e o adulterio.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	Adoro a humanidade. O que nao suporto sao as pessoas.
+-		-- Charles Schultz 
++	Adoro a humanidade. O que não suporto são as pessoas.
++		-- Charles Schultz
+ %
+-	Adoro os catolicos. Se nao insistissem tanto em misturar-se 
+-	aos cristaos, ja teria me convertido a eles.
+-		-- Aldous Huxley 
++	Adoro os catolicos. Se não insistissem tanto em misturar-se
++	aos cristaos, já teria me convertido a eles.
++		-- Aldous Huxley
+ %
+-	Algumas pessoas sao tao discretas quanto uma tarantula num 
++	Algumas pessoas são tao discretas quanto uma tarantula num
+ 	pedaco de pudim.
+-		-- Raymond Chandler 
++		-- Raymond Chandler
+ %
+-	Amar nao e desejar...e compreender sempre...doar-se...renunciando 
+-	aos proprios caprichos
++	Amar não e desejar...e compreender sempre...doar-se...renunciando
++	aos próprios caprichos
+ %
+-	Amar nao e so estar junto, e tambem se envolver com o outro
++	Amar não e só estar junto, e também se envolver com o outro
+ 		-- Zinder
+ %
+-	Amar e encontrar a felicidade de outrem a propria 
++	Amar e encontrar a felicidade de outrem a propria
+ 	felicidade.
+-		-- Leibnitz 
++		-- Leibnitz
+ %
+-	Ame muito as pessoas, mas nunca tanto ao ponto de ter medo 
++	Ame muito as pessoas, mas nunca tanto ao ponto de ter medo
+ 	de perde-las
+ 		-- Zinder
+ %
+-	Ame, evitando bloquar a liberdade do coracao querido.
++	Ame, evitando bloquar a liberdade do coração querido.
+ %
+ 	Amor: Uma insanidade passageira, curavel pelo casamento.
+-		-- Ambrose Bierge 
++		-- Ambrose Bierge
+ %
+ 	Aquele a quem muito foi dado, muito sera exigido.
+ 		-- Lou Austin
+@@ -3248,98 +3196,98 @@
+ 	Aquele que gosta de ser adulado e digno do adulador.
+ 		--  William Shakespeare
+ %
+-	Aquele que recebeu um favor deve recordar-se dele, o que fez 
++	Aquele que recebeu um favor deve recordar-se dele, o que fez
+ 	um favor deve esquece-lo.
+ 		--  Confucio
+ %
+-	Arte e carater nao tem absolutamente uma coisa a ver com a 
++	Arte e carater não tem absolutamente uma coisa a ver com a
+ 	outra, infelizmente. Ou felizmente.
+-		-- Henfil 
++		-- Henfil
+ %
+-	As armas do civilizador sao o alcool, a sifilis, as calcas e 
++	As armas do civilizador são o alcool, a sifilis, as calcas e
+ 	a Biblia.
+-		-- Havelock Ellis 
++		-- Havelock Ellis
+ %
+-	As coisas chegaram a tal ponto hoje em dia que, se um homem 
+-	abrir a porta para voce passar primeiro, ele deve ser o 
++	As coisas chegaram a tal ponto hoje em dia que, se um homem
++	abrir a porta para você passar primeiro, ele deve ser o
+ 	porteiro.
+ 		-- Mae West
+ %
+-	As coisas mais desagradaveis que os nossos piores inimigos 
+-	nos dizem pela frente nao se comparam com as que nossos 
++	As coisas mais desagradaveis que os nossos piores inimigos
++	nos dizem pela frente não se comparam com as que nossos
+ 	amigos dizem de nos pelas costas.
+-		-- Alfred de Musset 
++		-- Alfred de Musset
+ %
+-	As coisas podem piorar, voce e que nao tem imaginacao.
++	As coisas podem piorar, você e que não tem imaginação.
+ 		-- Joseph Murphy
+ %
+ 	As coisas vao piorar muito antes de piorar.
+ 		-- Lily Tomlin
+ %
+-	As criancas nao tem muito gosto para se vestir. Os adultos 
+-	tambem nao, mas nelas isso e mais reparado.
+-		-- Fran Lebowitz 
++	As crianças não tem muito gosto para se vestir. Os adultos
++	também nao, mas nelas isso e mais reparado.
++		-- Fran Lebowitz
+ %
+-	As criancas sao geralmente pequenininhas, o que as torna 
+-	particularmente uteis para pegar coisas em lugares que voce 
++	As crianças são geralmente pequenininhas, o que as torna
++	particularmente uteis para pegar coisas em lugares que você
+ 	nao consegue alcancar.
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+-	As feridas do amor so se cicatrizam com o encontro de outro 
++	As feridas do amor só se cicatrizam com o encontro de outro
+ 	amor
+ %
+-	As grandes convivencias estao a um milimetro do tedio.
+-		-- Nelson Rodrigues 
++	As grandes convivencias estão a um milimetro do tedio.
++		-- Nelson Rodrigues
+ %
+-	As mulheres americanas esperam encontrar em seus maridos uma 
+-	perfeicao que as mulheres inglesas so esperam encontrar em 
++	As mulheres americanas esperam encontrar em seus maridos uma
++	perfeicao que as mulheres inglesas só esperam encontrar em
+ 	seus copeiros.
+-		-- W. Somerset Maugham 
++		-- W. Somerset Maugham
+ %
+-	As mulheres geralmente traem seus maridos com outros maridos 
+-	- o que da ao adulterio um certo car ter conjugal, honrado e 
++	As mulheres geralmente traem seus maridos com outros maridos
++	- o que da ao adulterio um certo car ter conjugal, honrado e
+ 	legal.
+-		-- Henri Jeanson 
++		-- Henri Jeanson
+ %
+-	As pessoas entram e saem de nossas vidas. Mas elas nao vao 
+-	so... Sempre  levam um pouco de nos e deixam um pouco de 
++	As pessoas entram e saem de nossas vidas. Mas elas não vao
++	so... Sempre  levam um pouco de nos e deixam um pouco de
+ 	si
+ 		-- Gislaine
+ %
+-	As pessoas nunca se lembram, mas o computador nunca 
++	As pessoas nunca se lembram, mas o computador nunca
+ 	esquece.
+-		-- Marshall McLuhan 
++		-- Marshall McLuhan
+ %
+-	As pessoas que contam seus pintos com os ovos no choco fazem 
+-	muito bem, porque pintos correm para la e para ca de forma 
+-	tao absurda, que e impossivel conta-los direito.
+-		-- Oscar Wilde 
++	As pessoas que contam seus pintos com os ovos no choco fazem
++	muito bem, porque pintos correm para la e para ca de forma
++	tao absurda, que e impossível conta-los direito.
++		-- Oscar Wilde
+ %
+-	As pessoas que nunca tem tempo nao consegue grandes coisas.
+-		--  George C. Lichtemberg; fisico alemao. 
++	As pessoas que nunca tem tempo não consegue grandes coisas.
++		--  George C. Lichtemberg; fisico alemao.
+ %
+-	As pessoas que passam por nos, nao vao so e nao nos deixam 
+-	so. Levam um pouco da gente, deixando um pouco de 
++	As pessoas que passam por nos, não vao só e não nos deixam
++	so. Levam um pouco da gente, deixando um pouco de
+ 	si.
+ %
+ 	As utopias sao, muitas vezes, verdades prematuras.
+ 		-- Lamartine
+ %
+-	As vezes mando filmar algumas cenas fora de foco. E o unico 
+-	jeito de ganhar o premio de melhor filme 
++	As vezes mando filmar algumas cenas fora de foco. E o unico
++	jeito de ganhar o premio de melhor filme
+ 	estrangeiro.
+-		-- Billy Wilder 
++		-- Billy Wilder
+ %
+ 	As vezes um charuto e apenas um charuto.
+-		-- Sigmund Freud 
++		-- Sigmund Freud
+ %
+-	As virtudes nao se alcancam sem esforco; os defeitos nao se 
++	As virtudes não se alcancam sem esforco; os defeitos não se
+ 	corrigem sem luta
+ 		-- Marcelino Champagnat
+ %
+-	As unicas pessoas que pensam mais em dinheiro do que os 
++	As unicas pessoas que pensam mais em dinheiro do que os
+ 	ricos sao, naturalmente, os pobres.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+ 	Ate que o sol brilhe, acendamos uma vela na escuridao.
+ 		--  Confucio
+@@ -3348,652 +3296,652 @@
+ 		--  William Shakespeare
+ %
+ 	Castidade: A mais anormal das perversoes sexuais.
+-		-- Aldous Huxley 
++		-- Aldous Huxley
+ %
+-	Certamente nao ha nada tao inutil quanto fazer com grande 
+-	eficiencia algo que  nunca deveria ser feito
++	Certamente não há nada tao inutil quanto fazer com grande
++	eficiência algo que  nunca deveria ser feito
+ 		-- Peter Drucker
+ %
+ 	Certas mulheres deviam apanhar regularmente, como gongos.
+-		-- Noel Coward 
++		-- Noel Coward
+ %
+-	Ciclismo: Nao importa para onde voce vai; e sempre morro 
++	Ciclismo: Não importa para onde você vai; e sempre morro
+ 	acima e contra o vento.
+ 		-- Joseph Murphy
+ %
+-	Cigarros sao a forma perfeita de prazer: elegantes e 
++	Cigarros são a forma perfeita de prazer: elegantes e
+ 	insatisfatorios.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Cinema-verdade? Prefiro o cinema-mentira. A mentira e sempre 
++	Cinema-verdade? Prefiro o cinema-mentira. A mentira e sempre
+ 	mais interessante do que a verdade.
+-		-- Federico Fellini 
++		-- Federico Fellini
+ %
+-	Citacao: ato de repetir de modo errado as palavras alheias.
+-		--  Ambrose Bierce; jornalista e cientista americano. 
++	Citação: ato de repetir de modo errado as palavras alheias.
++		--  Ambrose Bierce; jornalista e cientista americano.
+ %
+-	Com aquelas orelhas, Clark Gable me lembra um taxi com as 
++	Com aquelas orelhas, Clark Gable me lembra um taxi com as
+ 	duas portas abertas.
+-		-- Howard Hughes 
++		-- Howard Hughes
+ %
+ 	Comer e humano, digerir e divino.
+-		-- Mark Twain 
++		-- Mark Twain
+ %
+-	Cometer um crime e um erro. Nunca se deve fazer nada de que 
++	Cometer um crime e um erro. Nunca se deve fazer nada de que
+ 	nao se possa falar durante a sobremesa.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Como Deus nao pode alterar o passado, e obrigado a depender 
++	Como Deus não pode alterar o passado, e obrigado a depender
+ 	dos historiadores.
+-		-- Samuel Butler 
++		-- Samuel Butler
+ %
+-	Como o patriotismo, fazer o bem tornou-se o expediente 
+-	favorito de pessoas com alguma coisa para 
++	Como o patriotismo, fazer o bem tornou-se o expediente
++	favorito de pessoas com alguma coisa para
+ 	vender.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	Como sao admiraveis as pessoas que nao conhecemos bem.
+-		--  Millor Fernandes; humorista brasileiro.  
++	Como são admiraveis as pessoas que não conhecemos bem.
++		--  Millor Fernandes; humorista brasileiro.
+ %
+-	Confissoes podem fazer bem A alma, mas sao pessimas para a 
+-	reputacao.
+-		-- Thomas Dewar 
+-%
+-	Confissoes podem fazer bem a alma, mas sao pessimas para a 
+-	reputacao.
+-		-- Thomas Dewar 
++	Confissoes podem fazer bem A alma, mas são pessimas para a
++	reputação.
++		-- Thomas Dewar
++%
++	Confissoes podem fazer bem a alma, mas são pessimas para a
++	reputação.
++		-- Thomas Dewar
+ %
+ 	Conservo a justa medida das coisas ate no absurdo.
+ 		-- Carlos Drummond de Andrade
+ %
+-	Costumamos chama-la de economia politica, porque nao tem 
++	Costumamos chama-la de economia politica, porque não tem
+ 	nada a ver nem com economia, nem com politica.
+-		-- Stephen Leacock 
++		-- Stephen Leacock
+ %
+-	Cristaos, s. m. Aqueles que seguem a risca os ensinamentos 
+-	de Cristo, desde que estes nao sejam incompativeis com as 
++	Cristaos, s. m. Aqueles que seguem a risca os ensinamentos
++	de Cristo, desde que estes não sejam incompativeis com as
+ 	suas vidas de pecado.
+-		-- Ambrose Bierce 
++		-- Ambrose Bierce
+ %
+-	Criticos sao sujeitos que passam anos tentando encontrar um 
++	Criticos são sujeitos que passam anos tentando encontrar um
+ 	erro do escritor - e acabam encontrando.
+-		-- Peter Ustinov 
++		-- Peter Ustinov
+ %
+-	Cultivar a alegria custa menos que a tristeza e traz 
++	Cultivar a alegria custa menos que a tristeza e traz
+ 	melhores resultados
+ 		-- Marques de Marica
+ %
+-	Culto e aquele que sabe onde encontrar aquilo que nao sabe
++	Culto e aquele que sabe onde encontrar aquilo que não sabe
+ 		-- Georg Simmel
+ %
+-	De onde menos se espera e que nao sai nada mesmo.
++	De onde menos se espera e que não sai nada mesmo.
+ 		-- Barao de Itarare Aparicio Torelly
+ %
+-	
++
+ %
+-	Depois de passar anos em Hollywood, convenci-me de que os 
+-	verdadeiros herois do cinema estao na plateia.
+-		-- Wilson Mizner 
++	Depois de passar anos em Hollywood, convenci-me de que os
++	verdadeiros herois do cinema estão na plateia.
++		-- Wilson Mizner
+ %
+ 	Desconfie de qualquer empreitada que exija roupas novas.
+-		-- Henry David Thoreau 
++		-- Henry David Thoreau
+ %
+ 	Descrever a felicidadde e diminuila
+-		--  Henry Beyle; romancista frances. 
++		--  Henry Beyle; romancista frances.
+ %
+-	Desejando o impossivel, a luta de cada um no dia-a-dia 
++	Desejando o impossivel, a luta de cada um no dia-a-dia
+ 	podera transformar o planeta.
+ 		-- Marcelo Rubens Paiva
+ %
+ 	Deus esta do lado dos grandes batalhoes.
+-		-- Voltaire 
++		-- Voltaire
+ %
+ 	Deus me perdoara. E a Sua profissao.
+ 		-- Heinrich Heine
+ %
+-	Deus nao e compativel com as maquinaria, a medicina e a 
+-	felicidade universal. A gente tem de escolher. A nossa 
+-	civilizacao escolheu a maquina, a medicina e a 
++	Deus não e compativel com as maquinaria, a medicina e a
++	felicidade universal. A gente tem de escolher. A nossa
++	civilização escolheu a maquina, a medicina e a
+ 	felicidade.
+-		--  Aldous Huxley; escritor ingles. 
++		--  Aldous Huxley; escritor ingles.
+ %
+-	Deve ser muito desagradavel nao ter dinheiro.
+-		-- Aristoteles Onassis 
++	Deve ser muito desagradavel não ter dinheiro.
++		-- Aristoteles Onassis
+ %
+-	Deve-se escolher os amigos pela beleza, os conhecidos pelo 
+-	car ter e os inimigos pela inteligencia.
+-		-- Oscar Wilde 
++	Deve-se escolher os amigos pela beleza, os conhecidos pelo
++	caráter e os inimigos pela inteligência.
++		-- Oscar Wilde
+ %
+-	Deve-se perdoar os inimigos, mas nao antes que eles sejam 
++	Deve-se perdoar os inimigos, mas não antes que eles sejam
+ 	enforcados.
+-		-- Heinrich Heine 
++		-- Heinrich Heine
+ %
+-	Deve-se tomar cuidado com os Engenheiros: eles comecaram 
+-	inventando a maquina de costura e terminaram pela bomba 
+-	atomica.
+-		-- Marcel Pagnol 
++	Deve-se tomar cuidado com os Engenheiros: eles começaram
++	inventando a máquina de costura e terminaram pela bomba
++	atômica.
++		-- Marcel Pagnol
+ %
+-	Devemos desconfiar sempre um dos outros. E nossa unica 
++	Devemos desconfiar sempre um dos outros. E nossa única
+ 	defesa contra a traicao.
+-		-- Tennessee Williams 
++		-- Tennessee Williams
+ %
+-	Devemos a Idade Media duas das piores invencoes da 
++	Devemos a Idade Media duas das piores invencoes da
+ 	Humanidade: a polvora e a ideia de amor romantico.
+-		-- Andre Maurois 
++		-- Andre Maurois
+ %
+-	Dinheiro semeia dinheiro. O primeiro centavo e, As vezes, 
+-	mais dificil de ganhar do que o primeiro 
++	Dinheiro semeia dinheiro. O primeiro centavo e, As vezes,
++	mais difícil de ganhar do que o primeiro
+ 	milhao.
+-		-- Jean Jacques Rousseau 
++		-- Jean Jacques Rousseau
+ %
+-	Disneyworld: A maior ratoeira humana ja construida por um 
++	Disneyworld: A maior ratoeira humana já construida por um
+ 	rato.
+-		-- George S. Kaufman 
++		-- George S. Kaufman
+ %
+-	Do jeito que as coisas estao, de duas uma: ou estou perdido 
+-	ou nao me acham.
++	Do jeito que as coisas estão, de duas uma: ou estou perdido
++	ou não me acham.
+ 		-- Chico de Olinda
+ %
+-	É dificil dizer o que e impossivel, pois a fantasia de 
+-	ontem e a esperanca de hoje e a realidade de 
++	É difícil dizer o que e impossivel, pois a fantasia de
++	ontem e a esperanca de hoje e a realidade de
+ 	amanha.
+ 		-- Robert H. Goddard
+ %
+-	É preciso provocar sistematicamente confusao. Isso 
+-	promove a criatividade. Tudo aquilo que e contraditorio gera 
++	É preciso provocar sistematicamente confusao. Isso
++	promove a criatividade. Tudo aquilo que e contraditorio gera
+ 	vida.
+ 		-- Salvador Dali
+ %
+-	É sempre mais dificil ancorar um navio no espaco.
++	É sempre mais difícil ancorar um navio no espaco.
+ 		-- Ana Cristina Cezar
+ %
+-	Egoista, s. m. Um sujeito mais interessado em si proprio que 
++	Egoista, s. m. Um sujeito mais interessado em si próprio que
+ 	em mim.
+-		-- Ambrose Bierce 
++		-- Ambrose Bierce
+ %
+-	Ela herdou todos os seus tracos do pai. Ele e cirurgiao 
++	Ela herdou todos os seus tracos do pai. Ele e cirurgiao
+ 	plastico.
+-		-- Groucho Marx 
++		-- Groucho Marx
+ %
+-	Em materia de amor, importante que as primeiras impressoes 
+-	venham das belezas morais; as produzidas pela beleza fisica 
++	Em materia de amor, importante que as primeiras impressoes
++	venham das belezas morais; as produzidas pela beleza fisica
+ 	dissipam-se muito depressa.
+-		-- Madame du Defante 
++		-- Madame du Defante
+ %
+-	Em questoes de Estado, cuide das formalidades e pode 
++	Em questoes de Estado, cuide das formalidades e pode
+ 	esquecer as moralidades.
+-		-- Mark Twain 
++		-- Mark Twain
+ %
+-	Em todo casal ha pelo menos um tolo.
+-		-- Henry Fielding 
++	Em todo casal há pelo menos um tolo.
++		-- Henry Fielding
+ %
+-	Enquanto houver burguesia nao vai haver poesia.
+-		-- Cazuza 
++	Enquanto houver burguesia não vai haver poesia.
++		-- Cazuza
+ %
+-	Envelhecer e como morrer afogado - uma sensacao realmente 
+-	deliciosa, depois que voce para de se debater.
+-		-- Edna Ferber 
++	Envelhecer e como morrer afogado - uma sensação realmente
++	deliciosa, depois que você para de se debater.
++		-- Edna Ferber
+ %
+-	Era tao azarado que, se quisesse achar uma agulha no 
+-	palheiro, era so sentar-se nele.
++	Era tao azarado que, se quisesse achar uma agulha no
++	palheiro, era só sentar-se nele.
+ 		-- Max Nunes
+ %
+-	Esse nao e um romance para ser posto casualmente de lado. E 
++	Esse não e um romance para ser posto casualmente de lado. E
+ 	para ser atirado longe com toda a forca.
+-		-- Dorothy Parker 
++		-- Dorothy Parker
+ %
+ 	Estar compromissado e meio caminho andado para  sucesso
+ 		-- Zinder
+ %
+-	Este livro e bom e original. Infelizmente a parte que e boa 
+-	nao e original, e a parte que e original nao e 
++	Este livro e bom e original. Infelizmente a parte que e boa
++	nao e original, e a parte que e original não e
+ 	boa.
+-		-- Samuel Johnson 
++		-- Samuel Johnson
+ %
+ 	Estou aguardando o fim do cinema com otimismo.
+-		-- Jean-Luc Godard 
++		-- Jean-Luc Godard
+ %
+-	Estou convencido da existencia de um curso de especializacao 
+-	em todos os servicos diplom ticos, no qual os futuros 
+-	diplomatas sao ensinados a gaguejar.
++	Estou convencido da existencia de um curso de especialização
++	em todos os servicos diplom ticos, no qual os futuros
++	diplomatas são ensinados a gaguejar.
+ 		-- Peter Ustinov
+ %
+-	Eu nunca disse que os atores eram gado. Disse apenas que 
++	Eu nunca disse que os atores eram gado. Disse apenas que
+ 	deveriam ser tratados como gado.
+-		-- Alfred Hitchcock 
++		-- Alfred Hitchcock
+ %
+-	Eu nao peco que me facam jovem de novo. Tudo o que quero e 
++	Eu não peco que me facam jovem de novo. Tudo o que quero e
+ 	continuar envelhecendo
+-		--  Konrad Adenauer; estadista alemao. 
++		--  Konrad Adenauer; estadista alemao.
+ %
+-	Existem dois tipos de esparadrapo: o que nao gruda, e o que 
++	Existem dois tipos de esparadrapo: o que não gruda, e o que
+ 	nao sai.
+ 		-- Joseph Murphy
+ %
+-	Fabricar televisao pode ser tecnicamente possivel; mas 
+-	comercialmente, seria uma incongruidade. Nao devemos perder 
++	Fabricar televisao pode ser tecnicamente possivel; mas
++	comercialmente, seria uma incongruidade. Não devemos perder
+ 	tempos em quimeras.
+ 		-- Lee de Forest, 1926
+ %
+-	Fatos nao cessam de existir se forem ignorados.
++	Fatos não cessam de existir se forem ignorados.
+ 		-- - Aldous Huxley
+ %
+-	Fatos sao como bonecos de ventriloquo. Sentados no colo de 
+-	um sabio, podem ser levados a dizer coisas sabias; se nao, 
+-	nao dizem nada ou dizem asneiras ou expressam o mais puro 
++	Fatos são como bonecos de ventriloquo. Sentados no colo de
++	um sábio, podem ser levados a dizer coisas sabias; se nao,
++	nao dizem nada ou dizem asneiras ou expressam o mais puro
+ 	diabolismo.
+-		-- Aldous Huxley 
++		-- Aldous Huxley
+ %
+-	Feiura, s. f. Uma dadiva dos deuses a certas mulheres, 
++	Feiura, s. f. Uma dadiva dos deuses a certas mulheres,
+ 	permitindo-lhes a virtude sem a humildade.
+-		-- Ambrose Bierce 
++		-- Ambrose Bierce
+ %
+-	Feliz de quem entende que e preciso mudar muito para ser 
++	Feliz de quem entende que e preciso mudar muito para ser
+ 	sempre o mesmo
+ 		--  Dom Helder Camara.
+ %
+-	Felizes sao os povos cujos anais estao em branco nos livros 
++	Felizes são os povos cujos anais estão em branco nos livros
+ 	de Historia.
+-		-- Thomas Carlyle 
++		-- Thomas Carlyle
+ %
+ 	Fragilidade, teu nome e mulher!
+ 		--  William Shakespeare
+ %
+-	Garantir um futuro de felicidade significa saber espalhar 
++	Garantir um futuro de felicidade significa saber espalhar
+ 	hoje as sementes da alegria e do amor...
+ %
+-	Herege nao e aquele que arde na fogueira e sim aquele que a 
++	Herege não e aquele que arde na fogueira e sim aquele que a
+ 	acende.
+ 		--  William Shakespeare
+ %
+-	Historia, s. f. Um relato, quase todo falso, de eventos, 
+-	quase todos sem importancia, provocados por governantes, 
+-	quase todos uns velhacos, e soldados, quase todos uns 
++	Historia, s. f. Um relato, quase todo falso, de eventos,
++	quase todos sem importancia, provocados por governantes,
++	quase todos uns velhacos, e soldados, quase todos uns
+ 	patetas.
+-		-- Ambrose Bierce 
++		-- Ambrose Bierce
+ %
+-	Historia: um conjunto de mentiras sobre as quais se chegou a 
++	Historia: um conjunto de mentiras sobre as quais se chegou a
+ 	um acordo.
+-		-- Napoleao Bonaparte 
++		-- Napoleao Bonaparte
+ %
+-	Hollywood nao e um lugar para atores profissionais. A 
++	Hollywood não e um lugar para atores profissionais. A
+ 	competicao dos amadores e desleal.
+-		-- Fred Allen 
++		-- Fred Allen
+ %
+ 	Humor e o caos emocional relembrado em tranqüilidade.
+-		-- James Thurber 
++		-- James Thurber
+ %
+-	Ha alguma coisa nos armarios que deixa os esqueletos 
++	Ha alguma coisa nos armarios que deixa os esqueletos
+ 	inquietos.
+-		-- John Barrymore 
++		-- John Barrymore
+ %
+-	Ha grandes homens que fazem que todos se sintam pequenos. 
+-	Mas o verdadeiro grande homem e aquele que faz com que todos 
++	Ha grandes homens que fazem que todos se sintam pequenos.
++	Mas o verdadeiro grande homem e aquele que faz com que todos
+ 	se sintam grandes.
+ 		-- G.K.C.
+ %
+-	Ha mais misterios entre o ceu e a terra do que pode perceber 
++	Ha mais misterios entre o ceu e a terra do que pode perceber
+ 	a nossa va filosofia.
+ 		--  William Shakespeare
+ %
+-	Ha momentos em que se tem de escolher entre ser humano e ter 
++	Ha momentos em que se tem de escolher entre ser humano e ter
+ 	bom gosto.
+-		-- Bertold Brecht 
++		-- Bertold Brecht
+ %
+-	Ha pessoas que choram por saber que as rosas tem espinhos, 
++	Ha pessoas que choram por saber que as rosas tem espinhos,
+ 	outros riem por saber que espinhos tem rosas.
+ 		--  Confucio
+ %
+ 	Ha quedas que provocam ascensoes maiores.
+ 		--  William Shakespeare
+ %
+-	Ha uma seria tendencia ao capitalismo entre os camponeses 
++	Ha uma seria tendencia ao capitalismo entre os camponeses
+ 	afluentes.
+-		-- Mao-Tse-Tung 
++		-- Mao-Tse-Tung
+ %
+-	Ideias sao como barbas: o homem so tem uma quando cresce.
+-		-- Voltaire 
++	Ideias são como barbas: o homem só tem uma quando cresce.
++		-- Voltaire
+ %
+ 	Infeliz o povo que precisa de herois.
+-		-- Bertold Brecht 
++		-- Bertold Brecht
+ %
+-	Infelizmente devo declinar do seu convite, devido a um 
++	Infelizmente devo declinar do seu convite, devido a um
+ 	compromisso assumido posteriormente.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+ 	Invejo a burrice, porque e eterna.
+-		-- Nelson Rodrigues 
++		-- Nelson Rodrigues
+ %
+-	Isto e que e amor? Usar uma pessoa? Entao talvez o odio seja 
++	Isto e que e amor? Usar uma pessoa? Então talvez o ódio seja
+ 	nao conseguir usa-la.
+-		-- Gore Vidal 
++		-- Gore Vidal
+ %
+-	Justificativa e coisa de perdedor. Enquanto o vice explica o 
++	Justificativa e coisa de perdedor. Enquanto o vice explica o
+ 	campeao comemora.
+ %
+-	Ja e permitido a uma mulher catolica recorrer a Matematica 
+-	para evitar a gravidez, mas continua sendo-lhe proibido 
++	Ja e permitido a uma mulher catolica recorrer a Matematica
++	para evitar a gravidez, mas continua sendo-lhe proibido
+ 	recorrer a Fisica e a Quimica.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	Lei da experiencia: nao vai funcionar.
++	Lei da experiencia: não vai funcionar.
+ 		-- Joseph Murphy
+ %
+ 	Lembre-se de que um bom exemplo e o melhor sermao
+ 		-- H. Jackson Brown Jr.
+ %
+-	Liberdade significa responsabilidade. E por isso que tanta 
++	Liberdade significa responsabilidade. E por isso que tanta
+ 	gente tem medo dela.
+-		--  George Bernard Shaw; dramaturgo irlandes.  
++		--  George Bernard Shaw; dramaturgo irlandes.
+ %
+ 	Mais vale um cachorro amigo que um amigo cachorro.
+-		-- Anonimo 
++		-- Anonimo
+ %
+ 	Mais vale um homem em casa do que dois na rua.
+-		-- Mae West 
++		-- Mae West
+ %
+-	Mais vale um passaro na mao do que um voando sobre a nossa 
++	Mais vale um passaro na mao do que um voando sobre a nossa
+ 	cabeca.
+ 		-- Joseph Murphy
+ %
+-	Manejar o silencio e mais dificil que manejar a palavra
++	Manejar o silencio e mais difícil que manejar a palavra
+ 		-- George Clemendeau
+ %
+ 	Mantenha um diario, querida, e um dia ele a mantera.
+-		-- Mae West 
++		-- Mae West
+ %
+-	Mentir demanda trabalho, esforco de imaginacao, engenho 
+-	agudo. Quem mente e obrigado a mentir mais, a mentir 
++	Mentir demanda trabalho, esforco de imaginação, engenho
++	agudo. Quem mente e obrigado a mentir mais, a mentir
+ 	sempre.
+-		-- Galeao Coutinho 
++		-- Galeao Coutinho
+ %
+-	Meu sonho e dever muito, nao ter nada e, o resto, deixar 
++	Meu sonho e dever muito, não ter nada e, o resto, deixar
+ 	para os pobres.
+-		-- Francois Rabelais 
++		-- Francois Rabelais
+ %
+-	Minha mulher se divorciou de mim alegando incompatibilidade. 
++	Minha mulher se divorciou de mim alegando incompatibilidade.
+ 	Alem disso, acho que ela me odiava.
+-		-- Oscar Levant 
++		-- Oscar Levant
+ %
+-	Minha unica restricao aos cigarros e que eles ja nao vem 
++	Minha única restricao aos cigarros e que eles já não vem
+ 	acesos.
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+ 	Morremos a cada momento para este mesmo momento.
+-		-- Charles Morgan; escritor ingles. 
++		-- Charles Morgan; escritor ingles.
+ %
+-	Mostre-me um homem que nao beba e eu lhe provarei que ele e 
++	Mostre-me um homem que não beba e eu lhe provarei que ele e
+ 	parte camelo.
+-		-- W. C. Fields 
++		-- W. C. Fields
+ %
+-	Muitas ojerizas sao simples: estupidez, opressao, crime, 
++	Muitas ojerizas são simples: estupidez, opressao, crime,
+ 	crueldade e musica de elevador.
+-		-- Vladimir Nabokov 
++		-- Vladimir Nabokov
+ %
+-	Muitas pessoas fazem objecao ao cigarro. Pois eu tambem faco 
+-	objecao a uma serie de coisas: locao apos a barba, adultos 
+-	que andam de skate, criancas que falam frances ou pessoas 
+-	com um bronzeado indevido. Mas nao saio por ai desfraldando 
++	Muitas pessoas fazem objecao ao cigarro. Pois eu também faco
++	objecao a uma serie de coisas: locao apos a barba, adultos
++	que andam de skate, crianças que falam frances ou pessoas
++	com um bronzeado indevido. Mas não saio por ai desfraldando
+ 	bandeiras ou tentando mudar a lei.
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+-	Muitos homens devem seu sucesso a primeira mulher - e sua 
++	Muitos homens devem seu sucesso a primeira mulher - e sua
+ 	segunda mulher ao sucesso.
+-		-- Jim Backus 
++		-- Jim Backus
+ %
+-	Muitos homens se casam por cansaco; as mulheres, por 
++	Muitos homens se casam por cansaco; as mulheres, por
+ 	curiosidade. Ambos se decepcionam.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Nao adianta amarrar o pao com manteiga nas costas do gato e 
+-	o jogar no carpete. Provavelmente o gato comera o pao antes 
++	Não adianta amarrar o pão com manteiga nas costas do gato e
++	o jogar no carpete. Provavelmente o gato comera o pão antes
+ 	de cair... em pe.
+ 		-- Joseph Murphy
+ %
+-	Nao ha nada como o sonho para criar o futuro. Utopia hoje, 
++	Não há nada como o sonho para criar o futuro. Utopia hoje,
+ 	carne e osso amanha.
+ 		-- Victor Hugo
+ %
+-	Nao leve a vida tao a serio. Nao conseguira sair dela com 
++	Não leve a vida tao a serio. Não conseguira sair dela com
+ 	vida.
+ 		-- Hubbard Kin
+ %
+-	Nao se preocupe, porque nada vai dar certo.
++	Não se preocupe, porque nada vai dar certo.
+ 		-- Anonimo
+ %
+-	Nao sou um utopico. Sou um idealista pratico.
++	Não sou um utopico. Sou um idealista pratico.
+ 		-- Gandhi Mahatma
+ %
+-	Na guerra, nao ha substituto para a vitoria.
+-		-- General Douglas McArthur 
++	Na guerra, não há substituto para a vitória.
++		-- General Douglas McArthur
+ %
+-	Na historia humana, nao ha registro de um filosofo feliz.
+-		-- H. L. Mencken 
++	Na historia humana, não há registro de um filosofo feliz.
++		-- H. L. Mencken
+ %
+-	Na opiniao dos especialistas e inocuo esperar um futuro para 
++	Na opinião dos especialistas e inócuo esperar um futuro para
+ 	a maquina voadora.
+-		-- W. J. Jackman e Thos H. Russel, doutores em ciencia, 1910
++		-- W. J. Jackman e Thos H. Russel, doutores em ciência, 1910
+ %
+-	Nada e tao bom que alguem, em algum lugar, nao ira odiar.
++	Nada é tao bom que alguem, em algum lugar, não ira odiar.
+ 		-- Joseph Murphy
+ %
+-	Nada como uma boa dose de outra mulher para fazer um homem 
++	Nada como uma boa dose de outra mulher para fazer um homem
+ 	apreciar mais sua esposa.
+-		-- Clare Boothe Luce 
++		-- Clare Boothe Luce
+ %
+-	Nada estraga tanto uma confissao quanto o arrependimento.
+-		-- Anatole France 
++	Nada estraga tanto uma confissão quanto o arrependimento.
++		-- Anatole France
+ %
+-	Nada existe de tao facil, que se torne dificil se voce o faz 
+-	de ma vontade.
++	Nada existe de tão facil, que se torne difícil se você o faz
++	de má vontade.
+ %
+-	Nada pode fazer tanto mal quanto um concorrente ruim.  
++	Nada pode fazer tanto mal quanto um concorrente ruim.
+ 	Devemos dar gracas por um bom conocrrente.
+ 		-- Alfred Politz
+ %
+ 	Nada tao cansativo quanto a indecisao, e nada tao futil.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+-	Nada e bastante para quem considera pouco o que e 
++	Nada e bastante para quem considera pouco o que e
+ 	suficiente.
+ 		--  Confucio
+ %
+-	Nada e mais perigoso que um bom conselho seguido de um mau 
++	Nada e mais perigoso que um bom conselho seguido de um mau
+ 	exemplo.
+-		--  Madame de Sable; escritora francesa. 
++		--  Madame de Sable; escritora francesa.
+ %
+ 	Nada e mais potente contra o amor do que a impotencia.
+-		-- Samuel Butler 
++		-- Samuel Butler
+ %
+-	Nascer e comecar a morrer
+-		--  Teofilo Guatier; escritor frances. 
++	Nascer e começar a morrer
++		--  Teofilo Guatier; escritor frances.
+ %
+-	Nem todo o problema que um rapaz tenha com sua namorada se 
++	Nem todo o problema que um rapaz tenha com sua namorada se
+ 	deve ao modo capitalista de producao.
+-		-- Herbert Marcuse 
++		-- Herbert Marcuse
+ %
+-	Nenhuma boa acao fica impune.
+-		-- Clare Boothe Luce 
++	Nenhuma boa ação fica impune.
++		-- Clare Boothe Luce
+ %
+-	Ninguem discute mais os direitos das mulheres. Seria como 
++	Ninguem discute mais os direitos das mulheres. Seria como
+ 	discutir terremotos.
+-		-- Lilian Hellman 
++		-- Lilian Hellman
+ %
+-	Ninguem fica completamente infeliz diante do fracasso do seu 
++	Ninguem fica completamente infeliz diante do fracasso do seu
+ 	melhor amigo.
+-		-- Groucho Marx 
++		-- Groucho Marx
+ %
+-	Ninguem pode fazer voce se sentir inferior sem o seu 
++	Ninguem pode fazer você se sentir inferior sem o seu
+ 	consentimento.
+-		-- Eleanor Roosevelt 
++		-- Eleanor Roosevelt
+ %
+-	Ninguem tem um elenco como Disney. Quando ele nao gosta de 
++	Ninguem tem um elenco como Disney. Quando ele não gosta de
+ 	um ator, simplesmente o apaga.
+-		-- Alfred Hitchcock 
++		-- Alfred Hitchcock
+ %
+-	No fundo os franceses sao apenas alemaes que aprenderam a 
++	No fundo os franceses são apenas alemaes que aprenderam a
+ 	cozinhar.
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+-	No mundo dos negocios, cad a vez mais competitivo, as 
+-	empresas comecaram a almejar individuos inteiros, com 
+-	cerebro e coracao.
++	No mundo dos negocios, cad a vez mais competitivo, as
++	empresas começaram a almejar individuos inteiros, com
++	cerebro e coração.
+ 		-- Peter Drucker
+ %
+-	Nossa existencia nao e mais que um curto-circuito de luz 
++	Nossa existencia não e mais que um curto-circuito de luz
+ 	entre duas eternidades de escuridao.
+-		--  Vladimir Nabokov; escritor russo. 
++		--  Vladimir Nabokov; escritor russo.
+ %
+-	Nossa epoca e a primeira na Historia a prestar tanta atencao 
+-	ao futuro - o que e ironico, considerando-se que podemos nao 
++	Nossa epoca e a primeira na Historia a prestar tanta atencao
++	ao futuro - o que e ironico, considerando-se que podemos não
+ 	ter futuro nenhum.
+-		-- Arthur C. Clarke 
++		-- Arthur C. Clarke
+ %
+-	Nossas duvidas sao traidoras e nos fazem perder o bem que as 
++	Nossas duvidas são traidoras e nos fazem perder o bem que as
+ 	vezes poderiamos ganhar, pelo medo de tentar.
+ 		--  William Shakespeare
+ %
+-	Nunca ande pelo caminho tracado, pois ele conduz somente ate 
+-	onde os outros ja  foram
++	Nunca ande pelo caminho tracado, pois ele conduz somente ate
++	onde os outros já  foram
+ 		-- Alexandre Graham Bell
+ %
+-	Nunca confie em dinheiro que tenha gente em trajes menores, 
++	Nunca confie em dinheiro que tenha gente em trajes menores,
+ 	principalmente se for indio.
+-		-- Ivan Lessa 
++		-- Ivan Lessa
+ %
+-	Nunca deixe de perdoar seus inimigos - nada os aborrece 
++	Nunca deixe de perdoar seus inimigos - nada os aborrece
+ 	tanto.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Nunca deixe que seus inferiores lhe facam um favor. Pode 
++	Nunca deixe que seus inferiores lhe facam um favor. Pode
+ 	custar-lhe caro.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	Nunca ousei ser um radical na juventude, por medo de me 
++	Nunca ousei ser um radical na juventude, por medo de me
+ 	tornar um conservador depois de velho.
+-		-- Robert Frost 
++		-- Robert Frost
+ %
+-	Nunca viajo sem o meu diario. Deve-se ter sempre alguma 
++	Nunca viajo sem o meu diario. Deve-se ter sempre alguma
+ 	coisa sensacional para ler no trem.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Nao aceito dinheiro de bancos que fazem emprestimos a 
++	Não aceito dinheiro de bancos que fazem emprestimos a
+ 	qualquer um.
+-		-- Robert Benchley 
++		-- Robert Benchley
+ %
+-	Nao ataque os outros com palavras bruscas, pois nem sempre 
+-	eles estao dispostos a aguenta-los...
++	Não ataque os outros com palavras bruscas, pois nem sempre
++	eles estão dispostos a aguenta-los...
+ %
+-	Nao basta que os labios gotejem leite e mel pois, se o 
+-	coracao nada tem com isso, entao existe a 
++	Não basta que os labios gotejem leite e mel pois, se o
++	coração nada tem com isso, então existe a
+ 	hipocrisia.
+ %
+-	Nao confio em camelos e nem em qualquer pessoa que consegue 
++	Não confio em camelos e nem em qualquer pessoa que consegue
+ 	passar uma semana sem beber.
+-		-- Joe F. Lewis 
++		-- Joe F. Lewis
+ %
+-	Nao consigo ficar sobrio o tempo suficiente para achar graca 
++	Não consigo ficar sobrio o tempo suficiente para achar graca
+ 	em estar sobrio.
+-		-- F. Scott Fitzgerald 
++		-- F. Scott Fitzgerald
+ %
+-	Nao corrigir as proprias falhas e cometer a pior delas.
++	Não corrigir as proprias falhas e cometer a pior delas.
+ 		--  Confucio
+ %
+-	Nao entendo esta confusao a respeito do plutonio. Como e que 
+-	uma coisa com um nome de cachorro de Walt Disney pode ser 
++	Não entendo esta confusao a respeito do plutonio. Como e que
++	uma coisa com um nome de cachorro de Walt Disney pode ser
+ 	perigosa?
+-		-- Johnny Carson 
++		-- Johnny Carson
+ %
+-	Nao entro para clubes que me aceitam como socio.
+-		-- Groucho Marx 
++	Não entro para clubes que me aceitam como socio.
++		-- Groucho Marx
+ %
+-	Nao existe ninguem inutil. Em um determinado lugar e hora 
++	Não existe ninguem inutil. Em um determinado lugar e hora
+ 	sempre havera utilidade para alguem.
+ %
+-	Nao existe o almoco gratis.
+-		-- Milton Friedman 
++	Não existe o almoco gratis.
++		-- Milton Friedman
+ %
+-	Nao ha esperanca para a fantasia de chegar-se a lua.  As 
+-	barreiras da gravidade terrestre sao intransponiveis.
++	Não há esperanca para a fantasia de chegar-se a lua.  As
++	barreiras da gravidade terrestre são intransponiveis.
+ 		-- F.R. Moulton, astronomo, Universidade de Chicago, 1932
+ %
+-	Nao ha fatos, so interpretacoes.
+-		-- Friedrich Nietzsche 
++	Não há fatos, só interpretacoes.
++		-- Friedrich Nietzsche
+ %
+-	Nao ha nada tao fragil quanto o sucesso
++	Não há nada tao fragil quanto o sucesso
+ 		-- Autor desconhecido
+ %
+-	Nao ha pior exilio do que o exilio do idioma.
++	Não há pior exilio do que o exilio do idioma.
+ 		--  William Shakespeare
+ %
+-	Nao ha vento favoravel para quem nao sabe onde vai
++	Não há vento favoravel para quem não sabe onde vai
+ 		-- Guillaume D'Orange
+ %
+-	Nao perdemos a fe. Apenas a transferimos de Deus para a 
++	Não perdemos a fe. Apenas a transferimos de Deus para a
+ 	profissao medica.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+-	Nao pergunte o que seu pais pode fazer por voce e sim o 
+-	contrario.
+-		-- John F. Kennedy 
++	Não pergunte o que seu pais pode fazer por você e sim o
++	contrário.
++		-- John F. Kennedy
+ %
+-	Nao posso e nao vou cortar minha consciencia para me adequar 
++	Não posso e não vou cortar minha consciência para me adequar
+ 	ao figurino deste ano.
+-		-- Lilian Hellman 
++		-- Lilian Hellman
+ %
+-	Nao preciso de advogados para me dizer o que nao devo fazer. 
+-	Eu os contrato para me dizer como fazer o que quero 
++	Não preciso de advogados para me dizer o que não devo fazer.
++	Eu os contrato para me dizer como fazer o que quero
+ 	fazer.
+-		-- J. Pierpont Morgan 
++		-- J. Pierpont Morgan
+ %
+-	Nao quero atingir a imortalidade atraves de minha obra. 
+-	Quero atingi-la nao morrendo.
+-		-- Woody Allen 
++	Não quero atingir a imortalidade através de minha obra.
++	Quero atingi-la não morrendo.
++		-- Woody Allen
+ %
+-	Nao se pode ensinar tudo a alguem, pode-se apenas ajuda-la a 
++	Não se pode ensinar tudo a alguem, pode-se apenas ajuda-la a
+ 	encontrar por si mesmo
+ 		-- Galileu Galilei
+ %
+-	Nao sei como pode ser bom um homem a quem falta 
++	Não sei como pode ser bom um homem a quem falta
+ 	sinceridade.
+ 		--  Confucio
+ %
+-	Nao seja conveniente somente nas horas em que lhe for 
++	Não seja conveniente somente nas horas em que lhe for
+ 	necessaria!
+ %
+-	Nao sao as ervas mas que afogam a boa semente, e sim a 
++	Não são as ervas mas que afogam a boa semente, e sim a
+ 	negligencia do lavrador.
+ 		--  Confucio
+ %
+-	Nao tenho um caminho novo. O que tenho de novo e o jeito de 
++	Não tenho um caminho novo. O que tenho de novo e o jeito de
+ 	caminhar.
+ 		--  Thiago de Melo
+ %
+-	Nao use drogas! Elas acabam com o figado, o coracao e os 
+-	rins, ferram a sua mente e, de modo geral, fazem com que 
+-	voce fique igualzinho aos seus pais.
+-		-- Frank Zappa 
++	Não use drogas! Elas acabam com o figado, o coração e os
++	rins, ferram a sua mente e, de modo geral, fazem com que
++	você fique igualzinho aos seus pais.
++		-- Frank Zappa
+ %
+-	Nao e a verdade que torna o homem grande, mas o homem que 
++	Não e a verdade que torna o homem grande, mas o homem que
+ 	torna grande a verdade.
+ 		--  Confucio
+ %
+-	Nao e que voce seja diferente, e que ninguem consegue ser 
+-	igual a voce.
++	Não e que você seja diferente, e que ninguem consegue ser
++	igual a você.
+ %
+-	Nos devemos ter cuidado com aquilo que queremos, pois o que 
++	Nos devemos ter cuidado com aquilo que queremos, pois o que
+ 	queremos pode  tornar-se realidade
+ 		-- Anonimo *Contribuicao   de Karine Ferreira dos Santos
+ %
+ 	O Homem e um aprendiz a dor e o seu mestre.
+-		--  Alfred de Musset; poeta frances. 
++		--  Alfred de Musset; poeta frances.
+ %
+-	O Mundo esta cheio de pessoas que tem o sorriso nos labios e 
+-	o veneno no coracao.
++	O Mundo esta cheio de pessoas que tem o sorriso nos labios e
++	o veneno no coração.
+ %
+-	O Santo Imperio Romano nao era santo, nem um imperio e nem 
++	O Santo Imperio Romano não era santo, nem um imperio e nem
+ 	mesmo romano.
+-		-- Voltaire 
++		-- Voltaire
+ %
+ 	O absurdo e a evidencia de um fato.
+ 		-- Lacordaire Henri
+@@ -4005,1890 +3953,1619 @@
+ 		-- Ledo Ivo
+ %
+ 	O adulterio e a democracia aplicada ao amor.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	O alcoolatra e alguem de quem voce nao gosta e que bebe 
+-	tanto quanto voce.
+-		-- Dylan Thomas 
++	O alcoolatra e alguem de quem você não gosta e que bebe
++	tanto quanto você.
++		-- Dylan Thomas
+ %
+-	O amor que se procura e bom, mas o que nao se procura e 
++	O amor que se procura e bom, mas o que não se procura e
+ 	melhor.
+ 		--  William Shakespeare
+ %
+-	O amor sincero e puro nao se compactua com qualquer forma de 
+-	conflito ou frustracao.
++	O amor sincero e puro não se compactua com qualquer forma de
++	conflito ou frustração.
+ %
+-	O amor vence todos os obstaculos, mas tambem cega e nao 
++	O amor vence todos os obstaculos, mas também cega e não
+ 	deixa ver os principios.
+ %
+-	O amor e apenas um truque sujo em que a natureza nos faz 
+-	cair para assegurar a continuacao da especie.
+-		-- W. Somerset Maugham 
++	O amor e apenas um truque sujo em que a natureza nos faz
++	cair para assegurar a continuação da especie.
++		-- W. Somerset Maugham
+ %
+-	O amor e o que acontece entre um homem e uma mulher que nao 
++	O amor e o que acontece entre um homem e uma mulher que não
+ 	se conhecem muito bem.
+-		-- W. Somerset Maugham 
++		-- W. Somerset Maugham
+ %
+-	O amor e quando comecamos a enganar a nos mesmos e 
++	O amor e quando começamos a enganar a nos mesmos e
+ 	terminamos por enganar a outra pessoa.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	O amor e um buraco no coracao.
+-		-- Ben Hecht 
++	O amor e um buraco no coração.
++		-- Ben Hecht
+ %
+-	O amor e um crime que nao pode se realizar sem cumplice.
+-		--  Charles Baudelaire; poeta frances. 
++	O amor e um crime que não pode se realizar sem cumplice.
++		--  Charles Baudelaire; poeta frances.
+ %
+-	
++
+ %
+ 	O assassinato e uma forma extrema de censura.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+ 	O ballet e o beisebol das bichas.
+-		-- Oscar Levant 
++		-- Oscar Levant
+ %
+ 	O beijo de uma mulher e a sua assinatura.
+-		-- Mae West 
++		-- Mae West
+ %
+-	O bom chefe e aquele que, presente ninguem percebe, mas, 
++	O bom chefe e aquele que, presente ninguem percebe, mas,
+ 	ausente todos  sentem sua falta
+ 		-- Admon Ganem
+ %
+-	O caos frequente alimenta a vida, enquanto a ordem alimenta 
++	O caos frequente alimenta a vida, enquanto a ordem alimenta
+ 	o habito.
+-		--  Henry Adams; historiador americano. 
++		--  Henry Adams; historiador americano.
+ %
+-	O casamento ja e indissoluvel na vespera.
+-		-- Nelson Rodrigues 
++	O casamento já e indissoluvel na vespera.
++		-- Nelson Rodrigues
+ %
+-	O casamento e a unica aventura ao alcance dos covardes.
+-		-- Voltaire 
++	O casamento e a única aventura ao alcance dos covardes.
++		-- Voltaire
+ %
+-	O casamento e uma cerimonia em que os aneis sao colocados, 
+-	um no dedo da garota, e, o outro, no nariz do 
++	O casamento e uma cerimonia em que os aneis são colocados,
++	um no dedo da garota, e, o outro, no nariz do
+ 	cavalheiro.
+-		-- Herbert Spencer 
++		-- Herbert Spencer
+ %
+-	O casamento e uma grande instituicao. Nao sei porque as 
+-	familias estao acabando com ela.
+-		-- Mae West 
++	O casamento e uma grande instituicao. Não sei porque as
++	famílias estão acabando com ela.
++		-- Mae West
+ %
+-	O cinema falado nunca dara certo. E barulhento demais e 
++	O cinema falado nunca dara certo. E barulhento demais e
+ 	impede que as pessoas durmam durante o filme.
+-		-- Adolph Zukor 
++		-- Adolph Zukor
+ %
+ 	O cinema frances e como o italiano: um conto do vigario.
+-		-- Nelson Rodrigues 
++		-- Nelson Rodrigues
+ %
+-	O cinema mudo era terrivelmente chato. Se o falado nao 
+-	tivesse surgido, o cinema teria desaparecido como meio de 
++	O cinema mudo era terrivelmente chato. Se o falado não
++	tivesse surgido, o cinema teria desaparecido como meio de
+ 	expressao.
+-		-- Joseph L. Mankiewicz 
++		-- Joseph L. Mankiewicz
+ %
+-	O cinema nao chega a ser uma arte. Daqui a seis mil anos 
++	O cinema não chega a ser uma arte. Daqui a seis mil anos
+ 	talvez o seja.
+-		-- Nelson Rodrigues 
++		-- Nelson Rodrigues
+ %
+-	O comunismo e como a Lei Seca: uma boa ideia, mas nao 
++	O comunismo e como a Lei Seca: uma boa ideia, mas não
+ 	funciona.
+-		-- Will Rogers 
++		-- Will Rogers
+ %
+ 	O comunismo e o opio dos intelectuais.
+-		-- Clare Boothe Luce 
++		-- Clare Boothe Luce
+ %
+-	O comunismo, como qualquer outra religiao revelada, e 
++	O comunismo, como qualquer outra religiao revelada, e
+ 	principalmente um conjunto de profecias.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	O cristao vive jurando que nunca fara aquilo de novo. O 
+-	homem civilizado apenas resolve que sera mais cuidadoso da 
++	O cristao vive jurando que nunca fara aquilo de novo. O
++	homem civilizado apenas resolve que sera mais cuidadoso da
+ 	proxima vez.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+ 	O culto e uma religiao sem poder politico.
+-		-- Tom Wolfe 
++		-- Tom Wolfe
+ %
+-	O cerebro e um orgao maravilhoso. Comeca a funcionar assim 
+-	que voce se levanta da cama e nao p ra ate voce chegar ao 
++	O cerebro e um orgao maravilhoso. Comeca a funcionar assim
++	que você se levanta da cama e não p ra ate você chegar ao
+ 	escritorio.
+-		-- Robert Frost 
++		-- Robert Frost
+ %
+-	O demonio tem pelo menos a desculpa de que so ouvimos um 
+-	lado da historia. Afinal, Deus escreveu todos os 
++	O demonio tem pelo menos a desculpa de que só ouvimos um
++	lado da historia. Afinal, Deus escreveu todos os
+ 	livros.
+-		-- Samuel Butler 
++		-- Samuel Butler
+ %
+ 	O destino e um gozador.
+-		-- Luis Fernando Verissimo 
++		-- Luis Fernando Verissimo
+ %
+-	O dinheiro nao tem a minima importancia, desde que a gente 
++	O dinheiro não tem a minima importancia, desde que a gente
+ 	tenha muito.
+-		--  Truman Capote; jornalista americano.  
++		--  Truman Capote; jornalista americano.
+ %
+-	O dinheiro nao traz a felicidade daquele que nao o possui.
+-		-- Boris Vian 
++	O dinheiro não traz a felicidade daquele que não o possui.
++		-- Boris Vian
+ %
+-	O dinheiro pode nao comprar a saude, mas eu me contentaria 
++	O dinheiro pode não comprar a saude, mas eu me contentaria
+ 	com uma cadeira de rodas cravejada de diamantes.
+-		-- Dorothy Parker 
++		-- Dorothy Parker
+ %
+-	O dinheiro e melhor do que a pobreza, mesmo que seja por 
++	O dinheiro e melhor do que a pobreza, mesmo que seja por
+ 	razoes financeiras.
+-		-- Woody Allen 
++		-- Woody Allen
+ %
+-	O dinheiro e um sexto sentido, sem o qual nao se pode fazer 
++	O dinheiro e um sexto sentido, sem o qual não se pode fazer
+ 	uso completo dos outros cinco.
+-		-- W. Somerset Maugham 
++		-- W. Somerset Maugham
+ %
+-	O espirito e a possibilidade maxima - e o maximo da 
++	O espirito e a possibilidade maxima - e o maximo da
+ 	capacidade de incoerencia.
+ 		-- Paul Valery
+ %
+-	O exemplo e a licao principal e a mais eficaz que o educador 
++	O exemplo e a licao principal e a mais eficaz que o educador
+ 	pode dar
+ 		--  Marcelino Champagnat
+ %
+-	O fanatismo consiste em redobrar os esforcos quando se 
++	O fanatismo consiste em redobrar os esforcos quando se
+ 	esqueceu os objetivos.
+-		-- George Santayana 
++		-- George Santayana
+ %
+-	O fardo do casamento e tao pesado que precisa de dois para 
+-	carregar - As vezes, tres.
+-		-- Alexandre Dumas 
++	O fardo do casamento e tao pesado que precisa de dois para
++	carregar - As vezes, três.
++		-- Alexandre Dumas
+ %
+-	O fato de um campones poder tornar-se rei nao torna este 
++	O fato de um campones poder tornar-se rei não torna este
+ 	reino democratico.
+-		-- Woodrow Wilson 
++		-- Woodrow Wilson
+ %
+-	O fotografo e como um bacalhau, que produz um milhao de ovos 
++	O fotografo e como um bacalhau, que produz um milhao de ovos
+ 	para que um deles chegue a maturidade.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+ 	O fracasso lhe subiu a cabeca.
+-		-- Wilson Mizner 
++		-- Wilson Mizner
+ %
+-	O fracasso e a oportunidade de comecar de novo 
++	O fracasso e a oportunidade de começar de novo
+ 	inteligentemente
+ %
+-	O futuro e a unica propriedade de que os senhores concedem 
++	O futuro e a única propriedade de que os senhores concedem
+ 	de boa vontade aos escravos.
+-		-- Albert Camus 
++		-- Albert Camus
+ %
+-	O futuro e como o paraiso. Todos o exaltam. Mas nimguem quer 
++	O futuro e como o paraiso. Todos o exaltam. Mas nimguem quer
+ 	ir para la agora.
+-		-- James Baldwin; escritor americano 
++		-- James Baldwin; escritor americano
+ %
+ 	O grande homem e o homem livre.
+ 		--  Confucio
+ %
+-	O grande prazer proporcionado por um cachorro e o de que 
+-	voce pode se passar por um idiota na frente dele e ele nao 
+-	apenas nao rira de voce, como se passara tambem por 
++	O grande prazer proporcionado por um cachorro e o de que
++	você pode se passar por um idiota na frente dele e ele não
++	apenas não rira de você, como se passara também por
+ 	idiota.
+-		-- Samuel Butler 
++		-- Samuel Butler
+ %
+-	O homem comum se adapta ao mundo, o homem fora do comum 
+-	persiste em fazer o mundo adaptar-se a ele, portanto, o 
++	O homem comum se adapta ao mundo, o homem fora do comum
++	persiste em fazer o mundo adaptar-se a ele, portanto, o
+ 	sucesso depende de homens fora do comum.
+ 		-- Bernard Shaw George
+ %
+-	O homem comum e exigente com os outros; o homem superior e 
++	O homem comum e exigente com os outros; o homem superior e
+ 	exigente consigo mesmo
+ 		-- Marco Aurelio
+ %
+-	O homem e a mulher sao dois ressentidos contra o ex-amor.
+-		-- Nelson Rodrigues 
++	O homem e a mulher são dois ressentidos contra o ex-amor.
++		-- Nelson Rodrigues
+ %
+-	O homem que tem uma lingua, eu digo, nao e homem, se com sua 
+-	lingua ele nao consegue conquistar o amor de uma 
++	O homem que tem uma lingua, eu digo, não e homem, se com sua
++	língua ele não consegue conquistar o amor de uma
+ 	mulher.
+ 		--  William Shakespeare
+ %
+-	O homem rouba o primeiro beijo, implora pelo segundo, exige 
+-	o terceiro, recebe o quarto, aceita o quinto e suporta os 
++	O homem rouba o primeiro beijo, implora pelo segundo, exige
++	o terceiro, recebe o quarto, aceita o quinto e suporta os
+ 	restantes.
+-		-- Helen Rowland 
++		-- Helen Rowland
+ %
+-	O homem superior age antes de falar e depois fala de acordo 
++	O homem superior age antes de falar e depois fala de acordo
+ 	com suas acoes.
+ 		--  Confucio
+ %
+-	O homem superior nao se dedica a favor ou contra nada. Segue 
++	O homem superior não se dedica a favor ou contra nada. Segue
+ 	o que for correto.
+ 		--  Confucio
+ %
+-	O homem sabio antecipa o que o futuro lhe trara, observando 
++	O homem sábio antecipa o que o futuro lhe trara, observando
+ 	as experiencias do passado
+ 		-- Sofocles, filosofo grego
+ %
+ 	O homem vale o que vale o seu ideal, esta e a sua medida
+ 		-- J. Maira Puladas
+ %
+-	O homem e o unico animal que se ve horrivelmente desfigurado 
++	O homem e o unico animal que se vê horrivelmente desfigurado
+ 	pela idade.
+-		-- William Somerset Maugham 
++		-- William Somerset Maugham
+ %
+ 	O homem e um animal de costumes.
+-		--  Charles Dickens; escritor ingles. 
++		--  Charles Dickens; escritor ingles.
+ %
+ 	O homem e um bipede sem plumas.
+-		-- Platao 
++		-- Platao
+ %
+-	O horizonte esta em nossos olhos e nao na realidade
++	O horizonte esta em nossos olhos e não na realidade
+ 		-- Ganivelt
+ %
+-	O idealismo e interessante, mas, quando ele se defronta com 
++	O idealismo e interessante, mas, quando ele se defronta com
+ 	a realidade, seu custo se torna proibitivo.
+-		-- William F. Buckley Jr. 
++		-- William F. Buckley Jr.
+ %
+-	O idiota que da gorjeta toda vez que poe gasolina esta 
+-	jogando fora o custo anual da lubrificacao anual de seu 
++	O idiota que da gorjeta toda vez que poe gasolina esta
++	jogando fora o custo anual da lubrificação anual de seu
+ 	carro.
+-		-- J. Paul Getty 
++		-- J. Paul Getty
+ %
+-	O ignorante afirma, o sabio duvida, o sensato reflete
++	O ignorante afirmã, o sábio duvida, o sensato reflete
+ 		-- Aristoteles
+ %
+-	O inferno sao os outros.
+-		-- Jean-Paul Sartre 
++	O inferno são os outros.
++		-- Jean-Paul Sartre
+ %
+-	O insucesso e apenas uma oportunidade para recomecarmos com 
++	O insucesso e apenas uma oportunidade para recomeçarmos com
+ 	mais inteligencia.
+ %
+-	O mais intrigante no amor e que se trata do tipo de crime 
++	O mais intrigante no amor e que se trata do tipo de crime
+ 	que exige um cumplice.
+-		-- Charles Baudelaire 
++		-- Charles Baudelaire
+ %
+-	O mais infimo e inofensivo dos Estados ainda e criminoso em 
++	O mais infimo e inofensivo dos Estados ainda e criminoso em
+ 	seus sonhos.
+-		-- Mikhail Bakunin 
++		-- Mikhail Bakunin
+ %
+-	O mal que os homens fazem vive depois deles. O bem e quase 
++	O mal que os homens fazem vive depois deles. O bem e quase
+ 	sempre enterrado com seus ossos.
+ 		--  William Shakespeare
+ %
+ 	O material e danificado na proporcao direta do seu valor.
+ 		-- Joseph Murphy
+ %
+-	O melhor no casamento sao as brigas. O resto e mais ou 
++	O melhor no casamento são as brigas. O resto e mais ou
+ 	menos.
+-		-- Thornton Wilder 
++		-- Thornton Wilder
+ %
+-	O mesmo dever que prende o servo ao soberano prende ao 
++	O mesmo dever que prende o servo ao soberano prende ao
+ 	marido a mulher.
+ 		--  William Shakespeare
+ %
+-	O mundo nao acontece . Ele simplesmente e.
+-		--  Hermann Weyl; matematico alemao. 
++	O mundo não acontece . Ele simplesmente e.
++		--  Hermann Weyl; matematico alemao.
+ %
+ 	O nascer e o primeiro passo para o morrer.
+ 		-- Joseph Murphy
+ %
+ 	O objetivo da vida e criar a melhor defesa contra a morte.
+-		-- Pimo Levi; escritor italiano 
++		-- Pimo Levi; escritor italiano
+ %
+ 	O oportunismo de um homem e o estadismo de outro.
+-		-- Milton Friedman 
++		-- Milton Friedman
+ %
+-	O otimista acredita que vivemos no melhor dos mundos e o 
++	O otimista acredita que vivemos no melhor dos mundos e o
+ 	pessimista teme que isso seja verdade.
+ 		-- James Blanch Cabell
+ %
+-	O pensamento so comeca com a duvida.
+-		--  Roger Martin du Gard; escritor frances. 
++	O pensamento só começa com a duvida.
++		--  Roger Martin du Gard; escritor frances.
+ %
+-	O pensamento e a semente da acao.
+-		-- Ralph Waldo Emerson; ensaista americano. 
++	O pensamento e a semente da ação.
++		-- Ralph Waldo Emerson; ensaista americano.
+ %
+-	O pensamento e apenas um lampejo entre duas longas noites, 
++	O pensamento e apenas um lampejo entre duas longas noites,
+ 	mas esse lampejo e tudo.
+-		--  Henri Poincare; matematico, filosofo da ciencia francesa. 
++		--  Henri Poincare; matematico, filosofo da ciência francesa.
+ %
+-	O perigo esta em chegar a persuadir-se de que as suas 
+-	conviccoes eram sonhos, em perder o amor as 
++	O perigo esta em chegar a persuadir-se de que as suas
++	conviccoes eram sonhos, em perder o amor as
+ 	utopias.
+ 		-- Julio Diniz
+ %
+-	O pessimista e o homem que olha para os dois lados antes de 
++	O pessimista e o homem que olha para os dois lados antes de
+ 	atravessar uma rua  de mao unica
+ 		-- Laurence J. Peter
+ %
+-	O pior governo e o mais moral. Um governo composto de 
+-	cinicos e freqüentemente mais tolerante e humano. Mas, 
+-	quando os fan ticos tomam o poder, nao ha limite para a 
++	O pior governo e o mais moral. Um governo composto de
++	cinicos e freqüentemente mais tolerante e humano. Mas,
++	quando os fan ticos tomam o poder, não há limite para a
+ 	opressao.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	O pior nao e morrer. E nao poder espantar as moscas.
++	O pior não e morrer. E não poder espantar as moscas.
+ 		-- Anonimo
+ %
+-	O poder da observacao acurada e geralmente chamado de 
+-	cinismo por aqueles que nao o possuem.
+-		-- George Bernard Shaw 
++	O poder da observação acurada e geralmente chamado de
++	cinismo por aqueles que não o possuem.
++		-- George Bernard Shaw
+ %
+ 	O poder e o afrodisiaco definitivo.
+-		-- Henry Kissinger 
++		-- Henry Kissinger
+ %
+-	O principal defeito das criancas, alem do fato de que nao 
+-	fumam o bastante, e o de que, quase sempre, estao 
++	O principal defeito das crianças, alem do fato de que não
++	fumam o bastante, e o de que, quase sempre, estão
+ 	acompanhadas de adultos.
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+-	O principal problema de nosso tempo e o de que o futuro nao 
++	O principal problema de nosso tempo e o de que o futuro não
+ 	e mais o que constumava ser.
+-		-- Paul Valery 
++		-- Paul Valery
+ %
+-	O problema de salvar o ambiente faz coro com problema de 
+-	nossa propria salvacao.
+-		--  Vitorio Mathien; filosofo italiano. 
++	O problema de salvar o ambiente faz coro com problema de
++	nossa propria salvação.
++		--  Vitorio Mathien; filosofo italiano.
+ %
+-	O problema do sistema de lucro e que ele da prejuizo a 
++	O problema do sistema de lucro e que ele da prejuizo a
+ 	maioria das pessoas.
+-		-- E. B. White 
++		-- E. B. White
+ %
+-	O progresso e a concretizacao das utopias.
++	O progresso e a concretização das utopias.
+ 		-- Oscar Wilde
+ %
+-	O publico nao quer mais ouvir os filmes. A culpa e da 
+-	televisao, esta caixa idiota a que as pessoas assistem 
+-	conversando e pondo as fofocas em dia - e levam esta atitude 
++	O publico não quer mais ouvir os filmes. A culpa e da
++	televisao, esta caixa idiota a que as pessoas assistem
++	conversando e pondo as fofocas em dia - e levam esta atitude
+ 	para o cinema.
+-		-- Joseph L. Mankiewicz 
++		-- Joseph L. Mankiewicz
+ %
+-	O que caracteriza a utopia e constituir uma aspiracao que 
+-	ultrapassa o individuo que a formulou, e o tempo imediato, 
+-	para ser uma aspiracao de muitos, e para muitos, num tempo 
++	O que caracteriza a utopia e constituir uma aspiração que
++	ultrapassa o individuo que a formulou, e o tempo imediato,
++	para ser uma aspiração de muitos, e para muitos, num tempo
+ 	futuro.
+ 		-- Josue Montell
+ %
+-	O que eu temo nao e a estrategia do inimigo, mas os nossos 
++	O que eu temo não e a estrategia do inimigo, mas os nossos
+ 	erros
+ 		-- Pericles, filosofo grego
+ %
+-	O que importa nao e o fato, mas a versao.
+-		-- Jose Maria Alkmin 
++	O que importa não e o fato, mas a versao.
++		-- Jose Maria Alkmin
+ %
+-	O que mais contribui para nos fazer feliz, e contribuirmos 
++	O que mais contribui para nos fazer feliz, e contribuirmos
+ 	para a felicidade dos outros.
+ %
+-	O que os presidentes nao fazem com suas esposas, acabam 
++	O que os presidentes não fazem com suas esposas, acabam
+ 	fazendo com o pais.
+-		-- Mel Brooks 
++		-- Mel Brooks
+ %
+-	O que parece o auge do absurdo numa geracao, muitas vezes e 
+-	o auge da sensatez na geracao seguinte.
++	O que parece o auge do absurdo numa geração, muitas vezes e
++	o auge da sensatez na geração seguinte.
+ 		-- Stevenson Adlai
+ %
+ 	O que sabemos e uma gota, o que ignoramos e um oceano
+ 		-- Isaac Newton
+ %
+-	O que voce faz e uma gota no oceano. Porem, e isso que da 
++	O que você faz e uma gota no oceano. Porem, e isso que da
+ 	sentido a sua vida.
+ 		-- A. Sclweitzer
+ %
+-	O que voce e agora e decorrente do que voce foi ontem
++	O que você e agora e decorrente do que você foi ontem
+ 		-- Massey
+ %
+ 	O que e assaltar um banco comparado com fundar um banco?
+-		-- Bertold Brecht 
++		-- Bertold Brecht
+ %
+-	O que e necessario nao e a vontade de acreditar, mas o 
++	O que e necessário não e a vontade de acreditar, mas o
+ 	desejo de descobrir, que e justamente o oposto.
+-		--  Bertrand Russell; filoso, matematico e ensaista ingles. 
++		--  Bertrand Russell; filoso, matematico e ensaista ingles.
+ %
+-	O que e um adulto? Uma crianca inchada com a idade.
+-		-- Simone Beauvior ; ensaista e romancista francesa.  
++	O que e um adulto? Uma criança inchada com a idade.
++		-- Simone Beauvior ; ensaista e romancista francesa.
+ %
+ 	O remorso e, na moral, o que a dor e no fisico.
+ %
+-	O rio atinge seus objetivos, porque aprendeu a contornar 
++	O rio atinge seus objetivos, porque aprendeu a contornar
+ 	obstaculos.
+ %
+ 	O roubado que ri furta algo a seu ladrao.
+ 		--  William Shakespeare
+ %
+ 	O sacerdocio e o ocio consagrado aos deuses.
+-		-- Oswald de Andrade 
++		-- Oswald de Andrade
+ %
+-	O segundo casamento e o triunfo da esperanca sobre a 
++	O segundo casamento e o triunfo da esperanca sobre a
+ 	experiencia.
+-		-- Samuel Johnson 
++		-- Samuel Johnson
+ %
+-	O seu direito de usar um casaco de poliester verde termina 
+-	quando comecam os direitos do meu olhos.
+-		-- Fran Lebowicz 
++	O seu direito de usar um casaco de poliester verde termina
++	quando começam os direitos do meu olhos.
++		-- Fran Lebowicz
+ %
+-	O sono e muito mais aprazivel na cabana do pobre do que nos 
++	O sono e muito mais aprazivel na cabana do pobre do que nos
+ 	perfumados palacios dos grandes.
+ 		--  William Shakespeare
+ %
+ 	O sucesso e um simbolo de autoconfianca
+ 		-- Frank S. Caprio
+ %
+-	O sabio teme o ceu sereno: em compensacao, quando vem a 
+-	tempestade ele caminha sobre as ondas e desafia o 
++	O sábio teme o ceu sereno: em compensação, quando vem a
++	tempestade ele caminha sobre as ondas e desafia o
+ 	vento.
+ 		--  Confucio
+ %
+-	O tempo do ideologo e a utopia; o tempo do politico e o seu 
++	O tempo do ideologo e a utopia; o tempo do politico e o seu
+ 	mandato; o tempo do burocrata e a sua aposentadoria.
+ 		-- Jorge Cunha Lima
+ %
+ 	O tempo e a imagem movel da eternidade imovel.
+-		--  Platao 428 ± 348 a.C.; filosofo grego. 
++		--  Platao 428 ± 348 a.C.; filosofo grego.
+ %
+-	O tolo pensa que e sabio, mas o homem sabio sabe de si 
+-	proprio que e tolo.
++	O tolo pensa que e sábio, mas o homem sábio sabe de si
++	próprio que e tolo.
+ 		--  William Shakespeare
+ %
+-	O tolo, as vezes, tambem tem pensamentos inteligentes. So 
+-	que nao percebe.
++	O tolo, as vezes, também tem pensamentos inteligentes. So
++	que não percebe.
+ 		-- Anonimo
+ %
+-	O trabalho nao e necessario apenas para ganhar a vida. Sua 
++	O trabalho não e necessário apenas para ganhar a vida. Sua
+ 	funcao principal e fazer a vida
+ 		-- L. Binstock
+ %
+ 	O trabalho e a perdicao das classes bebedoras.
+-		-- Mike Romanoff 
++		-- Mike Romanoff
+ %
+-	O trabalho e o refugio dos que nao tem nada que fazer.
+-		--  Oscar Wilde; escritor. 
++	O trabalho e o refugio dos que não tem nada que fazer.
++		--  Oscar Wilde; escritor.
+ %
+-	O truque da filosofia e comecar por algo tao simples que 
+-	ninguem ache digno de nota e terminar por algo tao complexo 
++	O truque da filosofia e começar por algo tao simples que
++	ninguem ache digno de nota e terminar por algo tao complexo
+ 	que ninguem entenda.
+-		-- Bertrand Russell 
++		-- Bertrand Russell
+ %
+-	O universo e como um cofre que, para ser aberto, precisa de 
+-	um segredo. So que o segredo esta trancado dentro 
++	O universo e como um cofre que, para ser aberto, precisa de
++	um segredo. So que o segredo esta trancado dentro
+ 	dele.
+ 		-- Peter de Vries
+ %
+-	O alcool e como o amor: o primeiro beijo e magico, o segundo 
+-	e intimo, o terceiro e rotina. A partir dai, voce apenas 
++	O alcool e como o amor: o primeiro beijo e magico, o segundo
++	e intimo, o terceiro e rotina. A partir dai, você apenas
+ 	tira a roupa da garota.
+-		-- Raymond Chandler 
++		-- Raymond Chandler
+ %
+-	O unico lugar onde o sucesso vem antes do trabalho e no 
++	O unico lugar onde o sucesso vem antes do trabalho e no
+ 	dicionario.
+-		-- Ulisses Guimaraes; politico brasileiro 
++		-- Ulisses Guimaraes; politico brasileiro
+ %
+-	Os animais tem muitas vantagens sobre os homens: nao 
+-	precisam de teologos para instrui-los, seus funerais saem de 
++	Os animais tem muitas vantagens sobre os homens: não
++	precisam de teologos para instrui-los, seus funerais saem de
+ 	graca e ninguem briga por seus testamentos.
+-		-- Voltaire 
++		-- Voltaire
+ %
+-	Os anjos podem voar porque nao levam nada a serio.
++	Os anjos podem voar porque não levam nada a serio.
+ 		-- Gilbert Keith Chesterton; escritor ingles.
+ %
+-	Os covardes morrem muitas vezes antes da morte; os valentes 
++	Os covardes morrem muitas vezes antes da morte; os valentes
+ 	so sentem o gosto da morte uma vez.
+ 		--  William Shakespeare
+ %
+-	Os dez melhores anos da vida dela foram entre os 29 e os 
++	Os dez melhores anos da vida dela foram entre os 29 e os
+ 	trinta.
+ 		-- Anonimo
+ %
+-	Os diamantes sao minhas medalhas de guerra.
+-		-- Mae West 
++	Os diamantes são minhas medalhas de guerra.
++		-- Mae West
+ %
+-	Os diamantes sao os melhores amigos da mulher.
+-		-- Anita Loos 
++	Os diamantes são os melhores amigos da mulher.
++		-- Anita Loos
+ %
+-	Os homens de poucas palavras sao os homens melhores.
++	Os homens de poucas palavras são os homens melhores.
+ 		--  William Shakespeare
+ %
+-	Os homens ficam mais velhos, mas isso nao os melhora muito.
+-		-- Oscar Wilde 
++	Os homens ficam mais velhos, mas isso não os melhora muito.
++		-- Oscar Wilde
+ %
+-	Os homens ficam terrivelmente chatos quando sao bons 
+-	maridos, e abominavelmente convencidos quando nao 
++	Os homens ficam terrivelmente chatos quando são bons
++	maridos, e abominavelmente convencidos quando não
+ 	sao.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Os miseraveis nao tem outro remedio a nao ser a esperanca
++	Os miseraveis não tem outro remedio a não ser a esperanca
+ 		--  William Shakespeare
+ %
+-	Os pequenos atos que se executam sao melhores que aqueles 
++	Os pequenos atos que se executam são melhores que aqueles
+ 	grandes que se planejam.
+-		--  George C. Marshall; general americano. 
++		--  George C. Marshall; general americano.
+ %
+-	Os quadros que eles penduram nos restaurantes nao sao muito 
++	Os quadros que eles penduram nos restaurantes não são muito
+ 	melhores que a comida servida nos museus.
+-		-- Peter de Vries 
++		-- Peter de Vries
+ %
+-	Os radicais inventam as ideias. Quando ja se esgotaram de 
++	Os radicais inventam as idéias. Quando já se esgotaram de
+ 	tanto uso, os conservadores as adotam.
+-		-- Mark Twain 
++		-- Mark Twain
+ %
+-	Os seios substituiram o telefone como o objeto mais a vista 
++	Os seios substituiram o telefone como o objeto mais a vista
+ 	no cinema contemporaneo.
+-		-- Joseph L. Mankiewicz 
++		-- Joseph L. Mankiewicz
+ %
+-	Os solteiros ricos deviam pagar o dobro de impostos. Nao e 
+-	justo que alguns homens sejam mais felizes do que os 
++	Os solteiros ricos deviam pagar o dobro de impostos. Não e
++	justo que alguns homens sejam mais felizes do que os
+ 	outros.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Otimista e o homem que espera no carro com o motor ligado 
++	Otimista e o homem que espera no carro com o motor ligado
+ 	enquanto a mulher faz compras.
+ 		-- Roussin Andre
+ %
+-	Pagar pensao a ex-mulher e como servir feno fresco a um 
++	Pagar pensao a ex-mulher e como servir feno fresco a um
+ 	cavalo morto.
+-		-- Groucho Marx 
++		-- Groucho Marx
+ %
+-	Para cada problema ha sempre uma solucao clara, simples e 
++	Para cada problema há sempre uma solucao clara, simples e
+ 	errada.
+ 		-- H. L. Mencken
+ %
+-	Para conhecer um homem; veja como ele age, descubra o que 
++	Para conhecer um homem; veja como ele age, descubra o que
+ 	ele busca, examine o que lhe faz feliz.
+ 		--  Confucio
+ %
+-	Para se saber como um povo esta sendo governado, conheca a 
++	Para se saber como um povo esta sendo governado, conheca a
+ 	sua musica.
+ 		--  Confucio
+ %
+-	Para todo problema complexo existe uma solucao clara, 
++	Para todo problema complexo existe uma solucao clara,
+ 	simples e errada.
+ 		-- Bernard Shaw George
+ %
+-	Para vencer na vida, nao basta ser estupido. E preciso 
+-	tambem ser bem educado.
+-		-- Voltaire 
++	Para vencer na vida, não basta ser estupido. E preciso
++	também ser bem educado.
++		-- Voltaire
+ %
+-	Pelo jeito que a coisa vai, em breve o terceiro sexo estara 
++	Pelo jeito que a coisa vai, em breve o terceiro sexo estara
+ 	em segundo.
+-		-- Stanislaw Ponte Preta 
++		-- Stanislaw Ponte Preta
+ %
+-	Pense e faca. Nao faca primeiro para depois pensar!
++	Pense e faca. Não faca primeiro para depois pensar!
+ %
+-	Pense na terra como um organismo vivo sendo atacado por 
+-	bilhoes de bacterias cujo o numero dobra a cada quarenta 
+-	anos. Ou morre o hospedeiro, ou morre o invasor, ou morrem 
++	Pense na terra como um organismo vivo sendo atacado por
++	bilhoes de bacterias cujo o numero dobra a cada quarenta
++	anos. Ou morre o hospedeiro, ou morre o invasor, ou morrem
+ 	os dois.
+-		-- Gore Vidal; escritor americano. 
++		-- Gore Vidal; escritor americano.
+ %
+ 	Penso, logo desisto.
+ 		-- Anonimo
+ %
+-	Perguntar a um escritor o que acha dos criticos e como 
+-	perguntar a um poste como ele se sente a respeito dos 
++	Perguntar a um escritor o que acha dos criticos e como
++	perguntar a um poste como ele se sente a respeito dos
+ 	cachorros.
+-		-- John Osborne 
++		-- John Osborne
+ %
+-	Pessimista e a pessoa que foi obrigada a ouvir muitos 
++	Pessimista e a pessoa que foi obrigada a ouvir muitos
+ 	otimistas.
+ 		-- Don Marquis
+ %
+-	Plantas sao vegetais que nos roubam o ar de que precisamos 
++	Plantas são vegetais que nos roubam o ar de que precisamos
+ 	para respirar.
+-		-- Fran Lebowicz 
++		-- Fran Lebowicz
+ %
+-	Pode-se dizer, sem receio de erro, que a utopia e 
+-	consubstancial a condicao humana. Ninguem realiza sem 
++	Pode-se dizer, sem receio de erro, que a utopia e
++	consubstancial a condicao humana. Ninguem realiza sem
+ 	sonhar.
+ 		-- Josue Montello
+ %
+-	Pontualidade e a coincidencia de duas pessoas chegarem com o 
++	Pontualidade e a coincidencia de duas pessoas chegarem com o
+ 	mesmo atraso.
+ 		-- Leon Eliachar
+ %
+-	Por mais tomadas que se tenham em casa, os moveis estao 
++	Por mais tomadas que se tenham em casa, os moveis estão
+ 	sempre na frente.
+ 		-- Joseph Murphy
+ %
+-	Pose ser um pecado pensar mal dos outros. Mas raramente sera 
++	Pose ser um pecado pensar mal dos outros. Mas raramente sera
+ 	um engano.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	Posso simpatizar com a dor de uma pessoa, mas nao com os 
+-	seus prazeres. Ha algo curiosamente monotono na felicidade 
++	Posso simpatizar com a dor de uma pessoa, mas não com os
++	seus prazeres. Ha algo curiosamente monotono na felicidade
+ 	dos outros.
+-		-- Aldous Huxley 
++		-- Aldous Huxley
+ %
+-	Poucas pessoas conseguem ser felizes, a menos que odeiem 
+-	outra pessoa, nacao ou credo.
+-		-- Bertrand Russell 
++	Poucas pessoas conseguem ser felizes, a menos que odeiem
++	outra pessoa, nação ou credo.
++		-- Bertrand Russell
+ %
+-	Prefiro os canalhas aos imbecis. Os canalhas, pelo menos, 
++	Prefiro os canalhas aos imbecis. Os canalhas, pelo menos,
+ 	descansam de vez em quando.
+-		-- Alexandre Dumas 
++		-- Alexandre Dumas
+ %
+-	Prefiro saber um pouco menos do que saber muito daquilo que 
++	Prefiro saber um pouco menos do que saber muito daquilo que
+ 	nao e verdade.
+ 		-- Josh Billings
+ %
+-	Prefiro um engano que me divirta a uma experiencia que me 
++	Prefiro um engano que me divirta a uma experiência que me
+ 	entristeca.
+ 		--  William Shakespeare
+ %
+-	Presume-se que a mulher deve esperar, imovel, ate ser 
+-	cortejada. Mais ou menos como a aranha espera a 
++	Presume-se que a mulher deve esperar, imovel, ate ser
++	cortejada. Mais ou menos como a aranha espera a
+ 	mosca.
+ 		-- George Bernard Shaw
+ %
+-	Procure ser um homem de valor em vez de procurar ser um 
++	Procure ser um homem de valor em vez de procurar ser um
+ 	homem de sucesso
+ %
+-	Qualquer destino, por mais longo e complicado que seja, vale 
+-	apenas por um unico momento: aquele em que o homem 
++	Qualquer destino, por mais longo e complicado que seja, vale
++	apenas por um unico momento: aquele em que o homem
+ 	compreende de uma vez por toda quem e.
+-		--  Jorge Luiz Borges; escritor argentino. 
++		--  Jorge Luiz Borges; escritor argentino.
+ %
+-	Qualquer formula que expressa uma lei da natureza e um hino 
++	Qualquer formula que expressa uma lei da natureza e um hino
+ 	de louvor a Deus.
+-		--  Maria Mitchell; astronoma americana.  
++		--  Maria Mitchell; astronoma americana.
+ %
+-	Qualquer homem pode ser feliz com qualquer mulher. Desde que 
++	Qualquer homem pode ser feliz com qualquer mulher. Desde que
+ 	nao a ame.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Qualquer idiota e capaz de pintar um quadro, mas so um genio 
++	Qualquer idiota e capaz de pintar um quadro, mas só um genio
+ 	e capaz de vende-lo.
+-		-- Samuel Butler 
++		-- Samuel Butler
+ %
+-	Qualquer pessoa so tem sobre voce o poder que voce concede a 
++	Qualquer pessoa só tem sobre você o poder que você concede a
+ 	ela
+ %
+-	Qualquer preocupacao com a ideia do que e certo ou errado em 
+-	comportamento revela um desenvolvimento intelectual 
++	Qualquer preocupação com a ideia do que e certo ou errado em
++	comportamento revela um desenvolvimento intelectual
+ 	retardado.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Quando algo e uma utopia, senao a partir do instante em que 
+-	se pergunta sobre seu futuro ou sobre a possibilidade de sua 
+-	efetuacao? Deixe isto de lado; a revolucao nao tem futuro, e 
+-	muito menos precisa de passado. Pense-se no evento, no 
++	Quando algo e uma utopia, senao a partir do instante em que
++	se pergunta sobre seu futuro ou sobre a possibilidade de sua
++	efetuação? Deixe isto de lado; a revolucao não tem futuro, e
++	muito menos precisa de passado. Pense-se no evento, no
+ 	acontecer dela.
+ 		-- -Claudio Ulpiano
+ %
+-	Quando aquele que ouve nao sabe o que aquele que fala esta 
+-	querendo dizer; e quando aquele que fala tambem nao sabe o 
+-	que esta querendo dizer - a isto se chama 
++	Quando aquele que ouve não sabe o que aquele que fala esta
++	querendo dizer; e quando aquele que fala também não sabe o
++	que esta querendo dizer - a isto se chama
+ 	filosofia.
+-		-- Voltaire 
++		-- Voltaire
+ %
+-	Quando eu era jovem, pensava que o dinheiro era a coisa mais 
++	Quando eu era jovem, pensava que o dinheiro era a coisa mais
+ 	importante do mundo. Hoje, tenho certeza.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Quando ha milhares de motivos para se odiar uma pessoa mas 
+-	so um para ama-la ; este ultimo prevalece.
++	Quando há milhares de motivos para se odiar uma pessoa mas
++	so um para ama-la ; este último prevalece.
+ 		-- Anonimo
+ %
+-	Quando ja nao suporto pensar nas vitimas dos lares 
+-	desfeitos, comeco a pensar nas vitimas dos lares 
++	Quando já não suporto pensar nas vitimas dos lares
++	desfeitos, comeco a pensar nas vitimas dos lares
+ 	intactos.
+-		-- Peter de Vries 
++		-- Peter de Vries
+ %
+-	Quando o portugues chegou debaixo de uma bruta chuva vestiu 
+-	o indio! Fosse uma manha de sol o indio tinha despido o 
+-	portugues.
++	Quando o português chegou debaixo de uma bruta chuva vestiu
++	o indio! Fosse uma manha de sol o indio tinha despido o
++	português.
+ 		-- Osvaldo de Andradre; ensaista, romancista e poeta Brasileiro.
+ %
+-	Quando os deuses querem nos punir, respondem as nossas 
++	Quando os deuses querem nos punir, respondem as nossas
+ 	preces.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Quando ouco falar em ecologia, saco logo meu talao de 
++	Quando ouco falar em ecologia, saco logo meu talao de
+ 	cheques.
+-		-- Paulo Francis 
++		-- Paulo Francis
+ %
+-	Quando quero saber o que a Franca pensa, pergunto a mim 
++	Quando quero saber o que a Franca pensa, pergunto a mim
+ 	mesmo.
+-		-- Charles de Gaulle 
++		-- Charles de Gaulle
+ %
+-	Quando se busca o cume da montanha, nao se da importancia as 
++	Quando se busca o cume da montanha, não se da importancia as
+ 	pedras do  caminho
+ %
+-	Quando se perdeu toda a curiosidade pelo futuro, chegou-se a 
++	Quando se perdeu toda a curiosidade pelo futuro, chegou-se a
+ 	idade de escrever uma autobiografia.
+-		-- Evelyn Waugh 
++		-- Evelyn Waugh
+ %
+-	Quando se trata de dinheiro, todo mundo e da mesma 
++	Quando se trata de dinheiro, todo mundo e da mesma
+ 	religiao.
+-		-- Voltaire 
++		-- Voltaire
+ %
+-	Quando sonhamos sozinhos e apenas um sonho. Quando sonhamos 
++	Quando sonhamos sozinhos e apenas um sonho. Quando sonhamos
+ 	juntos e o comeco da realidade.
+ 		-- D. Helder Camara
+ %
+-	Quando um filosofo completa uma resposta, ninguem mais se 
++	Quando um filosofo completa uma resposta, ninguem mais se
+ 	lembra de qual foi a pergunta.
+-		-- Andre Gide 
++		-- Andre Gide
+ %
+-	Quando um homem tem consciencia da sua valia, opera 
++	Quando um homem tem consciência da sua valia, opera
+ 	prodigios em todas as condicoes de vida
+ 		-- D.Antonio Costa
+ %
+-	Quando vier a prosperidade, nao a use de uma vez.
++	Quando vier a prosperidade, não a use de uma vez.
+ 		--  Confucio
+ %
+-	Quanto mais se recua na ciencia, mais se descobre coisas de 
+-	alta qualidade. Por exemplo, ao estudar a ciencia de 
+-	determinada epoca nos deparamos com nocoes interessantes 
+-	como a Lei da Gravidade, o principio da eletricidade e a 
+-	forma redonda da Terra - ao passo que o exame de conquistas 
+-	mais recentes mostra uma forte tendencia para o queijo em 
+-	spray, o brim pre-encolhido e o sintetizador 
++	Quanto mais se recua na ciência, mais se descobre coisas de
++	alta qualidade. Por exemplo, ao estudar a ciência de
++	determinada epoca nos deparamos com nocoes interessantes
++	como a Lei da Gravidade, o principio da eletricidade e a
++	forma redonda da Terra - ao passo que o exame de conquistas
++	mais recentes mostra uma forte tendencia para o queijo em
++	spray, o brim pre-encolhido e o sintetizador
+ 	Moog.
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+-	Que e utopia se nao o fruto da percepcao de dimensoes 
+-	secretas da realidade, um afloramento de energias contidas 
+-	que antecipa a ampliacao do horizonte de possibilidades 
++	Que e utopia se não o fruto da percepcao de dimensoes
++	secretas da realidade, um afloramento de energias contidas
++	que antecipa a ampliação do horizonte de possibilidades
+ 	abertas ao homem?
+ 		-- Celso Furtado
+ %
+ 	Que Deus proteja meus amigos. Dos inimigos, cuido eu.
+-		-- Voltaire 
++		-- Voltaire
+ %
+-	Que as criancas possam nos ensinar a sorrir, imundando a 
++	Que as crianças possam nos ensinar a sorrir, imundando a
+ 	nossa vida de alegria
+ %
+-	Que coisa idiota a expressao "Fulano nao passa de uma mera 
+-	crianca". Ninguem se refere a Sicrano como "Ele nao passa de 
++	Que coisa idiota a expressao "Fulano não passa de uma mera
++	criança". Ninguem se refere a Sicrano como "Ele não passa de
+ 	um mero adulto".
+-		-- Fran Lebowitz 
++		-- Fran Lebowitz
+ %
+-	Que o amor nao seja eterno, mas que seja infinito enquanto 
++	Que o amor não seja eterno, mas que seja infinito enquanto
+ 	durar.
+ %
+-	Que os seus momentos de descanso tragam a inspiracao e a 
++	Que os seus momentos de descanso tragam a inspiração e a
+ 	energia necessarias para o resto do ano
+ 		-- Autor desconhecido
+ %
+-	Quem conhece a sua ignorancia comeca a ser sabio.
++	Quem conhece a sua ignorância começa a ser sábio.
+ 		--  Confucio
+ %
+-	Quem nao rir mais nao e uma pessoa seria.
+-		-- Frederic Chopin; compositor frances 
++	Quem não rir mais não e uma pessoa seria.
++		-- Frederic Chopin; compositor frances
+ %
+-	Quem nao sabe agradar seguindo o vento que sopra, logo logo 
++	Quem não sabe agradar seguindo o vento que sopra, logo logo
+ 	pega um resfriado.
+ 		--  William Shakespeare
+ %
+-	Quem nao sabe usar a calma nos instantes dificeis 
++	Quem não sabe usar a calma nos instantes difíceis
+ 	precipita-se nas sombras de maiores dificuldades.
+ %
+-	Quem nao e liberal aos dezesseis anos e um insensivel; quem 
+-	nao e um conservador aos sessenta e burro.
+-		-- Benjamin Disraeli 
++	Quem não e liberal aos dezesseis anos e um insensível; quem
++	não é um conservador aos sessenta é burro.
++		-- Benjamin Disraeli
+ %
+-	Quem olha so para um lado so ve este lado
++	Quem olha só para um lado só vê este lado
+ 		-- Zinder
+ %
+-	Quem pergunta e bobo por cinco minutos. Quem nao pergunta e 
++	Quem pergunta e bobo por cinco minutos. Quem não pergunta e
+ 	bobo para sempre.
+ 		--  Confucio
+ %
+-	Querem saber o que os homens pensam? Nao oucam o que dizem, 
++	Querem saber o que os homens pensam? Não oucam o que dizem,
+ 	observem o que fazem.
+ %
+-	Recessao e quando o seu vizinho perde o emprego; depressao e 
+-	quando voce perde o seu.
+-		-- Harry S. Truman 
++	Recessao e quando o seu vizinho perde o emprego; depressao e
++	quando você perde o seu.
++		-- Harry S. Truman
+ %
+-	Sabeis o que e a ciencia? E saber que se sabe o que se sabe 
+-	e que nao se sabe o que nao se sabe.
++	Sabeis o que e a ciência? E saber que se sabe o que se sabe
++	e que não se sabe o que não se sabe.
+ 		--  Confucio
+ %
+-	Se a experiencia funcionou na primeira tentativa, tem algo 
++	Se a experiência funcionou na primeira tentativa, tem algo
+ 	errado.
+ 		-- Joseph Murphy
+ %
+-	Se alguma coisa pode dar errado, dara. E mais, dara errado 
+-	da pior maneira, no pior momento e de modo que cause o maior 
++	Se alguma coisa pode dar errado, dara. E mais, dara errado
++	da pior maneira, no pior momento e de modo que cause o maior
+ 	dano possivel.
+ 		-- Joseph Murphy
+ %
+-	Se as duas pessoas se amam, nao pode haver final feliz.
+-		-- Ernest Hemingway 
++	Se as duas pessoas se amam, não pode haver final feliz.
++		-- Ernest Hemingway
+ %
+-	Se fizerdes o bem e receberes ingratidao, nao se arrependa, 
+-	pois a felicidade depende da bondade que existe em nosso 
+-	coracao.
++	Se fizerdes o bem e receberes ingratidao, não se arrependa,
++	pois a felicidade depende da bondade que existe em nosso
++	coração.
+ %
+-	Se ha uma coisa que detesto mais do que nao ser levado a 
++	Se há uma coisa que detesto mais do que não ser levado a
+ 	serio, e ser levado a serio.
+-		-- Billy Wilder 
++		-- Billy Wilder
+ %
+-	Se nao puder convence-los, confunda-os.
+-		-- Harry S. Truman 
++	Se não puder convence-los, confunda-os.
++		-- Harry S. Truman
+ %
+-	Se nao puder ser inteligente, seja engracado.
+-		-- Harold Ross 
++	Se não puder ser inteligente, seja engracado.
++		-- Harold Ross
+ %
+-	Se o desejo de matar e a oportunidade de matar viessem 
++	Se o desejo de matar e a oportunidade de matar viessem
+ 	sempre juntos, ninguem escaparia ao enforcamento.
+-		-- Mark Twain 
++		-- Mark Twain
+ %
+-	Se pelo menos pudessemos viver duas vezes: a primeira vez, 
+-	para cometer todos os inevitaveis erros; a segunda para 
++	Se pelo menos pudessemos viver duas vezes: a primeira vez,
++	para cometer todos os inevitaveis erros; a segunda para
+ 	lucrar com eles.
+-		-- D. H. Lawrence 
++		-- D. H. Lawrence
+ %
+-	Se pudesse receber de volta a taxa de inscricao, eu pediria 
+-	demissao da raca humana.
+-		-- Fred Allen 
+-%
+-	Se quer construir algo do nada, comece amando intensamente 
+-	seus pensamentos e sua imaginacao. Um grande caminho comeca 
+-	com o primeiro passo. O resto fica por conta das 
++	Se pudesse receber de volta a taxa de inscricao, eu pediria
++	demissao da raça humana.
++		-- Fred Allen
++%
++	Se quer construir algo do nada, comece amando intensamente
++	seus pensamentos e sua imaginação. Um grande caminho começa
++	com o primeiro passo. O resto fica por conta das
+ 	circunstancias.
+ %
+-	Se seus sonhos estiverem nas nuvens, nao se preocupe, pois 
+-	eles estao no lugar certo... agora construa os 
++	Se seus sonhos estiverem nas nuvens, não se preocupe, pois
++	eles estão no lugar certo... agora construa os
+ 	alicerces...
+ %
+-	Se todos os economistas fossem postos lado a lado, nao 
++	Se todos os economistas fossem postos lado a lado, não
+ 	chegariam a uma conclusao.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+-	Se um dia filmasse a vida de Cristo, so mostraria as cenas 
+-	que nao estao na Biblia. [antes de ter filmado "Je Vous 
++	Se um dia filmasse a vida de Cristo, só mostraria as cenas
++	que não estão na Biblia. [antes de ter filmado "Je Vous
+ 	Salue Marie"]
+-		-- Jean Luc Godard 
++		-- Jean Luc Godard
+ %
+-	Se um homem tiver realmente muita fe, pode dar-se ao luxo de 
++	Se um homem tiver realmente muita fe, pode dar-se ao luxo de
+ 	ser cetico.
+-		-- Friedrich Nietzsche 
++		-- Friedrich Nietzsche
+ %
+-	Se veres que seus esforcos nao sao reconhecidos nao 
+-	desanime.  Pois o nascer o sol da um dos mais lindo 
+-	espetaculo e encontra a maior parte da plateia 
++	Se veres que seus esforcos não são reconhecidos não
++	desanime.  Pois o nascer o sol da um dos mais lindo
++	espetaculo e encontra a maior parte da plateia
+ 	dormindo.
+ %
+-	Se voce esta se sentindo bem, nao se preocupe. Isso passa.
++	Se você esta se sentindo bem, não se preocupe. Isso passa.
+ 		-- Anonimo
+ %
+-	Se voce acha que educacao e cara, tente ignora-la
++	Se você acha que educação e cara, tente ignora-la
+ 		-- Derek Bok
+ %
+-	Se voce enxugar lagrimas alheias nao tera tempo para 
++	Se você enxugar lagrimas alheias não tera tempo para
+ 	chorar.
+ %
+-	Se voce nao fizer parte do rolo-compressor, fara certamente 
++	Se você não fizer parte do rolo-compressor, fara certamente
+ 	parte da estrada.
+ %
+-	Se voce pensa que a educacao e dispensavel, experimente 
++	Se você pensa que a educação e dispensavel, experimente
+ 	ignora-la
+ 		-- Derek Bok.
+ %
+-	Se voce se parece com a sua foto no passaporte, e porque sem 
++	Se você se parece com a sua foto no passaporte, e porque sem
+ 	duvida esta precisando da viagem.
+-		-- Earl Wilson 
++		-- Earl Wilson
+ %
+-	Se voce tem que perguntar quanto custa, e porque nao pode 
++	Se você tem que perguntar quanto custa, e porque não pode
+ 	comprar.
+-		-- J. Pierpont Morgan 
++		-- J. Pierpont Morgan
+ %
+ 	Seja intimo, mas nunca vulgar.
+ 		--  William Shakespeare
+ %
+-	Sempre achei que iria levar anos para fracassar da noite 
++	Sempre achei que iria levar anos para fracassar da noite
+ 	para o dia.
+-		-- Woody Allen 
++		-- Woody Allen
+ %
+-	Sempre faco o mesmo filme. Nao consigo distinguir um dos 
++	Sempre faco o mesmo filme. Não consigo distinguir um dos
+ 	outros.
+-		-- Federico Fellini 
++		-- Federico Fellini
+ %
+-	Sempre fiz questao de nunca fumar dormindo.
+-		-- Mark Twain 
++	Sempre fiz questão de nunca fumar dormindo.
++		-- Mark Twain
+ %
+-	Sempre que alguem faz uma coisa absolutamente estupida, e 
++	Sempre que alguem faz uma coisa absolutamente estupida, e
+ 	pelo mais nobre dos motivos.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Ser coerente significa ser tao ignorante hoje quanto um ano 
++	Ser coerente significa ser tao ignorante hoje quanto um ano
+ 	atras.
+-		-- Bernard Berenson 
++		-- Bernard Berenson
+ %
+-	Ser comunista, hoje, exige um ato de fe sobre-humana.
+-		-- Paulo Francis 
++	Ser comunista, hoje, exige um ato de fé sobre-humana.
++		-- Paulo Francis
+ %
+ 	Ser da classe media e achar Godard o maximo.
+-		-- Paulo Francis 
++		-- Paulo Francis
+ %
+-	Seu proposito de guerrear dara frutos de inquietacao.
++	Seu proposito de guerrear dara frutos de inquietação.
+ %
+-	Sob a democracia, um partido devota suas principais energias 
+-	a tentativa de provar que o outro partido e incompetente 
+-	para governar - e ambos conseguem e ambos estao 
++	Sob a democracia, um partido devota suas principais energias
++	a tentativa de provar que o outro partido e incompetente
++	para governar - e ambos conseguem e ambos estão
+ 	certos.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	Somente Deus e eu somos capazes de fazer algo a partir do 
++	Somente Deus e eu somos capazes de fazer algo a partir do
+ 	nada.
+-		-- Aristoteles Onassis 
++		-- Aristoteles Onassis
+ %
+-	Sou contra noivados muito longos. Dao tempo As pessoas de 
+-	conhecer o carater uma da outra, o que nao me parece 
++	Sou contra noivados muito longos. Dao tempo As pessoas de
++	conhecer o carater uma da outra, o que não me parece
+ 	aconselhavel antes do casamento.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	So fui a falencia duas vezes. A primeira, quando perdi uma 
++	So fui a falencia duas vezes. A primeira, quando perdi uma
+ 	causa; a segunda, quando a ganhei.
+-		-- Voltaire 
++		-- Voltaire
+ %
+-	So ha duas coisas inevitaveis na vida: morte e impostos.
+-		-- Benjamin Franklin 
++	So há duas coisas inevitaveis na vida: morte e impostos.
++		-- Benjamin Franklin
+ %
+-	So mesmo um grande esnobismo espiritual faz com que as 
+-	pessoas acreditem que podem ser felizes sem 
++	So mesmo um grande esnobismo espiritual faz com que as
++	pessoas acreditem que podem ser felizes sem
+ 	dinheiro.
+-		-- Albert Camus 
++		-- Albert Camus
+ %
+-	So os idiotas da classe media acreditam que ficar em dia com 
+-	a ultima novidade em literatura melhora o seu status no 
++	So os idiotas da classe media acreditam que ficar em dia com
++	a ultima novidade em literatura melhora o seu status no
+ 	mundo.
+-		-- Mary McCarthy 
++		-- Mary McCarthy
+ %
+ 	So os mortos e os loucos nunca mudam de opiniao.
+ 		-- James Russell
+ %
+-	So se conhece uma mulher quando se cruza com ela no 
++	So se conhece uma mulher quando se cruza com ela no
+ 	tribunal.
+-		-- Norman Mailer 
++		-- Norman Mailer
+ %
+-	Talvez na derrota se encontrem sementes da vitoria, se do 
++	Talvez na derrota se encontrem sementes da vitória, se do
+ 	chao se levantar um aprendiz.
+ 		-- Ken O'Donnell
+ %
+-	Talvez os dias sejam iguais para um relogio, mas nao para um 
++	Talvez os dias sejam iguais para um relógio, mas não para um
+ 	homem.
+-		--  Marcel Proust; escritor frances.  
++		--  Marcel Proust; escritor frances.
+ %
+-	Tenha mais do que voce aparenta.
++	Tenha mais do que você aparenta.
+ 		--  William Shakespeare
+ %
+-	Tinha tanto azar que foi atropelado por uma carrocinha de 
++	Tinha tanto azar que foi atropelado por uma carrocinha de
+ 	sorvete.
+ 		-- Nelson Rodrigues
+ %
+-	Tive uma ideia monumental hoje de manha, mas nao gostei 
++	Tive uma ideia monumental hoje de manha, mas não gostei
+ 	dela.
+-		-- Samuel Goldwyn 
++		-- Samuel Goldwyn
+ %
+ 	Toda arte e absolutamente inutil.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+ 	Toda particula que voa sempre encontra um olho.
+ 		-- Joseph Murphy
+ %
+ 	Toda sociedade tem os adolescentes que merece.
+-		-- J. B. Priestley 
++		-- J. B. Priestley
+ %
+-	Toda utopia, como sonho acordado, como consciencia possivel, 
+-	representa sempre um estado de descontentamento e de critica 
++	Toda utopia, como sonho acordado, como consciência possivel,
++	representa sempre um estado de descontentamento e de critica
+ 	a sociedade que a engendra.
+ 		-- Evaristo de Moraes Filho
+ %
+-	Todas as mulheres deveriam se casar um dia. Os homens, 
++	Todas as mulheres deveriam se casar um dia. Os homens,
+ 	nunca.
+-		-- Benjamin Disraeli 
++		-- Benjamin Disraeli
+ %
+-	Todas as tragedias terminam em morte e todas as comedias em 
++	Todas as tragedias terminam em morte e todas as comedias em
+ 	casamento.
+-		-- Lord Byron 
++		-- Lord Byron
+ %
+-	Todo amor e eterno. Se nao e eterno, nao era amor.
+-		-- Nelson Rodrigues 
++	Todo amor e eterno. Se não e eterno, não era amor.
++		-- Nelson Rodrigues
+ %
+-	Todo conservador moderno est  empenhado num dos mais antigos 
+-	exercicios da filosofia: o de procurar uma justificacao 
++	Todo conservador moderno est  empenhado num dos mais antigos
++	exercicios da filosofia: o de procurar uma justificação
+ 	moral para o egoismo.
+-		-- John Kenneth Galbraith 
++		-- John Kenneth Galbraith
+ %
+ 	Todo corpo mergulhado numa banheira faz tocar o telefone.
+ 		-- Joseph Murphy
+ %
+-	Todo divorcio comeca mais ou menos ao mesmo tempo que o 
+-	casamento. O casamento talvez comece algumas semanas mais 
++	Todo divorcio começa mais ou menos ao mesmo tempo que o
++	casamento. O casamento talvez comece algumas semanas mais
+ 	cedo.
+-		-- Voltaire 
++		-- Voltaire
+ %
+-	Todo homem decente se envergonha do geverno sob o qual 
++	Todo homem decente se envergonha do geverno sob o qual
+ 	vive.
+-		-- H. L. Mencken 
++		-- H. L. Mencken
+ %
+-	Todo homem luta com mais bravura por seus interesses do que 
++	Todo homem luta com mais bravura por seus interesses do que
+ 	seus direitos.
+-		-- Napoleao 
++		-- Napoleao
+ %
+ 	Todo homem se torna a coisa que mais despreza.
+-		-- Robert Benchley 
++		-- Robert Benchley
+ %
+-	Todo mundo e capaz de envelhecer. Basta viver o suficiente 
++	Todo mundo e capaz de envelhecer. Basta viver o suficiente
+ 	para chegar ate la.
+-		-- Groucho Marx 
++		-- Groucho Marx
+ %
+-	Todos chegamos um dia como a agua e nos vamos como o vento
++	Todos chegamos um dia como a água e nos vamos como o vento
+ 		-- Graham Greene
+ %
+-	Todos nos devemos muito a Thomas Edison. Se nao fosse por 
+-	ele, ainda estariamos vendo televisao a luz de 
++	Todos nos devemos muito a Thomas Edison. Se não fosse por
++	ele, ainda estariamos vendo televisao a luz de
+ 	velas.
+-		-- Milton Berle 
++		-- Milton Berle
+ %
+-	Todos os casamentos sao felizes. Tentar viver juntos depois 
++	Todos os casamentos são felizes. Tentar viver juntos depois
+ 	e que causa os problemas.
+-		-- Shelley Winters 
++		-- Shelley Winters
+ %
+-	Transportai um punhado de terra todos os dias e fareis uma 
++	Transportai um punhado de terra todos os dias e fareis uma
+ 	montanha.
+ 		--  Confucio
+ %
+ 	Tudo de que eu realmente gosto e imoral, ilegal ou engorda.
+-		-- Alexander Woollcott 
++		-- Alexander Woollcott
+ %
+-	Tudo o que sabemos do amor, e que o amor e tudo o que 
++	Tudo o que sabemos do amor, e que o amor e tudo o que
+ 	existe.
+-		--  Emily Dickinson; poeta americana. 
++		--  Emily Dickinson; poeta americana.
+ %
+-	Tudo que decidires fazer, realiza-o imediatamente. Nao 
+-	deixes para a tarde o que puderes realizar pela 
++	Tudo que decidires fazer, realiza-o imediatamente. Não
++	deixes para a tarde o que puderes realizar pela
+ 	manha.
+ %
+-	Um "expert" e um homem que parou de pensar. Para que pensar, 
++	Um "expert" e um homem que parou de pensar. Para que pensar,
+ 	se ele e um "expert"?
+-		-- Frank Lloyd Wright 
++		-- Frank Lloyd Wright
+ %
+-	Um "gentleman" ingles galopando atras de uma raposa e o 
++	Um "gentleman" ingles galopando atras de uma raposa e o
+ 	mesmo que o inominavel perseguindo o incomivel.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Um absurdo colossal pode tomar a aparencia de uma grande 
++	Um absurdo colossal pode tomar a aparencia de uma grande
+ 	verdade.
+ 		-- William Cooper
+ %
+ 	Um ano? Uma serie de 365 desilusoes.
+ 		-- Ambrose Bierce
+ %
+-	Um ator nao e exatamente um ser humano - mas, pensando bem, 
++	Um ator não e exatamente um ser humano - mas, pensando bem,
+ 	quem e?
+-		-- George Sanders 
++		-- George Sanders
+ %
+ 	Um chato e um homem que nunca e rude - sem querer.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Um conciliador e alguem que alimenta um crocodilo, esperando 
+-	ser devorado por ultimo.
+-		-- Winston Churchill 
+-%
+-	Um conciliador e alguem que alimenta um crocodilo, esperando 
+-	ser devorado por ultimo.
+-		-- Winston Churchill 
++	Um conciliador é alguém que alimenta um crocodilo, esperando
++	ser devorado por último.
++		-- Winston Churchill
+ %
+-	Um conservador e um homem com duas pernas perfeitas, mas 
+-	que, infelizmente, nunca aprendeu a andar para a 
++	Um conservador e um homem com duas pernas perfeitas, mas
++	que, infelizmente, nunca aprendeu a andar para a
+ 	frente.
+-		-- Franklin D. Roosevelt 
++		-- Franklin D. Roosevelt
+ %
+-	Um critico e um sujeito que conhece o caminho, mas nao sabe 
++	Um critico e um sujeito que conhece o caminho, mas não sabe
+ 	dirigir o carro.
+-		-- Kenneth Tynan 
++		-- Kenneth Tynan
+ %
+-	Um cinico e um homem que sabe o preco de tudo e o valor de 
++	Um cinico e um homem que sabe o preco de tudo e o valor de
+ 	nada.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Um dia ainda vamos sentir saudades dos bons tempos do 
++	Um dia ainda vamos sentir saudades dos bons tempos do
+ 	automovel e das auto-estradas.
+-		-- Marshall McLuhan 
++		-- Marshall McLuhan
+ %
+-	Um dia chegaremos a conclusao de que a castidade e uma 
++	Um dia chegaremos a conclusao de que a castidade e uma
+ 	virtude tanto quanto a desnutricao.
+-		-- Alex Comfort 
++		-- Alex Comfort
+ %
+-	Um diplomata, atualmente, nao passa de um "maitre" a quem e 
++	Um diplomata, atualmente, não passa de um "maitre" a quem e
+ 	permitido ocasionalmente sentar-se.
+-		-- Peter Ustinov 
++		-- Peter Ustinov
+ %
+-	Um excesso de vez em quando e otimo. Impede a moderacao de 
++	Um excesso de vez em quando e otimo. Impede a moderação de
+ 	se tornar um habito.
+-		-- W. Somerset Maugham 
++		-- W. Somerset Maugham
+ %
+-	Um homem beijar a sua mao pode ser uma delicia, mas uma 
+-	pulseira de safiras e diamantes dura para 
++	Um homem beijar a sua mao pode ser uma delicia, mas uma
++	pulseira de safiras e diamantes dura para
+ 	sempre.
+-		-- Anita Loos 
++		-- Anita Loos
+ %
+-	Um homem bem educado e aquele que nunca fere os sentimentos 
++	Um homem bem educado e aquele que nunca fere os sentimentos
+ 	de outras pessoas - sem querer.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Um homem e uma mulher se casam porque nao sabem o que fazer 
++	Um homem e uma mulher se casam porque não sabem o que fazer
+ 	consigo mesmos.
+-		-- Anton Tchecov 
++		-- Anton Tchecov
+ %
+-	Um homem nao e mais que outro, apenas um faz mais do que o 
++	Um homem não e mais que outro, apenas um faz mais do que o
+ 	outro
+ 		-- Miguel de Cervantes
+ %
+-	Um homem que detesta criancas e cachorros nao pode ser mau 
++	Um homem que detesta crianças e cachorros não pode ser mau
+ 	de todo.
+-		-- W. C. Fields 
++		-- W. C. Fields
+ %
+-	Um homem sem endereco e um vagabundo; um homem com dois 
++	Um homem sem endereco e um vagabundo; um homem com dois
+ 	enderecos e um libertino.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+ 	Um idealista e alguem que ajuda outro a ter lucro.
+-		-- Henry Ford 
++		-- Henry Ford
+ %
+-	Um louco perde tudo, menos a razao
+-		--  Gilbert Keith Chesterton ; escritor ingles. 
++	Um louco perde tudo, menos a razão
++		--  Gilbert Keith Chesterton ; escritor ingles.
+ %
+-	Um mapa-mundi que nao inclua a utopia, nao e digno de 
+-	consulta, pois deixa de fora as terras a que a Humanidade 
++	Um mapa-mundi que não inclua a utopia, não e digno de
++	consulta, pois deixa de fora as terras a que a Humanidade
+ 	esta sempre apontando.
+ 		-- Oscar Wilde
+ %
+-	Um menino-prodigio e uma crianca cujos pais tem muita 
+-	imaginacao.
+-		-- Jean Costeau 
++	Um menino-prodigio e uma criança cujos pais tem muita
++	imaginação.
++		-- Jean Costeau
+ %
+-	Um objeto sempre cai do jeito que causa mais dano, incomodo 
++	Um objeto sempre cai do jeito que causa mais dano, incomodo
+ 	ou prejuizo. Lei da gravidade seletiva.
+ 		-- Anonimo
+ %
+-	Um passeio casual por um hospicio mostra que a fe nao prova 
++	Um passeio casual por um hospicio mostra que a fé não prova
+ 	nada.
+-		-- Friedrich Nietzsche 
++		-- Friedrich Nietzsche
+ %
+-	Um pais se faz com receptadores e livros-caixa 
++	Um pais se faz com receptadores e livros-caixa
+ 	falsificados.
+-		-- Perry White 
++		-- Perry White
+ %
+-	Um prisioneiro de guerra e um homem que tenta mata-lo, nao 
+-	consegue e implora para voce que nao o mate.
+-		-- Winston Churchill 
++	Um prisioneiro de guerra e um homem que tenta mata-lo, não
++	consegue e implora para você que não o mate.
++		-- Winston Churchill
+ %
+-	Um sabio nunca e precipitado na escolha das palavras.
++	Um sábio nunca é precipitado na escolha das palavras.
+ 		--  Confucio
+ %
+-	Um vago decote pode comprometer ao infinito. So o amado tem 
++	Um vago decote pode comprometer ao infinito. So o amado tem
+ 	o direito de olhar um simples decote.
+-		-- Nelson Rodrigues 
++		-- Nelson Rodrigues
+ %
+-	Uma "boa familia" e aquela que costumava ser melhor.
+-		-- Cleveland Amory 
++	Uma "boa família" é aquela que costumava ser melhor.
++		-- Cleveland Amory
+ %
+-	Uma autobiografia e um obituario em forma de seriado, ao 
+-	qual falta o ultimo capitulo.
+-		-- Quentin Crisp 
++	Uma autobiografia é um obituario em forma de seriado, ao
++	qual falta o último capítulo.
++		-- Quentin Crisp
+ %
+-	Uma comissao consiste de uma reuniao de pessoas importantes 
+-	que, sozinhas, nao podem fazer nada, mas que, juntas, 
++	Uma comissao consiste de uma reunião de pessoas importantes
++	que, sozinhas, não podem fazer nada, mas que, juntas,
+ 	decidem que nada pode ser feito.
+-		-- Fred Allen 
++		-- Fred Allen
+ %
+-	Uma consciencia que ja foi comprada uma vez pode ser 
++	Uma consciência que já foi comprada uma vez pode ser
+ 	comprada de novo.
+-		-- Norbert Wiener 
++		-- Norbert Wiener
+ %
+-	Uma crise na semana que vem seria um desastre. Minha agenda 
++	Uma crise na semana que vem seria um desastre. Minha agenda
+ 	ja esta cheia.
+-		-- Henry Kissinger 
++		-- Henry Kissinger
+ %
+-	Uma das principais causas do analfabetismo das massas e o 
+-	fato de que, hoje em dia, quase todo mundo sabe ler e 
++	Uma das principais causas do analfabetismo das massas e o
++	fato de que, hoje em dia, quase todo mundo sabe ler e
+ 	escrever.
+-		-- Peter de Vries 
++		-- Peter de Vries
+ %
+-	Uma guerra entre dois carecas por causa de um pente. [sobre 
++	Uma guerra entre dois carecas por causa de um pente. [sobre
+ 	a guerra das Malvinas]
+-		-- Jorge Luis Borges 
++		-- Jorge Luis Borges
+ %
+-	Uma ideia nao e responsavel pelas pessoas que acreditam 
++	Uma ideia não e responsavel pelas pessoas que acreditam
+ 	nela.
+-		-- Don Marquis 
++		-- Don Marquis
+ %
+-	Uma maneira de se parar um cavalo de corrida e apostar 
++	Uma maneira de se parar um cavalo de corrida e apostar
+ 	nele.
+ 		-- Joseph Murphy
+ %
+-	Uma pessoa saudavel e aquela que nao foi suficientemente 
++	Uma pessoa saudavel e aquela que não foi suficientemente
+ 	examinada.
+ 		-- Joseph Murphy
+ %
+-	Uma sociedade que suprime a aventura faz com que a unica 
++	Uma sociedade que suprime a aventura faz com que a única
+ 	aventura se torne a supressao desta sociedade.
+-		-- Jerry Rubin 
++		-- Jerry Rubin
+ %
+-	Uma teorica vitoria do comunismo em ambito mundial nao 
++	Uma teorica vitória do comunismo em ambito mundial não
+ 	alteraria minha vida em nada.
+-		-- Aristoteles Onassis 
++		-- Aristoteles Onassis
+ %
+-	Uma vez igualadas aos homens, as mulheres se tornam seus 
++	Uma vez igualadas aos homens, as mulheres se tornam seus
+ 	superiores.
+-		-- Socrates 
++		-- Socrates
+ %
+-	Uma vez, em Londres, fui levado a exeperimentar LSD. E, quer 
++	Uma vez, em Londres, fui levado a exeperimentar LSD. E, quer
+ 	saber? Achei uma boa droga.
+-		-- Caetano Veloso 
++		-- Caetano Veloso
+ %
+-	Uma vida inteira de felicidade! Nenhum homem vivo 
++	Uma vida inteira de felicidade! Nenhum homem vivo
+ 	conseguiria suporta-la. Seria o inferno.
+-		-- George Bernard Shaw 
++		-- George Bernard Shaw
+ %
+-	Usamos as ideias apenas para justificar nossa maldade, e as 
+-	palavras para esconder nossas ideias. 
+-		-- Voltaire 
++	Usamos as idéias apenas para justificar nossa maldade, e as
++	palavras para esconder nossas idéias.
++		-- Voltaire
+ %
+-	Viajar de trem em alta velocidade e impossivel porque os 
+-	passageiros, incapazes de respirar, morreriam 
++	Viajar de trem em alta velocidade e impossível porque os
++	passageiros, incapazes de respirar, morreriam
+ 	asfixiados.
+ 		-- Dionusios Lardner, 1793-1859
+ %
+-	Voce sempre acha algo no ultimo lugar que voce procura.
++	Você sempre acha algo no último lugar que você procura.
+ 		-- Joseph Murphy
+ %
+-	Voce pode usar o batedor de carne para bater um prego, mas a 
++	Você pode usar o batedor de carne para bater um prego, mas a
+ 	melhor  ferramenta ainda e o martelo.
+ %
+-	Voce tem dezoito filhos? Puxa! Eu tambem fumo cachimbo, mas 
++	Você tem dezoito filhos? Puxa! Eu também fumo cachimbo, mas
+ 	costumo tira-lo da boca de vez em quando.
+-		-- Groucho Marx 
++		-- Groucho Marx
+ %
+-	E bom nao esquecer que o inventor do alfabeto foi um 
++	É bom não esquecer que o inventor do alfabeto foi um
+ 	analfabeto.
+-		-- Millor Fernandes 
++		-- Millor Fernandes
+ %
+-	E comum perder-se o bom por querer-se o melhor.
++	É comum perder-se o bom por querer-se o melhor.
+ 		--  William Shakespeare
+ %
+-	E dificil dizer o que traz a felicidade: tanto o dinheiro 
++	É difícil dizer o que traz a felicidade: tanto o dinheiro
+ 	como a pobreza fracassaram.
+-		-- Kim Hubbard 
++		-- Kim Hubbard
+ %
+-	E facilimo ser humorista quando ser tem o governo 
+-	trabalhando para nos.
+-		-- Will Rogers 
++	É facílimo ser humorista quando se tem o governo
++	trabalhando para nós.
++		-- Will Rogers
+ %
+-	E fazendo os outros felizes que encontraremos nossa propria 
++	É fazendo os outros felizes que encontraremos nossa própria
+ 	felicidade
+ 		--  Marcelino Champagnat
+ %
+-	E facil livrar-se das responsabilidades. Dificil e escapar 
+-	das consequencias por se ter livrado delas
++	É fácil livrar-se das responsabilidades. Difícil é escapar
++	das conseqüências por se ter livrado delas
+ 		-- Graciliano Ramos
+ %
+-	E facil parecer educado com uma anfitria: basta atribuir ao 
++	É fácil parecer educado com uma anfitria: basta atribuir ao
+ 	seu vinho os anos que se subtrai de sua idade.
+-		-- Jules Petit-Senn 
++		-- Jules Petit-Senn
+ %
+-	E facil ser gentil com as pessoas a quem nao damos a minima 
+-	importancia.
+-		-- Oscar Wilde 
++	É fácil ser gentil com as pessoas a quem não damos a mínima
++	importância.
++		-- Oscar Wilde
+ %
+-	E impossivel amar um ser humano - desde que voce nao o 
++	É impossível amar um ser humano - desde que você não o
+ 	conheca bem.
+-		-- Charles Bukowski 
++		-- Charles Bukowski
+ %
+-	E impossivel educar uma crianca se ela nao for respeitada
++	É impossível educar uma criança se ela não for respeitada
+ 		-- Marcelino Champagnat
+ %
+-	E mais facil vencer um habito hoje do que amanha.
++	É mais fácil vencer um habito hoje do que amanha.
+ 		--  Confucio
+ %
+-	E melhor acender a vela do que amaldicoar a escuridao.
++	É melhor acender a vela do que amaldiçoar a escuridão.
+ 		--  Confucio
+ %
+-	E parte da cura o desejo de ser curado.
+-		-- Seneca, o jovem; filosofo romano4 a.C. ± 65 d.C.. 
++	É parte da cura o desejo de ser curado.
++		-- Seneca, o jovem; filosofo romano4 a.C. ± 65 d.C..
+ %
+-	E perigoso ter razao em assuntos sobre os quais as 
+-	autoridades estabelecidas estao erradas.
+-		-- Voltaire 
++	É perigoso ter razão em assuntos sobre os quais as
++	autoridades estabelecidas estão erradas.
++		-- Voltaire
+ %
+-	E precisamente por nao saber fazer uma coisa que um homem e 
++	É precisamente por não saber fazer uma coisa que um homem é
+ 	o melhor juiz dela.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	E preciso ter a coragem de ser o que e diante de qualquer 
++	É preciso ter a coragem de ser o que e diante de qualquer
+ 	pessoa
+ 		-- C.Wagner
+ %
+-	E sempre facil obedecer quando se sonha comandar.
+-		-- Jean-Paul Sartre 
++	É sempre fácil obedecer quando se sonha comandar.
++		-- Jean-Paul Sartre
+ %
+-	E um escandalo a quantidade de mulheres que flertam com seus 
+-	proprios maridos em publico. E como lavar a roupa limpa fora 
++	É um escândalo a quantidade de mulheres que flertam com seus
++	próprios maridos em público. E como lavar a roupa limpa fora
+ 	de casa.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	E uma pena que todas as pessoas que sabem como governar o 
+-	pais estejam ocupadas dirigindo taxis ou cortando 
++	É uma pena que todas as pessoas que sabem como governar o
++	país estejam ocupadas dirigindo táxis ou cortando
+ 	cabelo.
+-		-- George Burns 
++		-- George Burns
+ %
+-	E otimo jogar cartas com criancas, porque elas sao faceis de 
+-	ganhar e mais faceis ainda de tapear.
+-		-- Fran Lebowitz 
++	É otimo jogar cartas com crianças, porque elas são fáceis de
++	ganhar e mais fáceis ainda de tapear.
++		-- Fran Lebowitz
+ %
+-	Aprendamos a viver juntos como irmaos; caso contrario, vamos 
++	Aprendamos a viver juntos como irmãos; caso contrário, vamos
+ 	morrer juntos como idiotas.
+ 		-- MARTIN LUTHER KING
+ %
+-	Mestre nao e quem sempre ensina, mas quem de repente 
++	Mestre não é quem sempre ensina, mas quem de repente
+ 	aprende.
+ 		-- Guimaraes Rosa
+ %
+-	Se ha uma coisa que voce nao pode reciclar e o tempo gasto.
++	Se há uma coisa que você não pode reciclar é o tempo gasto.
+ 		-- Anon
+ %
+-	Esteja preparado. Nunca se tem uma segunda chande de causar 
+-	boa impressao.
++	Esteja preparado. Nunca se tem uma segunda chande de causar
++	boa impressão.
+ 		-- H. Jackson Brown Jr.
+ %
+-	E melhor saber para onde ir sem saber como do que saber como 
+-	e nao saber para onde ir.
++	É melhor saber para onde ir sem saber como do que saber como
++	e não saber para onde ir.
+ 		-- Gillo Pontecorvo
+ %
+-	Pessoas que sao boas para arranjar desculpas raramente sao 
++	Pessoas que são boas para arranjar desculpas raramente são
+ 	boas em qualquer outra coisa.
+ 		-- Benjamim Franklin
+ %
+-	Nao somos responsaveis apenas pelo que fazemos, mas tambem 
++	Não somos responsáveis apenas pelo que fazemos, mas também
+ 	pelo que deixamos de fazer.
+ 		-- Moliere
+ %
+-	O unico lugar em que o sucesso vem antes do trabalho e no 
+-	dicionario.
++	O único lugar em que o sucesso vem antes do trabalho e no
++	dicionário.
+ 		-- vidal Sasson
+ %
+-	O que sabemos e uma gota, o que ignoramos e um oceano.
++	O que sabemos é uma gota, o que ignoramos é um oceano.
+ 		-- Isaac Newton
+ %
+-	A ausencia diminui as paixoes mediocres e aumenta as 
+-	grandes, assim como o vento apaga as velas, mas atica as 
++	A ausência diminui as paixões medíocres e aumenta as
++	grandes, assim como o vento apaga as velas, mas atiça as
+ 	fogueiras.
+-		-- 
++		--
+ %
+-	A infelicidade tem isto de bom: faz-nos conhecer os 
++	A infelicidade tem isto de bom: faz-nos conhecer os
+ 	verdadeiros amigos.
+-		-- Honore de Balzac 
+-%
+-	Aprendi atraves da experiencia amarga a suprema licao: 
+-	controlar minha ira e torna-la como o calor que e convertido 
+-	em energia.  Nossa ira controlada pode ser convertida numa 
+-	forca capaz de mover o mundo.
+-		-- Mahatma Gandhi 
+-%
+-	A vida e uma pedra de amolar: desgasta-nos ou afia-nos, 
+-	conforme o metal de somos feitos.
+-		-- George Bernard Shaw 
+-%
+-	Nao existe verdadeira inteligencia sem bondade.
+-		-- Ludwig van Beethoven 
+-%
+-	O amor e o desejo sao as asas do espirito das grandes 
+-	facanhas.
+-		-- Johann Wolfgang von Goethe 
+-%
+-	Ha tres coisas na vida que nunca voltam atras: a flecha 
+-	lancada, a palavra pronunciada e a oportunidade 
+-	perdida.
+-		-- Proverbio Chines 
+-%
+-	Coitado do ser humano em quem nao ficou nada da crianca.
+-		-- Anton Graff 
+-%
+-	A vitoria tem mil pais e a derrota e orfa.
+-		-- Napoleao Bonaparte 
+-%
+-	A alegria esta na luta, na tentativa, no sofrimento 
+-	envolvido.  Nao na vitoria propriamente dita.
+-		--  Mahatma Gandhi 
+-%
+-	Toma conselhos com o vinho, mas toma decisoes com a agua.
+-		-- Benjamim Franklin 
+-%
+-	O amor e a forca mais sutil do mundo.
+-		--  Mahatma Gandhi 
+-%
+-	Para uma boa fome nao existe pao duro.
+-		-- Refrao Espanhol 
+-%
+-	A miseria da condicao humana e tal que a dor e seu 
+-	sentimento mais vivo.
+-		-- Jean Lerond DAlembert 
+-%
+-	O universo nao foi feito a medida do ser humano, mas 
+-	tampouco lhe e adverso: e-lhe indiferente.
+-		-- Carl Sagan 
+-%
+-	Um mentiroso e sempre prodigo em juramentos.
+-		-- Pierre Corneille 
+-%
+-	Um homem nao pode fazer o certo numa area da vida, enquanto 
+-	esta ocupado em fazer o errado em outra.  A vida e um todo 
+-	indivisivel.
+-		--  Mahatma Gandhi 
+-%
+-	O homem vale tanto quanto o valor que da a si proprio.
+-		-- Francois Rabelais 
+-%
+-	A palavra e prata, o silencio e ouro.
+-		-- Proverbio Chines 
+-%
+-	A violencia destroi o que ela pretende defender: a dignidade 
+-	da vida, a liberdade do ser humano.
+-		--  Joao Paulo II
++		-- Honore de Balzac
+ %
+-	As religioes sao caminhos diferentes convergindo para o 
+-	mesmo ponto.  Que importancia faz se seguimos por caminhos 
+-	diferentes, desde que alcancemos o mesmo 
++	As religiões são caminhos diferentes convergindo para o
++	mesmo ponto.  Que importancia faz se seguimos por caminhos
++	diferentes, desde que alcancemos o mesmo
+ 	objetivo?
+-		--  Mahatma Gandhi 
+-%
+-	Mais que as ideias, sao os interesses que separam as 
+-	pessoas.
+-		-- Alexis de Tocqueville 
+-%
+-	Os principios mais importantes podem e devem ser 
+-	inflexiveis.
+-		-- Abraham Lincoln 
+-%
+-	A leitura de um bom livro e um dialogo incessante: o livro 
+-	fala e a alma responde.
+-		-- Andre Maurois 
+-%
+-	As esplendidas fortunas - como os ventos impetuosos - 
+-	provocam grandes naufragios.
+-		-- Plutarco 
+-%
+-	Sei que vez por outra incorremos em erros; mas comecarmos a 
+-	nos dar conta disso nos torna menos imperfeitos.
+-		-- Juan Domingo Peron
+-%
+-	Se vives de acordo com as leis da natureza, nunca seras 
+-	pobre; se vives de acordo com as opinioes alheias, nunca 
+-	seras rico.
+-		--  Seneca 
+-%
+-	Minha alma e feita de luz e trevas; nada de brumas.  Ou faz 
+-	bom tempo ou ha temporal; as temperaturas variaveis sao de 
+-	pouca duracao.
+-		-- Victoria Ocampo 
+-%
+-	Nosso coracao tem a idade daquilo que ama.
+-		-- Marcel Prevost 
+-%
+-	O primeiro dos bens, depois da saude, e a paz interior.
+-		-- Francois de La Rochefoucauld 
+-%
+-	O homem superior e impassivel por natureza: pouco se lhe da 
+-	que o elogiem ou censurem - ele nao ouve senao a voz da 
+-	propria consciencia.
+-		-- Napoleao Bonaparte 
+-%
+-	A justica e a vinganca do homem em sociedade, como a 
+-	vinganca e a justica do homem em estado selvagem.
+-		-- Epicuro 
++		--  Mahatma Gandhi
+ %
+-	Amar e encontrar na felicidade de outrem a propria 
+-	felicidade.
+-		-- Gottfried Leibnitz 
+-%
+-	Todos nos nascemos originais e morremos copias.
+-		-- Carl J. Jung 
+-%
+-	Nao ha melhor fragata que um livro para nos levar a terras 
+-	distantes.
+-		--  Emily Dickinson 
++	As esplêndidas fortunas - como os ventos impetuosos -
++	provocam grandes naufrágios.
++		-- Plutarco
+ %
+-	Solidao: instante de plenitude!
+-		-- Michel de Montaigne 
++	A justiça é a vingança do homem em sociedade, como a
++	vingança é a justiça do homem em estado selvagem.
++		-- Epicuro
+ %
+-	O muito torna-se pouco com desejar um pouco mais.
+-		-- Francisco de Quevedo 
+-%
+-	O cao nao ladra por valentia e sim por medo.
+-		-- Proverbio Chines 
++	A beleza é uma carta de recomendação a curto prazo.
++		-- Ninon de Lenclos
+ %
+-	A beleza e uma carta de recomendacao a curto prazo.
+-		-- Ninon de Lenclos 
++	A preocupação deveria levar-nos a ação e não a depressão.
++		-- Karen Horney
+ %
+-	A preocupacao deveria levar-nos a acao e nao a depressao.
+-		-- Karen Horney 
+-%
+-	Deve-se temer a velhice, porque ela nunca vem so.  Bengalas 
+-	sao provas de idade e nao de prudencia.
++	Deve-se temer a velhice, porque ela nunca vem só. Bengalas
++	são provas de idade e não de prudência.
+ 		-- Platao
+ %
+-	Ainda nao vi ninguem que ame a virtude tanto quanto ama a 
++	Ainda não vi ninguém que ame a virtude tanto quanto ama a
+ 	beleza do corpo.
+-		-- Confuncio 
+-%
+-	Os males de que padece o ser humano, em seu maior numero, 
+-	vem dele mesmo.
+-		-- Plinio 
+-%
+-	Nada e tao nocivo para os povos do que darem-se por 
+-	satisfeitos com meras palavras e aparencias.
+-		-- Francois Guizot 
++		-- Confuncio
+ %
+-	Nada e superfluo na natureza.
+-		-- Averrois 
+-%
+-	A vida nao consiste em ter boas cartas na mao e sim em jogar 
++	A vida não consiste em ter boas cartas na mão e sim em jogar
+ 	bem as que se tem.
+-		-- Josh Billings 
+-%
+-	O sonho e a esperanca sao dois calmantes que a natureza 
+-	concede ao ser humano.
+-		-- Frederico I 
+-%
+-	Vou ficando um pouco mais modesto, mas tambem um pouco mais 
+-	orgulhoso de minha modestia.
+-		-- Jules Renard 
+-%
+-	Que bom que nao me deixo influenciar!
+-		-- Ludwig Wittgenstein 
+-%
+-	Educai as criancas, para que nao seja necessario punir os 
+-	adultos.
+-		-- Pitagoras 
++		-- Josh Billings
+ %
+-	As ideias geniais sao aquelas que nos espantamos de nao ter 
++	As idéias geniais são aquelas que nos espantamos de não ter
+ 	tido antes.
+-		-- Noel Claraso 
+-%
+-	O insulto e a razao de quem nao tem razao.
+-		--  Francisco de Quevedo 
+-%
+-	Todos somos iguais perante a lei, mas nao perante os 
+-	encarregados de faze-las cumprir.
+-		-- S. Jerzy Lec 
+-%
+-	Nunca deixo de ter em mente que o simples fato de existir ja 
+-	e divertido.
+-		--  Katherine Hepburn 
+-%
+-	A primeira lei da natureza e a tolerancia - ja que temos 
+-	todos uma porcao de erros e fraquezas.
+-		-- Voltaire 
+-%
+-	Amar nao e aceitar tudo.  Alias: onde tudo e aceito, 
+-	desconfio que ha falta de amor.
+-		-- Vladimir Maiakovski 
+-%
+-	Esperar? O que? Esta tudo em ti.
+-		-- Enrique Agilda 
+-%
+-	As palavras verdadeiras nao sao agradaveis e as agradaveis 
+-	nao sao verdadeiras.
+-		-- Lao-Tse 
+-%
+-	Muita luz e como muita sombra: nao deixa ver.
+-		-- Carlos Casteneda 
+-%
+-	A gente todos os dias arruma os cabelos: por que nao o 
+-	coracao?
+-		-- Proverbio Chines 
+-%
+-	A forca nao provem da capacidade fisica e sim de uma vontade 
+-	indomavel.
+-		-- Mahatma Gandhi 
+-%
+-	O oposto do amor nao e o odio e sim, a indiferenca.
+-		--  Erico Verissimo 
+-%
+-	A lingua resiste porque e mole; os dentes cedem porque sao 
+-	duros.
+-		-- Proverbio Chines 
+-%
+-	Nossos pensamentos mais importantes sao os que contradizem 
+-	nossos sentimentos.
+-		--  Paul Valery 
+-%
+-	O relogio nao conta nas horas felizes.
+-		-- Vyasa 
+-%
+-	Um momento de paciencia pode evitar um desastre. Um momento 
+-	de impaciencia pode arruinar toda uma vida.
+-		-- Proverbio Chines 
+-%
+-	O coracao e o relogio da vida. Quem nao o consulta, anda 
+-	naturalmente fora do tempo.
+-		-- Machado de Assis 
+-%
+-	Viver e a coisa mais rara do mundo. A maioria das pessoas 
+-	apenas existe.
+-		-- Oscar Wilde 
+-%
+-	Nem sempre podemos construir o futuro para nossa juventude, 
+-	mas podemos construir nossa juventude para o 
+-	futuro.
+-		-- Franklin Roosevelt
++		-- Noel Claraso
+ %
+-	A ausencia diminui as paixoes mediocres e aumenta as 
+-	grandes, assim como o vento apaga as velas, mas atica as 
+-	fogueiras.
+-		-- 
+-%
+-	A infelicidade tem isto de bom: faz-nos conhecer os 
+-	verdadeiros amigos.
+-		-- Honore de Balzac 
++	A gente todos os dias arruma os cabelos: por que não o
++	coração?
++		-- Proverbio Chinês
++%
++	Aprendi através da experiência amarga a suprema lição:
++	controlar minha ira é torná-la como o calor que é convertido
++	em energia.  Nossa ira controlada pode ser convertida numa
++	força capaz de mover o mundo.
++		-- Mahatma Gandhi
+ %
+-	Aprendi atraves da experiencia amarga a suprema licao: 
+-	controlar minha ira e torna-la como o calor que e convertido 
+-	em energia.  Nossa ira controlada pode ser convertida numa 
+-	forca capaz de mover o mundo.
+-		-- Mahatma Gandhi 
+-%
+-	A vida e uma pedra de amolar: desgasta-nos ou afia-nos, 
+-	conforme o metal de somos feitos.
+-		-- George Bernard Shaw 
++	A vida é uma pedra de amolar: desgasta-nos ou afia-nos,
++	conforme o metal de que somos feitos.
++		-- George Bernard Shaw
+ %
+-	Nao existe verdadeira inteligencia sem bondade.
+-		-- Ludwig van Beethoven 
++	Não existe verdadeira inteligência sem bondade.
++		-- Ludwig van Beethoven
+ %
+-	O amor e o desejo sao as asas do espirito das grandes 
++	O amor e o desejo são as asas do espirito das grandes
+ 	facanhas.
+-		-- Johann Wolfgang von Goethe 
++		-- Johann Wolfgang von Goethe
+ %
+-	Ha tres coisas na vida que nunca voltam atras: a flecha 
+-	lancada, a palavra pronunciada e a oportunidade 
++	Ha três coisas na vida que nunca voltam atras: a flecha
++	lancada, a palavra pronunciada e a oportunidade
+ 	perdida.
+-		-- Proverbio Chines 
++		-- Proverbio Chinês
+ %
+-	Coitado do ser humano em quem nao ficou nada da crianca.
+-		-- Anton Graff 
++	Coitado do ser humano em quem não ficou nada da criança.
++		-- Anton Graff
+ %
+-	A vitoria tem mil pais e a derrota e orfa.
+-		-- Napoleao Bonaparte 
++	A vitória tem mil pais e a derrota e orfa.
++		-- Napoleao Bonaparte
+ %
+-	A alegria esta na luta, na tentativa, no sofrimento 
+-	envolvido.  Nao na vitoria propriamente dita.
+-		--  Mahatma Gandhi 
++	A alegria está na luta, na tentativa, no sofrimento
++	envolvido. Não na vitória propriamente dita.
++		--  Mahatma Gandhi
+ %
+-	Toma conselhos com o vinho, mas toma decisoes com a agua.
+-		-- Benjamim Franklin 
+-%
+-	O amor e a forca mais sutil do mundo.
+-		--  Mahatma Gandhi 
++	Toma conselhos com o vinho, mas toma decisões com a água.
++		-- Benjamim Franklin
+ %
+-	Para uma boa fome nao existe pao duro.
+-		-- Refrao Espanhol 
++	O amor é a forca mais sutil do mundo.
++		--  Mahatma Gandhi
+ %
+-	A miseria da condicao humana e tal que a dor e seu 
+-	sentimento mais vivo.
+-		-- Jean Lerond DAlembert 
++	Para uma boa fome não existe pão duro.
++		-- Refrao Espanhol
+ %
+-	O universo nao foi feito a medida do ser humano, mas 
++	O universo não foi feito a medida do ser humano, mas
+ 	tampouco lhe e adverso: e-lhe indiferente.
+-		-- Carl Sagan 
++		-- Carl Sagan
+ %
+-	Um mentiroso e sempre prodigo em juramentos.
+-		-- Pierre Corneille 
++	Um mentiroso é sempre prodigo em juramentos.
++		-- Pierre Corneille
+ %
+-	Um homem nao pode fazer o certo numa area da vida, enquanto 
+-	esta ocupado em fazer o errado em outra.  A vida e um todo 
++	Um homem não pode fazer o certo numa area da vida, enquanto
++	esta ocupado em fazer o errado em outra.  A vida é um todo
+ 	indivisivel.
+-		--  Mahatma Gandhi 
++		--  Mahatma Gandhi
+ %
+-	O homem vale tanto quanto o valor que da a si proprio.
+-		-- Francois Rabelais 
++	O homem vale tanto quanto o valor que dá a si próprio.
++		-- Francois Rabelais
+ %
+-	A palavra e prata, o silencio e ouro.
+-		-- Proverbio Chines 
++	A palavra é prata, o silencio é ouro.
++		-- Proverbio Chinês
+ %
+-	A violencia destroi o que ela pretende defender: a dignidade 
++	A violência destrói o que ela pretende defender: a dignidade
+ 	da vida, a liberdade do ser humano.
+-		--  Joao Paulo II
+-%
+-	As religioes sao caminhos diferentes convergindo para o 
+-	mesmo ponto.  Que importancia faz se seguimos por caminhos 
+-	diferentes, desde que alcancemos o mesmo 
+-	objetivo?
+-		--  Mahatma Gandhi 
++		--  João Paulo II
+ %
+-	Mais que as ideias, sao os interesses que separam as 
++	Mais que as idéias, são os interesses que separam as
+ 	pessoas.
+-		-- Alexis de Tocqueville 
++		-- Alexis de Tocqueville
+ %
+-	Os principios mais importantes podem e devem ser 
+-	inflexiveis.
+-		-- Abraham Lincoln 
++	Os princépios mais importantes podem e devem ser
++	inflexíveis.
++		-- Abraham Lincoln
+ %
+-	A leitura de um bom livro e um dialogo incessante: o livro 
++	A leitura de um bom livro é um dialogo incessante: o livro
+ 	fala e a alma responde.
+-		-- Andre Maurois 
++		-- Andre Maurois
+ %
+-	As esplendidas fortunas - como os ventos impetuosos - 
+-	provocam grandes naufragios.
+-		-- Plutarco 
+-%
+-	Sei que vez por outra incorremos em erros; mas comecarmos a 
++	Sei que vez por outra incorremos em erros; mas começarmos a
+ 	nos dar conta disso nos torna menos imperfeitos.
+ 		-- Juan Domingo Peron
+ %
+-	Se vives de acordo com as leis da natureza, nunca seras 
+-	pobre; se vives de acordo com as opinioes alheias, nunca 
++	Se vives de acordo com as leis da natureza, nunca seras
++	pobre; se vives de acordo com as opinioes alheias, nunca
+ 	seras rico.
+-		--  Seneca 
++		--  Seneca
+ %
+-	Minha alma e feita de luz e trevas; nada de brumas.  Ou faz 
+-	bom tempo ou ha temporal; as temperaturas variaveis sao de 
+-	pouca duracao.
+-		-- Victoria Ocampo 
++	Minha alma e feita de luz e trevas; nada de brumas.  Ou faz
++	bom tempo ou há temporal; as temperaturas variaveis são de
++	pouca duração.
++		-- Victoria Ocampo
+ %
+-	Nosso coracao tem a idade daquilo que ama.
+-		-- Marcel Prevost 
++	Nosso coração tem a idade daquilo que ama.
++		-- Marcel Prevost
+ %
+ 	O primeiro dos bens, depois da saude, e a paz interior.
+-		-- Francois de La Rochefoucauld 
++		-- Francois de La Rochefoucauld
+ %
+-	O homem superior e impassivel por natureza: pouco se lhe da 
+-	que o elogiem ou censurem - ele nao ouve senao a voz da 
+-	propria consciencia.
+-		-- Napoleao Bonaparte 
+-%
+-	A justica e a vinganca do homem em sociedade, como a 
+-	vinganca e a justica do homem em estado selvagem.
+-		-- Epicuro 
++	O homem superior é impassivel por natureza: pouco se lhe da
++	que o elogiem ou censurem - ele não ouve senão a voz da
++	própria consciência.
++		-- Napoleao Bonaparte
+ %
+-	Amar e encontrar na felicidade de outrem a propria 
++	Amar é encontrar na felicidade de outrem a própria
+ 	felicidade.
+-		-- Gottfried Leibnitz 
++		-- Gottfried Leibnitz
+ %
+-	Todos nos nascemos originais e morremos copias.
+-		-- Carl J. Jung 
++	Todos nós nascemos originais e morremos copias.
++		-- Carl J. Jung
+ %
+-	Nao ha melhor fragata que um livro para nos levar a terras 
++	Não há melhor fragata que um livro para nos levar a terras
+ 	distantes.
+-		--  Emily Dickinson 
++		--  Emily Dickinson
+ %
+-	Solidao: instante de plenitude!
+-		-- Michel de Montaigne 
++	Solidão: instante de plenitude!
++		-- Michel de Montaigne
+ %
+ 	O muito torna-se pouco com desejar um pouco mais.
+-		-- Francisco de Quevedo 
+-%
+-	O cao nao ladra por valentia e sim por medo.
+-		-- Proverbio Chines 
+-%
+-	A beleza e uma carta de recomendacao a curto prazo.
+-		-- Ninon de Lenclos 
+-%
+-	A preocupacao deveria levar-nos a acao e nao a depressao.
+-		-- Karen Horney 
++		-- Francisco de Quevedo
+ %
+-	Deve-se temer a velhice, porque ela nunca vem so.  Bengalas 
+-	sao provas de idade e nao de prudencia.
+-		-- Platao
+-%
+-	Ainda nao vi ninguem que ame a virtude tanto quanto ama a 
+-	beleza do corpo.
+-		-- Confuncio 
++	O cão não ladra por valentia e sim por medo.
++		-- Proverbio Chinês
+ %
+-	Os males de que padece o ser humano, em seu maior numero, 
++	Os males de que padece o ser humano, em seu maior numero,
+ 	vem dele mesmo.
+-		-- Plinio 
+-%
+-	Nada e tao nocivo para os povos do que darem-se por 
+-	satisfeitos com meras palavras e aparencias.
+-		-- Francois Guizot 
++		-- Plinio
+ %
+-	Nada e superfluo na natureza.
+-		-- Averrois 
++	Nada é tão nocivo para os povos do que darem-se por
++	satisfeitos com meras palavras e aparências.
++		-- Francois Guizot
+ %
+-	A vida nao consiste em ter boas cartas na mao e sim em jogar 
+-	bem as que se tem.
+-		-- Josh Billings 
++	Nada é supérfluo na natureza.
++		-- Averrois
+ %
+-	O sonho e a esperanca sao dois calmantes que a natureza 
++	O sonho e a esperança são dois calmantes que a natureza
+ 	concede ao ser humano.
+-		-- Frederico I 
++		-- Frederico I
+ %
+-	Vou ficando um pouco mais modesto, mas tambem um pouco mais 
++	Vou ficando um pouco mais modesto, mas também um pouco mais
+ 	orgulhoso de minha modestia.
+-		-- Jules Renard 
++		-- Jules Renard
+ %
+-	Que bom que nao me deixo influenciar!
+-		-- Ludwig Wittgenstein 
++	Que bom que não me deixo influenciar!
++		-- Ludwig Wittgenstein
+ %
+-	Educai as criancas, para que nao seja necessario punir os 
++	Educai as crianças, para que não seja necessário punir os
+ 	adultos.
+-		-- Pitagoras 
+-%
+-	As ideias geniais sao aquelas que nos espantamos de nao ter 
+-	tido antes.
+-		-- Noel Claraso 
++		-- Pitagoras
+ %
+-	O insulto e a razao de quem nao tem razao.
+-		--  Francisco de Quevedo 
++	O insulto é a razão de quem não tem razão.
++		--  Francisco de Quevedo
+ %
+-	Todos somos iguais perante a lei, mas nao perante os 
+-	encarregados de faze-las cumprir.
+-		-- S. Jerzy Lec 
++	Todos somos iguais perante a lei, mas não perante os
++	encarregados de fazê-las cumprir.
++		-- S. Jerzy Lec
+ %
+-	Nunca deixo de ter em mente que o simples fato de existir ja 
+-	e divertido.
+-		--  Katherine Hepburn 
++	Nunca deixo de ter em mente que o simples fato de existir já
++	é divertido.
++		--  Katherine Hepburn
+ %
+-	A primeira lei da natureza e a tolerancia - ja que temos 
++	A primeira lei da natureza é a tolerancia - já que temos
+ 	todos uma porcao de erros e fraquezas.
+-		-- Voltaire 
+-%
+-	Amar nao e aceitar tudo.  Alias: onde tudo e aceito, 
+-	desconfio que ha falta de amor.
+-		-- Vladimir Maiakovski 
++		-- Voltaire
+ %
+-	Esperar? O que? Esta tudo em ti.
+-		-- Enrique Agilda 
++	Amar não e aceitar tudo. Aliás: onde tudo e aceito,
++	desconfio que há falta de amor.
++		-- Vladimir Maiakovski
+ %
+-	As palavras verdadeiras nao sao agradaveis e as agradaveis 
+-	nao sao verdadeiras.
+-		-- Lao-Tse 
++	Esperar? O que? Está tudo em ti.
++		-- Enrique Agilda
+ %
+-	Muita luz e como muita sombra: nao deixa ver.
+-		-- Carlos Casteneda 
++	As palavras verdadeiras não são agradáveis e as agradáveis
++	nao são verdadeiras.
++		-- Lao-Tse
+ %
+-	A gente todos os dias arruma os cabelos: por que nao o 
+-	coracao?
+-		-- Proverbio Chines 
++	Muita luz é como muita sombra: não deixa ver.
++		-- Carlos Casteneda
+ %
+-	A forca nao provem da capacidade fisica e sim de uma vontade 
+-	indomavel.
+-		-- Mahatma Gandhi 
++	A força não provem da capacidade fisica e sim de uma vontade
++	indomável.
++		-- Mahatma Gandhi
+ %
+-	O oposto do amor nao e o odio e sim, a indiferenca.
+-		--  Erico Verissimo 
++	O oposto do amor não e o ódio e sim, a indiferença.
++		--  Erico Verissimo
+ %
+-	A lingua resiste porque e mole; os dentes cedem porque sao 
++	A língua resiste porque é mole; os dentes cedem porque são
+ 	duros.
+-		-- Proverbio Chines 
++		-- Proverbio Chinês
+ %
+-	Nossos pensamentos mais importantes sao os que contradizem 
++	Nossos pensamentos mais importantes são os que contradizem
+ 	nossos sentimentos.
+-		--  Paul Valery 
++		--  Paul Valery
+ %
+-	O relogio nao conta nas horas felizes.
+-		-- Vyasa 
++	O relógio não conta nas horas felizes.
++		-- Vyasa
+ %
+-	Um momento de paciencia pode evitar um desastre. Um momento 
+-	de impaciencia pode arruinar toda uma vida.
+-		-- Proverbio Chines 
++	Um momento de paciência pode evitar um desastre. Um momento
++	de impaciência pode arruinar toda uma vida.
++		-- Proverbio Chinês
+ %
+-	O coracao e o relogio da vida. Quem nao o consulta, anda 
++	O coração é o relógio da vida. Quem não o consulta, anda
+ 	naturalmente fora do tempo.
+-		-- Machado de Assis 
++		-- Machado de Assis
+ %
+-	Viver e a coisa mais rara do mundo. A maioria das pessoas 
++	Viver é a coisa mais rara do mundo. A maioria das pessoas
+ 	apenas existe.
+-		-- Oscar Wilde 
++		-- Oscar Wilde
+ %
+-	Nem sempre podemos construir o futuro para nossa juventude, 
+-	mas podemos construir nossa juventude para o 
++	Nem sempre podemos construir o futuro para nossa juventude,
++	mas podemos construir nossa juventude para o
+ 	futuro.
+ 		-- Franklin Roosevelt
+ %
+@@ -5910,7 +5587,7 @@
+ A Marta é sexologa. Mas quem fez sacanagem com São Paulo foi ele, o Maluf.
+ %
+ "Dinheiro é muito bom, mesmo quando é ruim"
+-                                          Titãs    
++                                          Titãs
+ %
+ "Agora já posso morrer em paz
+  eu tenho um milhão de contas a pagar
+@@ -5928,8 +5605,6 @@
+ %
+ Mais vale duas abelhas africanas voando do que uma na mão
+ %
+-Mais vale duas abelhas africanas voando do que uma na mão
+-%
+ O senhor é meu pastor, e fica latindo toda noite no quintal.
+ %
+ A bigorna dura mais que o martelo.
+@@ -10357,7 +10032,7 @@
+ --Provérbio Chinês
+ %
+ 
+-Entre todas as pessoas que ja conheci com toda certeza você é uma delas.
++Entre todas as pessoas que já conheci com toda certeza você é uma delas.
+ 
+ --Anônimo
+ %
+@@ -10401,17 +10076,13 @@
+ 
+ --Anônimo
+ %
+-Quem ri por ultimo, ri atrasado.
++Quem ri por último, ri atrasado.
+ %
+-Não leve a vida tão a sério afinal você não vai sair vivo dela.,
+-
++Não leve a vida tão a sério afinal você não vai sair vivo dela.
+ %
+ 'A pessoa verdadeiramente culta não se envergonha de colher informações mesmo junto aos menos instruidos do que ela."
+-   
+-Proverbio Chinês
+-
+-
+ 
++Proverbio Chinês
+ %
+ Saudades, não quer dizer que estamos distantes, mas sim, que um dia estivemos bem perto.
+ 
